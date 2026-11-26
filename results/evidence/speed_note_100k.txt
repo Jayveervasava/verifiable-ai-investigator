@@ -1,0 +1,3 @@
+Speed note: 100,000 records (35.1 MB of logs) -> ingest 1.75 s + correlate 1.5 s = 3.25 s (best of 3), about 30,769 records/second, 34 findings.
+Machine: Python 3.12.3, 1 CPUs, Linux-6.18.44-fc-v880-x86_64-with-glibc2.39.
+Single process, pure Python, no pre-built index. Numbers differ on other computers.

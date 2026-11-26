@@ -1,0 +1,33 @@
+{
+  "records": 100000,
+  "input_size_mb": 35.1,
+  "findings": 34,
+  "runs": [
+    {
+      "ingest_s": 1.75,
+      "correlate_s": 1.5,
+      "total_s": 3.25
+    },
+    {
+      "ingest_s": 1.886,
+      "correlate_s": 1.49,
+      "total_s": 3.375
+    },
+    {
+      "ingest_s": 1.835,
+      "correlate_s": 1.604,
+      "total_s": 3.439
+    }
+  ],
+  "best": {
+    "ingest_s": 1.75,
+    "correlate_s": 1.5,
+    "total_s": 3.25
+  },
+  "records_per_second": 30769,
+  "machine": {
+    "python": "3.12.3",
+    "platform": "Linux-6.18.44-fc-v880-x86_64-with-glibc2.39",
+    "cpus": 1
+  }
+}

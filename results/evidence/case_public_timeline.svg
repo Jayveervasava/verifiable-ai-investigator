@@ -1,0 +1,47 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='546' font-family='sans-serif' font-size='12'>
+<rect width='1000' height='546' fill='white'/><text x='10' y='22' font-size='15' font-weight='bold'>case_public: attack timeline (medium+ findings)</text>
+<text x='10' y='42' fill='#555'>2026-05-20 20:00:00Z  to  21:06:00Z   (colour = confidence: red high, orange medium, grey low)</text>
+<line x1='330' y1='55' x2='980' y2='55' stroke='#999'/>
+<text x='10' y='93'>T1003.001  [high]  OS Credential Dumping</text>
+<line x1='330' y1='89' x2='980' y2='89' stroke='#eee'/>
+<circle cx='330.0' cy='89' r='7' fill='#c0392b'><title>F-0001 2 events</title></circle>
+<text x='10' y='127'>T1569.002  [high]  System Services</text>
+<line x1='330' y1='123' x2='980' y2='123' stroke='#eee'/>
+<circle cx='359.5' cy='123' r='7' fill='#c0392b'><title>F-0003 1 events</title></circle>
+<text x='10' y='161'>T1543.003  [high]  Create/Modify System Process</text>
+<line x1='330' y1='157' x2='980' y2='157' stroke='#eee'/>
+<circle cx='359.5' cy='157' r='7' fill='#c0392b'><title>F-0002 1 events</title></circle>
+<text x='10' y='195'>T1021.002  [medium]  Remote Services</text>
+<line x1='330' y1='191' x2='980' y2='191' stroke='#eee'/>
+<circle cx='359.7' cy='191' r='7' fill='#e67e22'><title>F-0004 1 events</title></circle>
+<text x='10' y='229'>T1053.005  [medium]  Scheduled Task/Job</text>
+<line x1='330' y1='225' x2='980' y2='225' stroke='#eee'/>
+<circle cx='389.1' cy='225' r='7' fill='#e67e22'><title>F-0005 1 events</title></circle>
+<text x='10' y='263'>T1136.001  [medium]  Create Account</text>
+<line x1='330' y1='259' x2='980' y2='259' stroke='#eee'/>
+<circle cx='408.8' cy='259' r='7' fill='#e67e22'><title>F-0006 1 events</title></circle>
+<text x='10' y='297'>T1098  [medium]  Account Manipulation (added to privilege</text>
+<line x1='330' y1='293' x2='980' y2='293' stroke='#eee'/>
+<circle cx='409.4' cy='293' r='7' fill='#e67e22'><title>F-0007 1 events</title></circle>
+<text x='10' y='331'>T1059.001  [medium]  Command and Scripting Interpreter</text>
+<line x1='330' y1='327' x2='980' y2='327' stroke='#eee'/>
+<circle cx='428.5' cy='327' r='7' fill='#e67e22'><title>F-0008 1 events</title></circle>
+<text x='10' y='365'>T1490  [high]  Inhibit System Recovery</text>
+<line x1='330' y1='361' x2='980' y2='361' stroke='#eee'/>
+<circle cx='448.2' cy='361' r='7' fill='#c0392b'><title>F-0009 1 events</title></circle>
+<text x='10' y='399'>T1070.001  [high]  Indicator Removal</text>
+<line x1='330' y1='395' x2='980' y2='395' stroke='#eee'/>
+<circle cx='477.7' cy='395' r='7' fill='#c0392b'><title>F-0011 1 events</title></circle>
+<text x='10' y='433'>T1136.003  [medium]  Create Account</text>
+<line x1='330' y1='429' x2='980' y2='429' stroke='#eee'/>
+<circle cx='940.6' cy='429' r='7' fill='#e67e22'><title>F-0013 1 events</title></circle>
+<text x='10' y='467'>T1098.003  [medium]  Account Manipulation</text>
+<line x1='330' y1='463' x2='980' y2='463' stroke='#eee'/>
+<circle cx='950.5' cy='463' r='7' fill='#e67e22'><title>F-0014 1 events</title></circle>
+<text x='10' y='501'>T1098.001  [medium]  Account Manipulation</text>
+<line x1='330' y1='497' x2='980' y2='497' stroke='#eee'/>
+<circle cx='960.3' cy='497' r='7' fill='#e67e22'><title>F-0015 1 events</title></circle>
+<text x='10' y='535'>T1562.008  [high]  Impair Defenses</text>
+<line x1='330' y1='531' x2='980' y2='531' stroke='#eee'/>
+<circle cx='980.0' cy='531' r='7' fill='#c0392b'><title>F-0016 1 events</title></circle>
+</svg>

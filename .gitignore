@@ -11,3 +11,4 @@ venv/
 *.log
 results/tmp/
 results/integration_last.json
+!data/sample/**/*.log

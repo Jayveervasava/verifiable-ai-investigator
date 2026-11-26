@@ -1,0 +1,179 @@
+{
+  "case": "FIR-1427/2027 (synthetic)",
+  "attacker_ip": "45.77.12.9",
+  "user": "r.mehta",
+  "records": [
+    {
+      "source": "windows",
+      "raw_ref": "windows_security.jsonl#line=5745",
+      "tag": "T1078"
+    },
+    {
+      "source": "windows",
+      "raw_ref": "windows_security.jsonl#line=5746",
+      "tag": "context"
+    },
+    {
+      "source": "windows",
+      "raw_ref": "windows_security.jsonl#line=5748",
+      "tag": "context"
+    },
+    {
+      "source": "windows",
+      "raw_ref": "windows_security.jsonl#line=5749",
+      "tag": "context"
+    },
+    {
+      "source": "windows",
+      "raw_ref": "windows_security.jsonl#line=5750",
+      "tag": "context"
+    },
+    {
+      "source": "linux",
+      "raw_ref": "auth_db-server-02.log#line=1455",
+      "tag": "T1021"
+    },
+    {
+      "source": "linux",
+      "raw_ref": "auth_db-server-02.log#line=1456",
+      "tag": "context"
+    },
+    {
+      "source": "linux",
+      "raw_ref": "auth_db-server-02.log#line=1457",
+      "tag": "T1021"
+    },
+    {
+      "source": "linux",
+      "raw_ref": "auth_db-server-02.log#line=1458",
+      "tag": "T1021"
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail.json#index=4300",
+      "tag": "context"
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail.json#index=4301",
+      "tag": "context"
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail.json#index=4303",
+      "tag": "context"
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail.json#index=4306",
+      "tag": "T1530"
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail.json#index=4309",
+      "tag": "T1530"
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail.json#index=4311",
+      "tag": "T1530"
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail.json#index=4312",
+      "tag": "T1530"
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail.json#index=4313",
+      "tag": "T1530"
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail.json#index=4315",
+      "tag": "T1530"
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail.json#index=4317",
+      "tag": "T1530"
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail.json#index=4318",
+      "tag": "T1530"
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail.json#index=4319",
+      "tag": "T1530"
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail.json#index=4320",
+      "tag": "T1530"
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail.json#index=4322",
+      "tag": "T1530"
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail.json#index=4323",
+      "tag": "T1530"
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail.json#index=4325",
+      "tag": "T1530"
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail.json#index=4326",
+      "tag": "T1530"
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail.json#index=4328",
+      "tag": "T1530"
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail.json#index=4329",
+      "tag": "T1530"
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail.json#index=4331",
+      "tag": "T1530"
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail.json#index=4332",
+      "tag": "T1530"
+    }
+  ],
+  "decoys": [
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail.json#index=1935",
+      "tag": "decoy_T1078"
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail.json#index=1936",
+      "tag": "decoy_T1530"
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail.json#index=1937",
+      "tag": "decoy_T1530"
+    }
+  ],
+  "expected_high": [
+    "T1078",
+    "T1021",
+    "T1530"
+  ]
+}

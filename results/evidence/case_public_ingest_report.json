@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "path": "data/sample/case_public/cloudtrail_stratus_style.json",
+      "name": "cloudtrail_stratus_style.json",
+      "bytes": 42804,
+      "sha256": "f2a44dac708ac9d447117c422475e9c7fea2d41c5ebe4a4f051be2fdd76a4a58",
+      "kind": "aws",
+      "events": 105,
+      "unclassified": 0,
+      "errors": 0,
+      "error_samples": []
+    },
+    {
+      "path": "data/sample/case_public/windows_attack_samples_style.jsonl",
+      "name": "windows_attack_samples_style.jsonl",
+      "bytes": 105102,
+      "sha256": "059602d0c7e03fedf643e9aa28c73d5d3e1aa9068ae3ee1928cd1f3bdf28d6d3",
+      "kind": "windows_json",
+      "events": 251,
+      "unclassified": 0,
+      "errors": 0,
+      "error_samples": []
+    }
+  ],
+  "total_events": 356,
+  "total_errors": 0,
+  "total_unclassified": 0
+}

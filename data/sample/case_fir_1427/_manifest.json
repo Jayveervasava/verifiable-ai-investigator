@@ -1,0 +1,14 @@
+{
+  "generator": "vai.evidence.tools.generate_case1",
+  "seed": 1427,
+  "requested_records": 15000,
+  "records": {
+    "windows": 5976,
+    "linux": 4539,
+    "aws": 4485,
+    "total": 15000
+  },
+  "history_days": 7,
+  "attack_start_utc": "2027-03-14T15:42:07+00:00",
+  "synthetic": true
+}

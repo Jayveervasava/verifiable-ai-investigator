@@ -1,0 +1,62 @@
+{
+  "files": [
+    {
+      "path": "data/sample/case_fir_1427/auth_db-server-01.log",
+      "name": "auth_db-server-01.log",
+      "bytes": 187520,
+      "sha256": "7f507a77e55ef1633954db5491bb4ecaddfd5bf39e6b50434f025ddedc5edc56",
+      "kind": "linux",
+      "events": 1475,
+      "unclassified": 136,
+      "errors": 0,
+      "error_samples": []
+    },
+    {
+      "path": "data/sample/case_fir_1427/auth_db-server-02.log",
+      "name": "auth_db-server-02.log",
+      "bytes": 194665,
+      "sha256": "0b15532c76c389b0daa18374736d247c486ae3b1b896b8e33e63825d06f6fe87",
+      "kind": "linux",
+      "events": 1523,
+      "unclassified": 141,
+      "errors": 0,
+      "error_samples": []
+    },
+    {
+      "path": "data/sample/case_fir_1427/auth_web-01.log",
+      "name": "auth_web-01.log",
+      "bytes": 187554,
+      "sha256": "64145ac9d27526445c9d1cc025c4ffb9063a198434bce463a14cf6b6bf2cc7ba",
+      "kind": "linux",
+      "events": 1541,
+      "unclassified": 133,
+      "errors": 0,
+      "error_samples": []
+    },
+    {
+      "path": "data/sample/case_fir_1427/cloudtrail.json",
+      "name": "cloudtrail.json",
+      "bytes": 2006901,
+      "sha256": "5e8e0299829009da34eb97758eb7286d8fe72dab004d3c5d8bcedb42dbae5e3c",
+      "kind": "aws",
+      "events": 4485,
+      "unclassified": 0,
+      "errors": 0,
+      "error_samples": []
+    },
+    {
+      "path": "data/sample/case_fir_1427/windows_security.jsonl",
+      "name": "windows_security.jsonl",
+      "bytes": 2675379,
+      "sha256": "b5c020888b05d0a62aa9b341cce2924c36b4d7ab74e82e1f7de2b8d5a27134f5",
+      "kind": "windows_json",
+      "events": 5976,
+      "unclassified": 0,
+      "errors": 0,
+      "error_samples": []
+    }
+  ],
+  "total_events": 15000,
+  "total_errors": 0,
+  "total_unclassified": 410
+}

@@ -1,0 +1,1523 @@
+2027-03-08T01:16:03.726000+00:00 db-server-02 CRON[22878]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T02:35:16.506000+00:00 db-server-02 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-08T02:41:42.153000+00:00 db-server-02 CRON[15096]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T04:23:20.540000+00:00 db-server-02 sshd[5274]: Accepted password for a.sharma from 10.20.2.32 port 51542 ssh2
+2027-03-08T04:42:42.128000+00:00 db-server-02 sshd[6363]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-08T04:45:57.389000+00:00 db-server-02 sshd[23383]: Failed password for ubuntu from 192.0.2.103 port 53428 ssh2
+2027-03-08T05:02:41.321000+00:00 db-server-02 sshd[36207]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-08T05:10:06.061000+00:00 db-server-02 CRON[7837]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T05:53:48.144000+00:00 db-server-02 sshd[32929]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-08T06:20:29.654000+00:00 db-server-02 CRON[6747]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T06:24:23.799000+00:00 db-server-02 sshd[24883]: Accepted publickey for k.iyer from 198.51.100.51 port 53498 ssh2
+2027-03-08T06:50:44.727000+00:00 db-server-02 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-08T07:00:30.558000+00:00 db-server-02 sshd[32677]: Disconnected from user p.desai 198.51.100.50 port 37669
+2027-03-08T07:02:35.643000+00:00 db-server-02 CRON[4950]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T07:10:38.869000+00:00 db-server-02 CRON[5489]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T07:28:33.707000+00:00 db-server-02 CRON[29312]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T07:55:59.344000+00:00 db-server-02 sshd[37353]: Accepted publickey for n.reddy from 10.20.1.166 port 39625 ssh2
+2027-03-08T07:56:20.254000+00:00 db-server-02 sshd[32413]: Accepted publickey for r.mehta from 10.20.4.186 port 37176 ssh2
+2027-03-08T08:11:15.880000+00:00 db-server-02 sshd[9709]: Failed password for root from 192.0.2.102 port 37636 ssh2
+2027-03-08T08:13:32.975000+00:00 db-server-02 sshd[32397]: Accepted publickey for k.iyer from 198.51.100.51 port 32586 ssh2
+2027-03-08T08:17:08.494000+00:00 db-server-02 sshd[33366]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-08T08:19:23.600000+00:00 db-server-02 sshd[26696]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-08T08:20:07.890000+00:00 db-server-02 CRON[8723]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T08:20:26.731000+00:00 db-server-02 sshd[9804]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-08T08:23:34.260000+00:00 db-server-02 sshd[6678]: Accepted publickey for h.verma from 10.20.3.223 port 57503 ssh2
+2027-03-08T08:29:51.851000+00:00 db-server-02 sshd[14176]: Failed password for oracle from 192.0.2.103 port 30654 ssh2
+2027-03-08T08:39:05.729000+00:00 db-server-02 CRON[34854]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T08:45:00.166000+00:00 db-server-02 sshd[4398]: Accepted publickey for j.thomas from 10.20.1.227 port 40439 ssh2
+2027-03-08T08:45:11.067000+00:00 db-server-02 sudo: d.joshi : TTY=pts/0 ; PWD=/home/d.joshi ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-08T08:46:21.434000+00:00 db-server-02 CRON[34429]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T09:05:44.759000+00:00 db-server-02 sshd[16787]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-08T09:06:30.293000+00:00 db-server-02 sshd[5535]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-08T09:07:47.567000+00:00 db-server-02 CRON[7027]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T09:07:59.898000+00:00 db-server-02 CRON[15680]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T09:21:57.882000+00:00 db-server-02 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-08T09:25:09.365000+00:00 db-server-02 sshd[16652]: Accepted publickey for v.patel from 10.20.2.158 port 30302 ssh2
+2027-03-08T09:26:58.558000+00:00 db-server-02 sshd[25382]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-08T09:31:43.059000+00:00 db-server-02 sshd[10053]: Accepted password for s.nair from 10.20.3.142 port 39204 ssh2
+2027-03-08T09:39:09.095000+00:00 db-server-02 CRON[3363]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T09:39:22.388000+00:00 db-server-02 sshd[3366]: Failed password for root from 192.0.2.101 port 51882 ssh2
+2027-03-08T09:42:34.201000+00:00 db-server-02 sshd[12728]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-08T09:49:35.311000+00:00 db-server-02 CRON[34981]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T09:51:03.213000+00:00 db-server-02 sshd[7123]: Failed password for admin from 192.0.2.101 port 59867 ssh2
+2027-03-08T09:52:14.634000+00:00 db-server-02 sshd[34035]: Failed password for admin from 192.0.2.101 port 51586 ssh2
+2027-03-08T09:52:48.489000+00:00 db-server-02 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-08T09:52:54.646000+00:00 db-server-02 sshd[36871]: Accepted password for m.khan from 10.20.1.137 port 46003 ssh2
+2027-03-08T09:59:04.107000+00:00 db-server-02 sshd[14037]: Accepted publickey for t.singh from 10.20.1.133 port 58970 ssh2
+2027-03-08T10:15:19.372000+00:00 db-server-02 sshd[9131]: Failed password for root from 192.0.2.101 port 41891 ssh2
+2027-03-08T10:22:42.256000+00:00 db-server-02 sshd[18842]: Disconnected from user a.sharma 10.20.3.183 port 59491
+2027-03-08T10:23:05.565000+00:00 db-server-02 sshd[12477]: pam_unix(sshd:session): session closed for user s.nair(uid=1001) by (uid=0)
+2027-03-08T10:25:42.803000+00:00 db-server-02 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-08T10:26:27.496000+00:00 db-server-02 sshd[27232]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-08T10:36:44.224000+00:00 db-server-02 sshd[7701]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-08T10:50:12.003000+00:00 db-server-02 sshd[7616]: Accepted publickey for m.khan from 10.20.1.195 port 50848 ssh2
+2027-03-08T10:55:42.227000+00:00 db-server-02 CRON[6198]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T10:58:25.859000+00:00 db-server-02 CRON[16208]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T10:59:39.716000+00:00 db-server-02 CRON[24865]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T11:06:33.691000+00:00 db-server-02 sshd[39155]: Failed password for ubuntu from 192.0.2.102 port 41951 ssh2
+2027-03-08T11:08:49.270000+00:00 db-server-02 sshd[1036]: Failed password for admin from 192.0.2.102 port 42719 ssh2
+2027-03-08T11:16:20.200000+00:00 db-server-02 sshd[7907]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-08T11:19:46.593000+00:00 db-server-02 sshd[12582]: Accepted publickey for a.sharma from 10.20.3.152 port 52796 ssh2
+2027-03-08T11:22:33.640000+00:00 db-server-02 sshd[28117]: Accepted publickey for t.singh from 10.20.1.205 port 34441 ssh2
+2027-03-08T11:25:29.829000+00:00 db-server-02 CRON[23522]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T11:28:51.596000+00:00 db-server-02 sshd[38026]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-08T11:28:58.326000+00:00 db-server-02 sshd[27099]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-08T11:34:00.590000+00:00 db-server-02 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-08T11:34:40.211000+00:00 db-server-02 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-08T11:36:34.503000+00:00 db-server-02 sshd[2342]: Accepted password for j.thomas from 10.20.1.147 port 47124 ssh2
+2027-03-08T11:41:20.022000+00:00 db-server-02 sshd[29675]: Disconnected from user v.patel 10.20.3.184 port 58078
+2027-03-08T11:46:21.564000+00:00 db-server-02 sshd[30597]: Accepted publickey for v.patel from 10.20.2.133 port 39814 ssh2
+2027-03-08T11:48:32.069000+00:00 db-server-02 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-08T11:52:28.199000+00:00 db-server-02 sshd[2567]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-08T11:52:59.102000+00:00 db-server-02 CRON[5370]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T11:58:48.051000+00:00 db-server-02 CRON[18318]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T12:05:34.122000+00:00 db-server-02 sshd[3601]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-08T12:23:03.349000+00:00 db-server-02 sshd[36456]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-08T12:23:07.519000+00:00 db-server-02 sshd[3433]: Accepted publickey for h.verma from 10.20.3.40 port 33382 ssh2
+2027-03-08T12:29:33.903000+00:00 db-server-02 sshd[25934]: Accepted password for t.singh from 10.20.1.52 port 44200 ssh2
+2027-03-08T12:33:22.288000+00:00 db-server-02 sshd[11497]: Failed password for ubuntu from 192.0.2.103 port 39558 ssh2
+2027-03-08T12:39:47.609000+00:00 db-server-02 CRON[4336]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T12:40:57.985000+00:00 db-server-02 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-08T12:42:36.365000+00:00 db-server-02 sshd[10462]: Accepted publickey for k.iyer from 198.51.100.51 port 35700 ssh2
+2027-03-08T12:43:47.894000+00:00 db-server-02 sshd[36762]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-08T12:49:04.373000+00:00 db-server-02 sshd[26194]: Disconnected from user k.iyer 10.20.1.237 port 49500
+2027-03-08T13:02:04.589000+00:00 db-server-02 sshd[5263]: Accepted publickey for r.mehta from 10.20.3.182 port 46654 ssh2
+2027-03-08T13:03:31.628000+00:00 db-server-02 sshd[25729]: Accepted publickey for a.sharma from 10.20.4.227 port 50803 ssh2
+2027-03-08T13:06:16.358000+00:00 db-server-02 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-08T13:10:18.154000+00:00 db-server-02 sshd[15268]: Disconnected from user j.thomas 10.20.2.34 port 41193
+2027-03-08T13:11:49.097000+00:00 db-server-02 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-08T13:19:52.384000+00:00 db-server-02 sshd[12143]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-08T13:25:46.463000+00:00 db-server-02 sshd[28671]: Disconnected from user s.nair 10.20.1.48 port 41689
+2027-03-08T13:34:37.255000+00:00 db-server-02 sshd[12979]: Accepted publickey for d.joshi from 10.20.1.75 port 31544 ssh2
+2027-03-08T13:37:05.078000+00:00 db-server-02 sshd[10871]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-08T13:39:16.067000+00:00 db-server-02 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-08T13:39:23.206000+00:00 db-server-02 CRON[39490]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T13:39:24.620000+00:00 db-server-02 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-08T13:43:40.376000+00:00 db-server-02 sshd[22260]: Disconnected from user n.reddy 10.20.1.87 port 59688
+2027-03-08T13:46:30.647000+00:00 db-server-02 sshd[34257]: Failed password for root from 192.0.2.103 port 54407 ssh2
+2027-03-08T13:52:58.123000+00:00 db-server-02 sshd[11458]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-08T13:54:28.125000+00:00 db-server-02 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-08T13:55:26.034000+00:00 db-server-02 sshd[28834]: Accepted publickey for j.thomas from 10.20.4.154 port 32842 ssh2
+2027-03-08T13:55:44.433000+00:00 db-server-02 CRON[5435]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T13:58:39.098000+00:00 db-server-02 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-08T14:00:35.466000+00:00 db-server-02 sshd[29950]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-08T14:01:18.595000+00:00 db-server-02 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-08T14:03:12.775000+00:00 db-server-02 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-08T14:04:57.789000+00:00 db-server-02 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-08T14:08:15.540000+00:00 db-server-02 sshd[16417]: Disconnected from user m.khan 10.20.4.234 port 36692
+2027-03-08T14:09:53.970000+00:00 db-server-02 CRON[33767]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T14:10:20.023000+00:00 db-server-02 sshd[31347]: Accepted password for m.khan from 10.20.4.27 port 42490 ssh2
+2027-03-08T14:12:37.988000+00:00 db-server-02 sshd[22559]: Disconnected from user a.sharma 10.20.3.144 port 30404
+2027-03-08T14:14:20.195000+00:00 db-server-02 sshd[34523]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-08T14:15:13.495000+00:00 db-server-02 sshd[24232]: Accepted publickey for a.sharma from 10.20.2.22 port 57789 ssh2
+2027-03-08T14:16:00.768000+00:00 db-server-02 sshd[8621]: Accepted password for k.iyer from 10.20.3.89 port 43068 ssh2
+2027-03-08T14:17:23.023000+00:00 db-server-02 sshd[31555]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-08T14:24:30.088000+00:00 db-server-02 sshd[32662]: Disconnected from user k.iyer 198.51.100.51 port 49980
+2027-03-08T14:28:24.447000+00:00 db-server-02 sshd[15491]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-08T14:31:59.973000+00:00 db-server-02 sudo: d.joshi : TTY=pts/0 ; PWD=/home/d.joshi ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-08T14:32:58.303000+00:00 db-server-02 sshd[29515]: Accepted publickey for k.iyer from 198.51.100.51 port 59624 ssh2
+2027-03-08T14:33:36.022000+00:00 db-server-02 sshd[12881]: Accepted publickey for v.patel from 10.20.2.73 port 43081 ssh2
+2027-03-08T14:33:48.823000+00:00 db-server-02 sshd[23788]: Accepted publickey for s.nair from 10.20.4.23 port 40546 ssh2
+2027-03-08T14:34:11.005000+00:00 db-server-02 sshd[4540]: Failed password for root from 192.0.2.103 port 42154 ssh2
+2027-03-08T14:36:22.866000+00:00 db-server-02 sshd[35090]: Failed password for oracle from 192.0.2.103 port 58561 ssh2
+2027-03-08T14:38:19.024000+00:00 db-server-02 CRON[5670]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T14:39:51.922000+00:00 db-server-02 CRON[10218]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T14:41:34.216000+00:00 db-server-02 sshd[5824]: Disconnected from user m.khan 10.20.4.60 port 48130
+2027-03-08T14:42:50.356000+00:00 db-server-02 CRON[30854]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T14:44:37.710000+00:00 db-server-02 sshd[6734]: Failed password for oracle from 192.0.2.103 port 47502 ssh2
+2027-03-08T15:05:38.819000+00:00 db-server-02 CRON[12008]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T15:18:07.104000+00:00 db-server-02 sshd[7458]: Accepted password for h.verma from 10.20.1.108 port 50021 ssh2
+2027-03-08T15:19:28.696000+00:00 db-server-02 CRON[8023]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T15:19:50.288000+00:00 db-server-02 sshd[37335]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-08T15:26:53.151000+00:00 db-server-02 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-08T15:28:52.519000+00:00 db-server-02 sshd[4527]: Failed password for root from 192.0.2.103 port 32193 ssh2
+2027-03-08T15:32:14.475000+00:00 db-server-02 sshd[3817]: Failed password for oracle from 192.0.2.101 port 46681 ssh2
+2027-03-08T15:35:42.005000+00:00 db-server-02 sshd[7060]: Failed password for oracle from 192.0.2.101 port 56754 ssh2
+2027-03-08T15:36:07.888000+00:00 db-server-02 sshd[26297]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-08T15:37:19.710000+00:00 db-server-02 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-08T15:47:18.959000+00:00 db-server-02 sshd[34106]: Accepted publickey for d.joshi from 10.20.1.11 port 43565 ssh2
+2027-03-08T15:52:07.628000+00:00 db-server-02 CRON[13327]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T15:52:25.922000+00:00 db-server-02 sshd[11181]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-08T15:52:26.404000+00:00 db-server-02 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-08T15:54:53.988000+00:00 db-server-02 sshd[13841]: Failed password for ubuntu from 192.0.2.103 port 56117 ssh2
+2027-03-08T15:55:45.953000+00:00 db-server-02 CRON[20301]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T16:06:46.914000+00:00 db-server-02 sshd[20294]: Accepted password for t.singh from 10.20.2.18 port 44137 ssh2
+2027-03-08T16:08:48.111000+00:00 db-server-02 sshd[34126]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-08T16:09:23.525000+00:00 db-server-02 sshd[3865]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-08T16:15:05.096000+00:00 db-server-02 sshd[10504]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-08T16:15:21.293000+00:00 db-server-02 sshd[22020]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-08T16:15:38.396000+00:00 db-server-02 CRON[5950]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T16:16:04.739000+00:00 db-server-02 sshd[25018]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-08T16:16:34.426000+00:00 db-server-02 CRON[14656]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T16:17:44.621000+00:00 db-server-02 sshd[6116]: Disconnected from user h.verma 10.20.4.208 port 56081
+2027-03-08T16:17:48.625000+00:00 db-server-02 sshd[16637]: Accepted password for p.desai from 10.20.1.144 port 47644 ssh2
+2027-03-08T16:18:52.182000+00:00 db-server-02 sshd[19098]: Accepted password for k.iyer from 10.20.2.25 port 31335 ssh2
+2027-03-08T16:22:03.788000+00:00 db-server-02 sshd[6627]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-08T16:32:34.125000+00:00 db-server-02 sshd[36667]: Accepted password for m.khan from 10.20.1.49 port 30165 ssh2
+2027-03-08T16:35:14.901000+00:00 db-server-02 sshd[5044]: Accepted publickey for v.patel from 10.20.1.32 port 49354 ssh2
+2027-03-08T16:53:39.894000+00:00 db-server-02 sshd[33996]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-08T16:54:04.055000+00:00 db-server-02 sshd[5381]: Disconnected from user r.mehta 10.20.2.226 port 52228
+2027-03-08T16:54:36.350000+00:00 db-server-02 sshd[2036]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-08T16:54:45.366000+00:00 db-server-02 CRON[20882]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T16:56:03.641000+00:00 db-server-02 sshd[39988]: Accepted password for n.reddy from 10.20.2.64 port 47947 ssh2
+2027-03-08T17:02:44.379000+00:00 db-server-02 sshd[15127]: Accepted password for v.patel from 10.20.3.38 port 54107 ssh2
+2027-03-08T17:02:54.165000+00:00 db-server-02 CRON[23254]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T17:07:13.805000+00:00 db-server-02 sshd[3550]: Accepted password for k.iyer from 10.20.2.128 port 37488 ssh2
+2027-03-08T17:07:28.478000+00:00 db-server-02 sshd[35378]: Accepted publickey for r.mehta from 10.20.4.42 port 36896 ssh2
+2027-03-08T17:09:04.064000+00:00 db-server-02 sshd[39826]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-08T17:11:12.076000+00:00 db-server-02 CRON[26929]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T17:14:55.322000+00:00 db-server-02 sshd[31518]: Accepted publickey for j.thomas from 10.20.2.242 port 39936 ssh2
+2027-03-08T17:15:05.585000+00:00 db-server-02 sshd[25178]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-08T17:15:22.593000+00:00 db-server-02 sshd[1864]: Accepted password for t.singh from 10.20.2.32 port 36961 ssh2
+2027-03-08T17:16:13.181000+00:00 db-server-02 sshd[22018]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-08T17:20:42.934000+00:00 db-server-02 sshd[1102]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-08T17:27:23.462000+00:00 db-server-02 sshd[18026]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-08T17:31:11.083000+00:00 db-server-02 CRON[35924]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T17:40:20.464000+00:00 db-server-02 CRON[25779]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T17:46:39.182000+00:00 db-server-02 sshd[20929]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-08T17:49:40.018000+00:00 db-server-02 CRON[10543]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T17:53:52.512000+00:00 db-server-02 sudo: s.nair : TTY=pts/0 ; PWD=/home/s.nair ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-08T17:55:54.206000+00:00 db-server-02 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-08T18:07:27.615000+00:00 db-server-02 CRON[11030]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T18:11:42.635000+00:00 db-server-02 sshd[30230]: Accepted publickey for k.iyer from 198.51.100.51 port 34750 ssh2
+2027-03-08T18:15:16.256000+00:00 db-server-02 sshd[27858]: Accepted publickey for k.iyer from 10.20.4.105 port 48342 ssh2
+2027-03-08T18:15:21.292000+00:00 db-server-02 sshd[35495]: Disconnected from user p.desai 198.51.100.50 port 37394
+2027-03-08T18:18:13.270000+00:00 db-server-02 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-08T18:34:36.738000+00:00 db-server-02 sshd[31640]: Failed password for root from 192.0.2.102 port 47160 ssh2
+2027-03-08T18:38:44.442000+00:00 db-server-02 sshd[5475]: Accepted publickey for d.joshi from 10.20.2.29 port 44596 ssh2
+2027-03-08T18:44:43.497000+00:00 db-server-02 sshd[36319]: Disconnected from user a.sharma 10.20.1.157 port 43991
+2027-03-08T18:50:03.899000+00:00 db-server-02 sshd[21348]: Disconnected from user m.khan 10.20.2.184 port 33560
+2027-03-08T18:53:45.366000+00:00 db-server-02 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-08T18:54:03.366000+00:00 db-server-02 sshd[38309]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-08T19:00:18.670000+00:00 db-server-02 sshd[24434]: Accepted password for h.verma from 10.20.4.173 port 50127 ssh2
+2027-03-08T19:12:55.307000+00:00 db-server-02 sshd[32244]: Failed password for admin from 192.0.2.101 port 51749 ssh2
+2027-03-08T19:39:31.927000+00:00 db-server-02 sshd[36875]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-08T19:47:28.846000+00:00 db-server-02 sshd[5995]: Disconnected from user v.patel 10.20.4.128 port 31683
+2027-03-08T19:57:48.594000+00:00 db-server-02 sshd[13094]: Failed password for oracle from 192.0.2.101 port 48131 ssh2
+2027-03-08T20:14:32.337000+00:00 db-server-02 CRON[20772]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T20:21:20.886000+00:00 db-server-02 sshd[23529]: Accepted publickey for s.nair from 10.20.4.69 port 51404 ssh2
+2027-03-08T20:24:14.472000+00:00 db-server-02 sshd[35020]: Disconnected from user a.sharma 10.20.1.36 port 35678
+2027-03-08T20:41:18.569000+00:00 db-server-02 sshd[33234]: Accepted publickey for k.iyer from 198.51.100.51 port 30986 ssh2
+2027-03-08T20:51:18.324000+00:00 db-server-02 CRON[24989]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T20:54:59.774000+00:00 db-server-02 CRON[31175]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T21:12:15.054000+00:00 db-server-02 sshd[11037]: Failed password for ubuntu from 192.0.2.101 port 59016 ssh2
+2027-03-08T21:21:13.364000+00:00 db-server-02 sshd[31527]: Accepted password for v.patel from 10.20.2.126 port 46774 ssh2
+2027-03-08T22:21:21.616000+00:00 db-server-02 sshd[39422]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-08T23:44:03.136000+00:00 db-server-02 sshd[2873]: pam_unix(sshd:session): session closed for user p.desai(uid=1001) by (uid=0)
+2027-03-08T23:44:14.347000+00:00 db-server-02 sshd[4065]: Disconnected from user n.reddy 10.20.1.115 port 58942
+2027-03-08T23:51:34.673000+00:00 db-server-02 sshd[6199]: Failed password for admin from 192.0.2.103 port 53897 ssh2
+2027-03-08T23:57:57.459000+00:00 db-server-02 sshd[7430]: Accepted password for t.singh from 10.20.1.50 port 46016 ssh2
+2027-03-09T00:24:39.062000+00:00 db-server-02 CRON[14637]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T02:39:35.403000+00:00 db-server-02 sshd[1662]: Disconnected from user m.khan 10.20.1.223 port 32550
+2027-03-09T02:55:44.905000+00:00 db-server-02 sshd[5147]: Disconnected from user p.desai 10.20.3.180 port 45877
+2027-03-09T03:16:13.444000+00:00 db-server-02 sshd[3196]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-09T03:34:06.159000+00:00 db-server-02 sshd[3764]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-09T03:52:22.968000+00:00 db-server-02 sshd[29751]: Disconnected from user p.desai 198.51.100.50 port 32601
+2027-03-09T04:46:18.279000+00:00 db-server-02 sshd[26144]: Disconnected from user r.mehta 10.20.4.144 port 39290
+2027-03-09T05:45:43.820000+00:00 db-server-02 sshd[37552]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-09T06:00:30.079000+00:00 db-server-02 CRON[31763]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T06:13:35.023000+00:00 db-server-02 sshd[5729]: Accepted publickey for m.khan from 10.20.4.41 port 50496 ssh2
+2027-03-09T06:15:37.151000+00:00 db-server-02 sshd[34019]: Accepted publickey for s.nair from 10.20.2.232 port 31435 ssh2
+2027-03-09T06:24:24.720000+00:00 db-server-02 sshd[4223]: Accepted publickey for m.khan from 10.20.4.199 port 46683 ssh2
+2027-03-09T06:37:13.434000+00:00 db-server-02 sshd[27936]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-09T06:40:36.561000+00:00 db-server-02 CRON[8181]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T06:42:52.990000+00:00 db-server-02 sshd[8249]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-09T06:57:27.594000+00:00 db-server-02 sshd[3343]: Accepted publickey for n.reddy from 10.20.2.114 port 48491 ssh2
+2027-03-09T07:00:09.454000+00:00 db-server-02 CRON[5653]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T07:00:11.318000+00:00 db-server-02 sshd[18721]: Accepted publickey for s.nair from 10.20.3.136 port 56486 ssh2
+2027-03-09T07:01:09.782000+00:00 db-server-02 sshd[31414]: Accepted publickey for m.khan from 10.20.4.122 port 50854 ssh2
+2027-03-09T07:06:07.908000+00:00 db-server-02 sshd[36224]: Accepted publickey for t.singh from 10.20.2.153 port 31300 ssh2
+2027-03-09T07:26:47.482000+00:00 db-server-02 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-09T07:31:43.685000+00:00 db-server-02 CRON[31756]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T07:33:03.843000+00:00 db-server-02 sshd[27738]: Disconnected from user h.verma 10.20.2.10 port 31049
+2027-03-09T07:39:19.320000+00:00 db-server-02 sshd[33833]: Failed password for root from 192.0.2.103 port 30454 ssh2
+2027-03-09T07:40:57.899000+00:00 db-server-02 sshd[5001]: Accepted publickey for v.patel from 10.20.1.193 port 41841 ssh2
+2027-03-09T07:48:46.809000+00:00 db-server-02 CRON[8933]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T07:49:18.454000+00:00 db-server-02 sshd[20274]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-09T07:57:15.943000+00:00 db-server-02 sshd[5406]: Disconnected from user m.khan 10.20.2.78 port 45507
+2027-03-09T08:01:01.165000+00:00 db-server-02 sshd[18673]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-09T08:06:31.754000+00:00 db-server-02 CRON[25472]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T08:11:51.331000+00:00 db-server-02 sshd[24007]: Accepted password for v.patel from 10.20.2.173 port 42087 ssh2
+2027-03-09T08:14:04.699000+00:00 db-server-02 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-09T08:14:51.413000+00:00 db-server-02 sshd[18388]: Failed password for ubuntu from 192.0.2.101 port 57885 ssh2
+2027-03-09T08:18:28.633000+00:00 db-server-02 CRON[31105]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T08:20:59.804000+00:00 db-server-02 sshd[10195]: Failed password for ubuntu from 192.0.2.101 port 49158 ssh2
+2027-03-09T08:26:10.683000+00:00 db-server-02 CRON[14474]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T08:26:30.584000+00:00 db-server-02 sshd[17969]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-09T08:36:33.674000+00:00 db-server-02 sshd[32162]: Disconnected from user k.iyer 10.20.2.146 port 38449
+2027-03-09T08:46:26.632000+00:00 db-server-02 sshd[6397]: Failed password for root from 192.0.2.102 port 34766 ssh2
+2027-03-09T08:52:53.968000+00:00 db-server-02 CRON[10661]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T08:58:21.335000+00:00 db-server-02 sshd[23700]: Accepted password for j.thomas from 10.20.3.28 port 38991 ssh2
+2027-03-09T09:01:15.744000+00:00 db-server-02 sshd[14495]: Accepted password for h.verma from 10.20.2.13 port 39473 ssh2
+2027-03-09T09:06:07.615000+00:00 db-server-02 sshd[1682]: Failed password for root from 192.0.2.102 port 32335 ssh2
+2027-03-09T09:07:05.013000+00:00 db-server-02 CRON[32382]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T09:09:49.749000+00:00 db-server-02 sshd[8527]: Failed password for oracle from 192.0.2.102 port 33909 ssh2
+2027-03-09T09:12:43.913000+00:00 db-server-02 sshd[20297]: Failed password for root from 192.0.2.101 port 37873 ssh2
+2027-03-09T09:17:58.619000+00:00 db-server-02 sshd[32809]: Disconnected from user m.khan 10.20.4.37 port 37602
+2027-03-09T09:20:35.930000+00:00 db-server-02 CRON[18300]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T09:25:29.625000+00:00 db-server-02 sudo: d.joshi : TTY=pts/0 ; PWD=/home/d.joshi ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-09T09:26:47.834000+00:00 db-server-02 CRON[30742]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T09:27:14.497000+00:00 db-server-02 sshd[39403]: Failed password for root from 192.0.2.103 port 40704 ssh2
+2027-03-09T09:28:06.536000+00:00 db-server-02 sshd[23923]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-09T09:29:52.689000+00:00 db-server-02 sshd[36020]: Accepted publickey for a.sharma from 10.20.1.152 port 55153 ssh2
+2027-03-09T09:32:50.146000+00:00 db-server-02 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-09T09:37:22.598000+00:00 db-server-02 sshd[37345]: Disconnected from user m.khan 10.20.4.93 port 55253
+2027-03-09T09:44:21.413000+00:00 db-server-02 sshd[1245]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-09T09:49:35.623000+00:00 db-server-02 sshd[10802]: Accepted password for m.khan from 10.20.3.216 port 33165 ssh2
+2027-03-09T09:56:17.060000+00:00 db-server-02 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-09T09:57:34.388000+00:00 db-server-02 sshd[29050]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-09T10:02:48.879000+00:00 db-server-02 sshd[1710]: Accepted password for n.reddy from 10.20.3.169 port 54606 ssh2
+2027-03-09T10:05:33.787000+00:00 db-server-02 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-09T10:06:00.675000+00:00 db-server-02 sshd[12837]: Accepted publickey for r.mehta from 10.20.2.218 port 36205 ssh2
+2027-03-09T10:08:12.120000+00:00 db-server-02 CRON[30586]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T10:08:14.425000+00:00 db-server-02 sshd[5160]: Failed password for ubuntu from 192.0.2.103 port 46385 ssh2
+2027-03-09T10:10:35.891000+00:00 db-server-02 sshd[3400]: Accepted password for a.sharma from 10.20.1.155 port 51289 ssh2
+2027-03-09T10:16:14.379000+00:00 db-server-02 sudo: v.patel : TTY=pts/0 ; PWD=/home/v.patel ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-09T10:18:37.125000+00:00 db-server-02 sshd[35626]: Accepted publickey for a.sharma from 10.20.1.214 port 42834 ssh2
+2027-03-09T10:24:16.778000+00:00 db-server-02 sshd[17397]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-09T10:30:17.014000+00:00 db-server-02 sshd[21444]: Disconnected from user n.reddy 10.20.2.238 port 32694
+2027-03-09T10:33:09.719000+00:00 db-server-02 sshd[12676]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-09T10:33:51.217000+00:00 db-server-02 CRON[14976]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T10:47:47.933000+00:00 db-server-02 CRON[12207]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T10:50:48.097000+00:00 db-server-02 sshd[12481]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-09T10:51:03.365000+00:00 db-server-02 sshd[14183]: Accepted password for k.iyer from 10.20.2.217 port 31047 ssh2
+2027-03-09T10:51:53.869000+00:00 db-server-02 sshd[21723]: Accepted publickey for h.verma from 10.20.3.220 port 31559 ssh2
+2027-03-09T10:52:49.067000+00:00 db-server-02 sshd[37233]: Accepted publickey for r.mehta from 10.20.3.156 port 39899 ssh2
+2027-03-09T10:53:04.489000+00:00 db-server-02 sshd[28330]: Accepted publickey for m.khan from 10.20.4.150 port 58499 ssh2
+2027-03-09T10:56:28.372000+00:00 db-server-02 CRON[26056]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T10:59:11.381000+00:00 db-server-02 sudo: d.joshi : TTY=pts/0 ; PWD=/home/d.joshi ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-09T11:02:08.060000+00:00 db-server-02 sshd[21819]: Accepted password for t.singh from 10.20.1.181 port 49838 ssh2
+2027-03-09T11:04:08.456000+00:00 db-server-02 sshd[23773]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-09T11:06:07.469000+00:00 db-server-02 sshd[32774]: Failed password for admin from 192.0.2.101 port 50705 ssh2
+2027-03-09T11:10:50.002000+00:00 db-server-02 sshd[16029]: Accepted publickey for h.verma from 10.20.2.137 port 33237 ssh2
+2027-03-09T11:16:15.131000+00:00 db-server-02 sshd[39375]: Accepted publickey for j.thomas from 10.20.3.76 port 57491 ssh2
+2027-03-09T11:25:14.762000+00:00 db-server-02 sshd[19996]: Disconnected from user s.nair 10.20.4.159 port 32664
+2027-03-09T11:28:53.983000+00:00 db-server-02 sshd[33194]: pam_unix(sshd:session): session closed for user d.joshi(uid=1001) by (uid=0)
+2027-03-09T11:32:05.714000+00:00 db-server-02 sshd[24689]: Failed password for root from 192.0.2.103 port 53844 ssh2
+2027-03-09T11:33:14.785000+00:00 db-server-02 sshd[15443]: Accepted password for d.joshi from 10.20.1.34 port 52529 ssh2
+2027-03-09T11:36:31.982000+00:00 db-server-02 sshd[3303]: Failed password for root from 192.0.2.101 port 32565 ssh2
+2027-03-09T11:36:52.812000+00:00 db-server-02 sshd[29567]: Accepted password for k.iyer from 198.51.100.51 port 36201 ssh2
+2027-03-09T11:37:32.766000+00:00 db-server-02 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-09T11:38:45.899000+00:00 db-server-02 sshd[26961]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-09T11:40:37.788000+00:00 db-server-02 CRON[14945]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T11:48:30.480000+00:00 db-server-02 sshd[22619]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-09T11:49:34.295000+00:00 db-server-02 CRON[28789]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T11:50:28.576000+00:00 db-server-02 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-09T11:53:55.756000+00:00 db-server-02 sshd[17922]: Accepted password for s.nair from 10.20.4.234 port 49633 ssh2
+2027-03-09T11:56:12.884000+00:00 db-server-02 sshd[2226]: Accepted password for k.iyer from 198.51.100.51 port 50190 ssh2
+2027-03-09T12:01:10.774000+00:00 db-server-02 sshd[37505]: Disconnected from user d.joshi 10.20.4.22 port 52734
+2027-03-09T12:06:33.387000+00:00 db-server-02 sshd[25642]: Disconnected from user p.desai 10.20.2.232 port 36931
+2027-03-09T12:21:44.832000+00:00 db-server-02 sshd[34028]: Accepted publickey for m.khan from 10.20.1.61 port 48112 ssh2
+2027-03-09T12:42:13.003000+00:00 db-server-02 CRON[23676]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T12:49:00.807000+00:00 db-server-02 CRON[28352]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T12:49:35.251000+00:00 db-server-02 sshd[20428]: Accepted password for m.khan from 10.20.3.34 port 30590 ssh2
+2027-03-09T12:53:03.821000+00:00 db-server-02 sshd[14644]: Disconnected from user n.reddy 10.20.2.191 port 30030
+2027-03-09T12:53:52.113000+00:00 db-server-02 sshd[31918]: Accepted publickey for r.mehta from 10.20.1.206 port 56775 ssh2
+2027-03-09T12:54:19.604000+00:00 db-server-02 sshd[13413]: Accepted password for v.patel from 10.20.3.110 port 38342 ssh2
+2027-03-09T12:59:31.872000+00:00 db-server-02 CRON[14358]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T12:59:33.994000+00:00 db-server-02 sshd[19548]: Failed password for admin from 192.0.2.103 port 44747 ssh2
+2027-03-09T13:00:39.465000+00:00 db-server-02 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-09T13:01:13.377000+00:00 db-server-02 sshd[32832]: Disconnected from user k.iyer 198.51.100.51 port 43144
+2027-03-09T13:02:02.312000+00:00 db-server-02 sshd[4245]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-09T13:02:31.953000+00:00 db-server-02 sshd[15548]: Failed password for admin from 192.0.2.101 port 33919 ssh2
+2027-03-09T13:03:05.831000+00:00 db-server-02 CRON[26892]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T13:03:12.364000+00:00 db-server-02 sshd[23349]: Accepted password for d.joshi from 10.20.2.183 port 47862 ssh2
+2027-03-09T13:16:36.339000+00:00 db-server-02 sshd[32482]: Disconnected from user r.mehta 10.20.1.225 port 43343
+2027-03-09T13:17:37.132000+00:00 db-server-02 sshd[4540]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-09T13:20:47.247000+00:00 db-server-02 sshd[7928]: Accepted password for a.sharma from 10.20.1.133 port 43522 ssh2
+2027-03-09T13:21:56.483000+00:00 db-server-02 sshd[33911]: Accepted publickey for p.desai from 198.51.100.50 port 53937 ssh2
+2027-03-09T13:25:47.501000+00:00 db-server-02 sshd[29529]: pam_unix(sshd:session): session closed for user p.desai(uid=1001) by (uid=0)
+2027-03-09T13:26:28.349000+00:00 db-server-02 sshd[33552]: Accepted publickey for d.joshi from 10.20.3.200 port 47915 ssh2
+2027-03-09T13:36:07.693000+00:00 db-server-02 sshd[30825]: Accepted password for k.iyer from 10.20.2.66 port 47697 ssh2
+2027-03-09T13:36:56.437000+00:00 db-server-02 sshd[31443]: Disconnected from user v.patel 10.20.2.71 port 49759
+2027-03-09T13:38:53.921000+00:00 db-server-02 sshd[31696]: Disconnected from user n.reddy 10.20.2.120 port 48064
+2027-03-09T13:42:01.731000+00:00 db-server-02 CRON[26471]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T13:42:43.880000+00:00 db-server-02 sshd[31981]: Failed password for admin from 192.0.2.103 port 50672 ssh2
+2027-03-09T13:43:48.490000+00:00 db-server-02 sshd[39480]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-09T13:47:53.691000+00:00 db-server-02 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-09T13:49:30.108000+00:00 db-server-02 sshd[29045]: Accepted publickey for n.reddy from 10.20.2.82 port 52001 ssh2
+2027-03-09T13:51:17.699000+00:00 db-server-02 sshd[34453]: Accepted password for v.patel from 10.20.3.236 port 49908 ssh2
+2027-03-09T13:54:14.447000+00:00 db-server-02 sshd[9707]: Disconnected from user s.nair 10.20.3.224 port 55719
+2027-03-09T13:55:42.500000+00:00 db-server-02 sshd[3822]: Accepted password for n.reddy from 10.20.4.246 port 50541 ssh2
+2027-03-09T14:02:53.326000+00:00 db-server-02 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-09T14:03:34.960000+00:00 db-server-02 sshd[29251]: Accepted password for p.desai from 10.20.1.51 port 48482 ssh2
+2027-03-09T14:09:34.011000+00:00 db-server-02 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-09T14:14:28.895000+00:00 db-server-02 CRON[33226]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T14:16:32.453000+00:00 db-server-02 sshd[2573]: Accepted password for s.nair from 10.20.1.69 port 40638 ssh2
+2027-03-09T14:19:11.891000+00:00 db-server-02 sshd[39534]: Accepted password for s.nair from 10.20.2.125 port 53898 ssh2
+2027-03-09T14:20:33.963000+00:00 db-server-02 sshd[31246]: Accepted password for j.thomas from 10.20.1.199 port 46354 ssh2
+2027-03-09T14:22:41.266000+00:00 db-server-02 sshd[18011]: Disconnected from user m.khan 10.20.2.137 port 42240
+2027-03-09T14:25:03.889000+00:00 db-server-02 sudo: s.nair : TTY=pts/0 ; PWD=/home/s.nair ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-09T14:26:38.023000+00:00 db-server-02 sshd[19303]: Accepted password for r.mehta from 10.20.1.86 port 52262 ssh2
+2027-03-09T14:30:30.716000+00:00 db-server-02 sshd[2615]: Accepted password for p.desai from 198.51.100.50 port 51676 ssh2
+2027-03-09T14:30:59.132000+00:00 db-server-02 sshd[18463]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-09T14:31:03.833000+00:00 db-server-02 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-09T14:31:30.131000+00:00 db-server-02 CRON[11652]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T14:32:55.070000+00:00 db-server-02 sshd[21185]: Failed password for oracle from 192.0.2.101 port 59587 ssh2
+2027-03-09T14:35:22.040000+00:00 db-server-02 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-09T14:36:35.228000+00:00 db-server-02 sshd[32838]: Accepted publickey for a.sharma from 10.20.3.101 port 48137 ssh2
+2027-03-09T14:38:51.497000+00:00 db-server-02 CRON[28080]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T14:43:50.093000+00:00 db-server-02 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-09T14:52:14.388000+00:00 db-server-02 CRON[14657]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T14:53:57.020000+00:00 db-server-02 sshd[7779]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-09T14:54:27.011000+00:00 db-server-02 CRON[23302]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T14:54:38.346000+00:00 db-server-02 sshd[33440]: Accepted publickey for d.joshi from 10.20.1.207 port 56756 ssh2
+2027-03-09T14:58:13.245000+00:00 db-server-02 sshd[20877]: Failed password for oracle from 192.0.2.103 port 46549 ssh2
+2027-03-09T15:00:20.603000+00:00 db-server-02 sshd[15802]: Accepted password for a.sharma from 10.20.2.119 port 31099 ssh2
+2027-03-09T15:08:40.924000+00:00 db-server-02 sshd[17327]: Accepted password for k.iyer from 198.51.100.51 port 42157 ssh2
+2027-03-09T15:16:55.399000+00:00 db-server-02 sshd[23485]: pam_unix(sshd:session): session closed for user p.desai(uid=1001) by (uid=0)
+2027-03-09T15:22:54.492000+00:00 db-server-02 sshd[39382]: Accepted publickey for n.reddy from 10.20.2.92 port 59014 ssh2
+2027-03-09T15:23:22.783000+00:00 db-server-02 sshd[32474]: Accepted password for a.sharma from 10.20.3.237 port 59282 ssh2
+2027-03-09T15:25:33.432000+00:00 db-server-02 sshd[38627]: Accepted password for k.iyer from 10.20.2.214 port 57069 ssh2
+2027-03-09T15:26:19.310000+00:00 db-server-02 sshd[29932]: Failed password for oracle from 192.0.2.101 port 49560 ssh2
+2027-03-09T15:26:31.363000+00:00 db-server-02 sshd[3287]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-09T15:27:09.096000+00:00 db-server-02 sshd[31553]: Disconnected from user k.iyer 198.51.100.51 port 44095
+2027-03-09T15:27:41.410000+00:00 db-server-02 CRON[39927]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T15:29:15.687000+00:00 db-server-02 sshd[21787]: Failed password for root from 192.0.2.103 port 57308 ssh2
+2027-03-09T15:34:04.590000+00:00 db-server-02 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-09T15:35:25.616000+00:00 db-server-02 sshd[24857]: pam_unix(sshd:session): session closed for user p.desai(uid=1001) by (uid=0)
+2027-03-09T15:38:20.066000+00:00 db-server-02 sshd[15483]: pam_unix(sshd:session): session closed for user d.joshi(uid=1001) by (uid=0)
+2027-03-09T15:42:44.955000+00:00 db-server-02 sshd[13176]: Accepted password for a.sharma from 10.20.4.231 port 58280 ssh2
+2027-03-09T15:43:14.526000+00:00 db-server-02 sshd[19863]: Disconnected from user k.iyer 198.51.100.51 port 41307
+2027-03-09T15:49:53.206000+00:00 db-server-02 sshd[23601]: Disconnected from user a.sharma 10.20.2.147 port 45945
+2027-03-09T15:50:17.596000+00:00 db-server-02 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-09T15:55:43.566000+00:00 db-server-02 CRON[19197]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T15:56:27.101000+00:00 db-server-02 CRON[39739]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T16:03:54.593000+00:00 db-server-02 CRON[32015]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T16:04:51.674000+00:00 db-server-02 sshd[7278]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-09T16:05:53.363000+00:00 db-server-02 CRON[7890]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T16:06:10.211000+00:00 db-server-02 CRON[13789]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T16:10:21.039000+00:00 db-server-02 CRON[1950]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T16:12:38.732000+00:00 db-server-02 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-09T16:22:50.995000+00:00 db-server-02 CRON[7572]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T16:25:44.530000+00:00 db-server-02 sshd[3952]: Disconnected from user h.verma 10.20.1.14 port 40761
+2027-03-09T16:28:03.106000+00:00 db-server-02 sshd[13737]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-09T16:28:37.866000+00:00 db-server-02 sshd[11221]: Disconnected from user m.khan 10.20.4.25 port 35378
+2027-03-09T16:28:47.412000+00:00 db-server-02 sshd[6622]: Disconnected from user h.verma 10.20.2.46 port 40136
+2027-03-09T16:40:21.438000+00:00 db-server-02 sshd[13706]: Accepted password for n.reddy from 10.20.4.227 port 43618 ssh2
+2027-03-09T16:47:31.385000+00:00 db-server-02 sudo: s.nair : TTY=pts/0 ; PWD=/home/s.nair ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-09T16:47:50.400000+00:00 db-server-02 sshd[28523]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-09T16:50:26.615000+00:00 db-server-02 sshd[7532]: Disconnected from user r.mehta 10.20.2.109 port 38269
+2027-03-09T16:54:54.078000+00:00 db-server-02 sshd[17271]: Disconnected from user h.verma 10.20.3.188 port 56706
+2027-03-09T16:56:46.645000+00:00 db-server-02 sshd[18744]: Accepted publickey for j.thomas from 10.20.1.134 port 36694 ssh2
+2027-03-09T16:56:49.167000+00:00 db-server-02 sshd[7728]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-09T16:58:01.065000+00:00 db-server-02 sshd[34831]: Failed password for root from 192.0.2.103 port 39238 ssh2
+2027-03-09T17:07:06.533000+00:00 db-server-02 sshd[30030]: Failed password for ubuntu from 192.0.2.103 port 33039 ssh2
+2027-03-09T17:08:12.728000+00:00 db-server-02 sshd[34220]: Failed password for root from 192.0.2.103 port 54964 ssh2
+2027-03-09T17:14:21.447000+00:00 db-server-02 CRON[14714]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T17:28:57.979000+00:00 db-server-02 sshd[26514]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-09T17:32:56.524000+00:00 db-server-02 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-09T17:33:14.093000+00:00 db-server-02 sshd[11232]: Failed password for admin from 192.0.2.101 port 55346 ssh2
+2027-03-09T17:35:53.867000+00:00 db-server-02 sshd[11048]: Accepted publickey for a.sharma from 10.20.4.142 port 45937 ssh2
+2027-03-09T17:37:56.755000+00:00 db-server-02 sshd[18166]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-09T17:40:16.663000+00:00 db-server-02 sshd[35793]: Accepted password for a.sharma from 10.20.4.65 port 47482 ssh2
+2027-03-09T17:40:28.650000+00:00 db-server-02 sshd[19056]: Accepted publickey for n.reddy from 10.20.1.89 port 51509 ssh2
+2027-03-09T17:52:33.534000+00:00 db-server-02 CRON[24654]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T17:56:17.540000+00:00 db-server-02 CRON[9861]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T17:57:55.052000+00:00 db-server-02 sshd[38489]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-09T18:08:20.278000+00:00 db-server-02 sshd[12914]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-09T18:12:45.179000+00:00 db-server-02 sshd[37250]: Accepted publickey for t.singh from 10.20.3.159 port 48735 ssh2
+2027-03-09T18:39:46.956000+00:00 db-server-02 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-09T18:41:20.653000+00:00 db-server-02 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-09T18:50:08.960000+00:00 db-server-02 sshd[31668]: Failed password for ubuntu from 192.0.2.103 port 49545 ssh2
+2027-03-09T18:55:16.125000+00:00 db-server-02 sshd[33048]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-09T19:06:47.710000+00:00 db-server-02 CRON[6862]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T19:20:30.574000+00:00 db-server-02 sshd[14853]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-09T19:23:29.683000+00:00 db-server-02 sshd[16353]: Failed password for ubuntu from 192.0.2.103 port 47319 ssh2
+2027-03-09T19:49:03.123000+00:00 db-server-02 sshd[36267]: Accepted publickey for h.verma from 10.20.4.34 port 53830 ssh2
+2027-03-09T19:52:14.410000+00:00 db-server-02 CRON[34767]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T19:52:51.959000+00:00 db-server-02 sshd[28941]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-09T19:53:16.903000+00:00 db-server-02 CRON[33010]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T20:15:27.221000+00:00 db-server-02 sshd[18597]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-09T20:17:54.458000+00:00 db-server-02 sshd[20374]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-09T20:25:08.888000+00:00 db-server-02 sshd[36120]: Accepted password for p.desai from 198.51.100.50 port 42589 ssh2
+2027-03-09T20:35:08.072000+00:00 db-server-02 sshd[29271]: Accepted password for p.desai from 10.20.2.238 port 51674 ssh2
+2027-03-09T20:37:06.457000+00:00 db-server-02 CRON[2537]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T20:44:51.558000+00:00 db-server-02 sshd[24123]: Failed password for oracle from 192.0.2.102 port 37294 ssh2
+2027-03-09T21:28:04.438000+00:00 db-server-02 sshd[1820]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-09T21:30:27.328000+00:00 db-server-02 sshd[14808]: Accepted publickey for v.patel from 10.20.2.172 port 37269 ssh2
+2027-03-09T21:32:42.037000+00:00 db-server-02 sshd[16874]: Accepted publickey for h.verma from 10.20.1.154 port 42662 ssh2
+2027-03-09T22:01:17.443000+00:00 db-server-02 CRON[18695]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T22:23:15.062000+00:00 db-server-02 sshd[7584]: Failed password for test from 192.0.2.102 port 39061 ssh2
+2027-03-09T22:38:54.663000+00:00 db-server-02 sshd[6412]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-09T22:53:59.881000+00:00 db-server-02 sshd[13071]: Accepted password for s.nair from 10.20.1.37 port 41260 ssh2
+2027-03-09T23:20:41.641000+00:00 db-server-02 CRON[6546]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T23:52:34.973000+00:00 db-server-02 sshd[2596]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-10T00:38:44.368000+00:00 db-server-02 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-10T01:12:20.379000+00:00 db-server-02 sshd[29574]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-10T01:15:23.516000+00:00 db-server-02 sshd[13309]: Accepted publickey for v.patel from 10.20.1.238 port 51137 ssh2
+2027-03-10T02:32:35.388000+00:00 db-server-02 sshd[20548]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-10T03:18:51.872000+00:00 db-server-02 CRON[2838]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T03:49:48.999000+00:00 db-server-02 sshd[1161]: Accepted publickey for j.thomas from 10.20.1.113 port 35219 ssh2
+2027-03-10T04:08:28.452000+00:00 db-server-02 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-10T04:11:09.948000+00:00 db-server-02 CRON[27439]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T04:25:13.892000+00:00 db-server-02 sshd[16049]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-10T04:27:11.792000+00:00 db-server-02 sshd[4404]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-10T05:59:23.785000+00:00 db-server-02 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-10T06:06:23.977000+00:00 db-server-02 sshd[31734]: Disconnected from user j.thomas 10.20.4.41 port 47373
+2027-03-10T06:09:03.146000+00:00 db-server-02 CRON[6818]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T06:14:38.554000+00:00 db-server-02 sshd[33991]: Disconnected from user n.reddy 10.20.4.92 port 39112
+2027-03-10T06:19:43.361000+00:00 db-server-02 sshd[12457]: Accepted publickey for p.desai from 198.51.100.50 port 38129 ssh2
+2027-03-10T06:27:09.721000+00:00 db-server-02 sshd[12309]: Failed password for ubuntu from 192.0.2.102 port 30163 ssh2
+2027-03-10T07:00:14.549000+00:00 db-server-02 sshd[20739]: Accepted publickey for j.thomas from 10.20.2.108 port 37503 ssh2
+2027-03-10T07:01:03.927000+00:00 db-server-02 sudo: s.nair : TTY=pts/0 ; PWD=/home/s.nair ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-10T07:14:11.097000+00:00 db-server-02 CRON[15946]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T07:16:05.999000+00:00 db-server-02 sshd[32951]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-10T07:27:41.526000+00:00 db-server-02 sshd[32359]: Failed password for test from 192.0.2.101 port 43144 ssh2
+2027-03-10T07:33:16.865000+00:00 db-server-02 CRON[19613]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T07:49:28.095000+00:00 db-server-02 sshd[25398]: Failed password for test from 192.0.2.101 port 54292 ssh2
+2027-03-10T07:54:21.891000+00:00 db-server-02 sshd[25873]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-10T07:55:52.708000+00:00 db-server-02 sshd[3677]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-10T08:08:35.743000+00:00 db-server-02 sshd[25898]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-10T08:09:10.764000+00:00 db-server-02 sshd[9007]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-10T08:18:36.327000+00:00 db-server-02 sshd[33537]: Accepted password for s.nair from 10.20.3.199 port 42585 ssh2
+2027-03-10T08:20:52.801000+00:00 db-server-02 sshd[15136]: Accepted password for m.khan from 10.20.4.63 port 45355 ssh2
+2027-03-10T08:49:39.275000+00:00 db-server-02 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-10T08:51:49.937000+00:00 db-server-02 sshd[23150]: Disconnected from user v.patel 10.20.1.135 port 58317
+2027-03-10T08:52:34.014000+00:00 db-server-02 CRON[16345]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T08:54:57.851000+00:00 db-server-02 sshd[14139]: Accepted publickey for k.iyer from 198.51.100.51 port 37514 ssh2
+2027-03-10T08:57:48.852000+00:00 db-server-02 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-10T08:59:38.821000+00:00 db-server-02 sshd[7926]: Accepted publickey for h.verma from 10.20.1.43 port 35013 ssh2
+2027-03-10T09:02:53.896000+00:00 db-server-02 sshd[24388]: Accepted password for a.sharma from 10.20.1.190 port 57669 ssh2
+2027-03-10T09:04:40.906000+00:00 db-server-02 CRON[26264]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T09:06:42.361000+00:00 db-server-02 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-10T09:10:36.807000+00:00 db-server-02 sshd[37085]: Failed password for root from 192.0.2.102 port 38298 ssh2
+2027-03-10T09:14:24.168000+00:00 db-server-02 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-10T09:15:48.668000+00:00 db-server-02 sshd[13968]: Accepted publickey for k.iyer from 10.20.3.67 port 32947 ssh2
+2027-03-10T09:15:50.525000+00:00 db-server-02 sshd[4268]: Disconnected from user a.sharma 10.20.1.230 port 53163
+2027-03-10T09:18:58.222000+00:00 db-server-02 sshd[38673]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-10T09:21:55.110000+00:00 db-server-02 sshd[29711]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-10T09:30:24.004000+00:00 db-server-02 sshd[2900]: Failed password for admin from 192.0.2.101 port 46121 ssh2
+2027-03-10T09:36:20.000000+00:00 db-server-02 CRON[15079]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T09:37:41.769000+00:00 db-server-02 sshd[2267]: Accepted password for k.iyer from 198.51.100.51 port 51800 ssh2
+2027-03-10T09:38:58.974000+00:00 db-server-02 CRON[21837]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T09:40:13.671000+00:00 db-server-02 sshd[31418]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-10T09:45:48.643000+00:00 db-server-02 CRON[23920]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T09:52:59.091000+00:00 db-server-02 sshd[13872]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-10T09:54:55.489000+00:00 db-server-02 sshd[7616]: Disconnected from user t.singh 10.20.3.220 port 53205
+2027-03-10T09:57:12.972000+00:00 db-server-02 sshd[33033]: Accepted password for m.khan from 10.20.3.199 port 55640 ssh2
+2027-03-10T10:00:59.276000+00:00 db-server-02 sshd[13842]: Accepted publickey for n.reddy from 10.20.2.221 port 37329 ssh2
+2027-03-10T10:02:07.597000+00:00 db-server-02 CRON[13164]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T10:03:21.807000+00:00 db-server-02 sshd[33083]: Disconnected from user n.reddy 10.20.2.201 port 46803
+2027-03-10T10:05:38.735000+00:00 db-server-02 CRON[37665]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T10:06:32.254000+00:00 db-server-02 sudo: v.patel : TTY=pts/0 ; PWD=/home/v.patel ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-10T10:12:11.454000+00:00 db-server-02 sshd[37851]: Disconnected from user a.sharma 10.20.1.40 port 51073
+2027-03-10T10:13:09.118000+00:00 db-server-02 sshd[18158]: Accepted publickey for a.sharma from 10.20.2.165 port 37964 ssh2
+2027-03-10T10:21:59.539000+00:00 db-server-02 sshd[26869]: Accepted publickey for p.desai from 10.20.1.24 port 30970 ssh2
+2027-03-10T10:26:46.155000+00:00 db-server-02 CRON[22542]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T10:28:47.365000+00:00 db-server-02 sshd[31468]: Accepted publickey for k.iyer from 10.20.3.26 port 48973 ssh2
+2027-03-10T10:31:09.503000+00:00 db-server-02 CRON[16031]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T10:34:10.754000+00:00 db-server-02 sshd[13905]: Accepted password for k.iyer from 10.20.1.195 port 39963 ssh2
+2027-03-10T10:34:32.927000+00:00 db-server-02 sshd[4308]: Failed password for ubuntu from 192.0.2.102 port 44119 ssh2
+2027-03-10T10:38:48.041000+00:00 db-server-02 sshd[1165]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-10T10:47:23.418000+00:00 db-server-02 CRON[6148]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T10:48:51.566000+00:00 db-server-02 sshd[10253]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-10T10:50:13.459000+00:00 db-server-02 sshd[29323]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-10T10:53:29.904000+00:00 db-server-02 sshd[15004]: Disconnected from user v.patel 10.20.2.238 port 31645
+2027-03-10T10:58:21.543000+00:00 db-server-02 sshd[5267]: Accepted publickey for m.khan from 10.20.1.131 port 37838 ssh2
+2027-03-10T10:59:38.127000+00:00 db-server-02 sshd[10019]: Failed password for ubuntu from 192.0.2.101 port 37551 ssh2
+2027-03-10T11:02:56.480000+00:00 db-server-02 sshd[17188]: Accepted password for d.joshi from 10.20.3.215 port 45837 ssh2
+2027-03-10T11:08:21.728000+00:00 db-server-02 sshd[6231]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-10T11:12:19.994000+00:00 db-server-02 sshd[24740]: Accepted publickey for s.nair from 10.20.1.132 port 44253 ssh2
+2027-03-10T11:22:36.052000+00:00 db-server-02 sshd[2576]: Disconnected from user d.joshi 10.20.2.134 port 40406
+2027-03-10T11:25:19.336000+00:00 db-server-02 sshd[15668]: Failed password for test from 192.0.2.103 port 56124 ssh2
+2027-03-10T11:27:07.224000+00:00 db-server-02 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-10T11:27:55.745000+00:00 db-server-02 sshd[30514]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-10T11:33:56.826000+00:00 db-server-02 sshd[19383]: Accepted password for v.patel from 10.20.4.40 port 43082 ssh2
+2027-03-10T11:35:38.741000+00:00 db-server-02 sshd[10899]: Disconnected from user v.patel 10.20.2.114 port 46647
+2027-03-10T11:37:40.600000+00:00 db-server-02 sshd[13953]: Failed password for test from 192.0.2.103 port 55600 ssh2
+2027-03-10T11:38:01.316000+00:00 db-server-02 sshd[6569]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-10T11:38:10.095000+00:00 db-server-02 sshd[3241]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-10T11:39:10.651000+00:00 db-server-02 sshd[26005]: Accepted password for d.joshi from 10.20.4.173 port 42627 ssh2
+2027-03-10T11:39:40.640000+00:00 db-server-02 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-10T11:40:01.582000+00:00 db-server-02 sshd[28277]: Disconnected from user h.verma 10.20.4.128 port 56557
+2027-03-10T11:42:47.021000+00:00 db-server-02 sshd[23175]: Accepted password for r.mehta from 10.20.4.197 port 40349 ssh2
+2027-03-10T11:44:31.632000+00:00 db-server-02 sshd[14296]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-10T11:45:24.180000+00:00 db-server-02 CRON[4454]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T12:05:46.602000+00:00 db-server-02 CRON[12549]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T12:16:41.646000+00:00 db-server-02 CRON[34593]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T12:17:52.845000+00:00 db-server-02 sshd[35147]: Failed password for oracle from 192.0.2.103 port 34403 ssh2
+2027-03-10T12:17:59.851000+00:00 db-server-02 sshd[14405]: Failed password for admin from 192.0.2.102 port 35202 ssh2
+2027-03-10T12:36:37.335000+00:00 db-server-02 sshd[3980]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-10T12:43:17.091000+00:00 db-server-02 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-10T12:44:05.687000+00:00 db-server-02 sshd[33221]: Failed password for root from 192.0.2.101 port 53205 ssh2
+2027-03-10T12:45:25.779000+00:00 db-server-02 sshd[13769]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-10T12:45:56.066000+00:00 db-server-02 CRON[24412]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T12:48:24.641000+00:00 db-server-02 sshd[35206]: Disconnected from user d.joshi 10.20.4.136 port 43682
+2027-03-10T12:52:57.844000+00:00 db-server-02 sshd[39786]: Accepted publickey for r.mehta from 10.20.4.53 port 58135 ssh2
+2027-03-10T12:53:49.296000+00:00 db-server-02 sshd[24170]: Accepted publickey for a.sharma from 10.20.2.170 port 37848 ssh2
+2027-03-10T12:54:13.219000+00:00 db-server-02 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-10T12:55:50.375000+00:00 db-server-02 sshd[11677]: pam_unix(sshd:session): session closed for user d.joshi(uid=1001) by (uid=0)
+2027-03-10T13:04:49.162000+00:00 db-server-02 CRON[37952]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T13:06:29.321000+00:00 db-server-02 sshd[12021]: Disconnected from user j.thomas 10.20.4.154 port 57198
+2027-03-10T13:08:08.319000+00:00 db-server-02 sshd[16411]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-10T13:10:01.832000+00:00 db-server-02 sshd[31201]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-10T13:15:49.623000+00:00 db-server-02 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-10T13:22:08.176000+00:00 db-server-02 sshd[1165]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-10T13:22:27.369000+00:00 db-server-02 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-10T13:24:06.092000+00:00 db-server-02 sshd[23642]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-10T13:27:10.703000+00:00 db-server-02 sshd[39686]: Accepted password for j.thomas from 10.20.4.38 port 59011 ssh2
+2027-03-10T13:27:36.189000+00:00 db-server-02 sshd[34368]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-10T13:29:05.372000+00:00 db-server-02 CRON[11755]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T13:31:13.915000+00:00 db-server-02 sshd[32356]: Accepted password for a.sharma from 10.20.4.105 port 46972 ssh2
+2027-03-10T13:31:56.416000+00:00 db-server-02 CRON[21274]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T13:32:28.508000+00:00 db-server-02 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-10T13:33:07.708000+00:00 db-server-02 sshd[1866]: Accepted password for h.verma from 10.20.2.163 port 36124 ssh2
+2027-03-10T13:34:29.249000+00:00 db-server-02 sshd[36776]: Accepted publickey for j.thomas from 10.20.3.26 port 52000 ssh2
+2027-03-10T13:39:32.622000+00:00 db-server-02 sshd[34156]: Disconnected from user t.singh 10.20.4.162 port 37350
+2027-03-10T13:58:10.142000+00:00 db-server-02 sshd[8345]: Accepted password for k.iyer from 10.20.3.220 port 52004 ssh2
+2027-03-10T14:00:11.341000+00:00 db-server-02 sshd[11720]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-10T14:10:55.792000+00:00 db-server-02 CRON[21475]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T14:12:55.446000+00:00 db-server-02 sshd[33893]: Accepted publickey for r.mehta from 10.20.1.229 port 33134 ssh2
+2027-03-10T14:14:53.523000+00:00 db-server-02 sshd[20526]: Accepted password for t.singh from 10.20.1.55 port 37194 ssh2
+2027-03-10T14:17:04.503000+00:00 db-server-02 sshd[4776]: Accepted publickey for m.khan from 10.20.2.91 port 54980 ssh2
+2027-03-10T14:25:04.762000+00:00 db-server-02 CRON[24606]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T14:25:24.550000+00:00 db-server-02 sshd[18942]: pam_unix(sshd:session): session closed for user p.desai(uid=1001) by (uid=0)
+2027-03-10T14:29:40.790000+00:00 db-server-02 sshd[26201]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-10T14:30:15.141000+00:00 db-server-02 CRON[35973]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T14:32:30.383000+00:00 db-server-02 sshd[2406]: Accepted password for m.khan from 10.20.2.23 port 56658 ssh2
+2027-03-10T14:33:10.312000+00:00 db-server-02 sshd[12254]: Disconnected from user t.singh 10.20.4.76 port 32110
+2027-03-10T14:33:48.258000+00:00 db-server-02 sshd[7395]: Accepted password for r.mehta from 10.20.3.153 port 40249 ssh2
+2027-03-10T14:37:07.047000+00:00 db-server-02 CRON[12317]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T14:37:48.978000+00:00 db-server-02 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-10T14:38:40.534000+00:00 db-server-02 sshd[18743]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-10T14:39:32.423000+00:00 db-server-02 CRON[19953]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T14:41:45.456000+00:00 db-server-02 sshd[1491]: Accepted publickey for k.iyer from 198.51.100.51 port 51211 ssh2
+2027-03-10T14:44:18.636000+00:00 db-server-02 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-10T14:44:55.198000+00:00 db-server-02 CRON[21668]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T14:44:55.409000+00:00 db-server-02 sshd[7749]: Accepted publickey for t.singh from 10.20.1.194 port 30614 ssh2
+2027-03-10T14:49:02.024000+00:00 db-server-02 CRON[4688]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T14:53:25.141000+00:00 db-server-02 sshd[26236]: Accepted password for v.patel from 10.20.2.124 port 53753 ssh2
+2027-03-10T14:57:26.514000+00:00 db-server-02 sshd[21016]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-10T15:00:59.671000+00:00 db-server-02 sudo: v.patel : TTY=pts/0 ; PWD=/home/v.patel ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-10T15:13:58.732000+00:00 db-server-02 sshd[3896]: Accepted publickey for d.joshi from 10.20.4.29 port 50002 ssh2
+2027-03-10T15:21:14.815000+00:00 db-server-02 sshd[22617]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-10T15:25:57.208000+00:00 db-server-02 sshd[27669]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-10T15:26:46.356000+00:00 db-server-02 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-10T15:28:19.782000+00:00 db-server-02 sshd[5146]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-10T15:29:12.701000+00:00 db-server-02 CRON[12107]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T15:33:50.466000+00:00 db-server-02 CRON[5801]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T15:37:23.716000+00:00 db-server-02 sshd[10401]: Failed password for root from 192.0.2.103 port 35979 ssh2
+2027-03-10T15:43:27.865000+00:00 db-server-02 sshd[34311]: Failed password for test from 192.0.2.103 port 53212 ssh2
+2027-03-10T15:48:50.147000+00:00 db-server-02 sshd[21625]: Failed password for admin from 192.0.2.101 port 57913 ssh2
+2027-03-10T15:50:58.133000+00:00 db-server-02 sshd[22905]: Failed password for root from 192.0.2.101 port 33586 ssh2
+2027-03-10T15:51:41.346000+00:00 db-server-02 sshd[36036]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-10T15:56:52.558000+00:00 db-server-02 CRON[15098]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T16:09:56.503000+00:00 db-server-02 sshd[19128]: Disconnected from user d.joshi 10.20.3.100 port 39509
+2027-03-10T16:10:48.476000+00:00 db-server-02 sshd[21779]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-10T16:14:59.450000+00:00 db-server-02 sshd[15098]: Disconnected from user m.khan 10.20.1.45 port 37934
+2027-03-10T16:16:42.183000+00:00 db-server-02 sshd[14019]: Disconnected from user v.patel 10.20.2.231 port 57034
+2027-03-10T16:18:15.598000+00:00 db-server-02 CRON[5209]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T16:24:48.184000+00:00 db-server-02 sshd[31134]: Accepted password for k.iyer from 198.51.100.51 port 57440 ssh2
+2027-03-10T16:26:34.443000+00:00 db-server-02 CRON[5072]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T16:32:08.299000+00:00 db-server-02 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-10T16:33:34.257000+00:00 db-server-02 CRON[12978]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T16:36:37.481000+00:00 db-server-02 sshd[22832]: Failed password for oracle from 192.0.2.103 port 49365 ssh2
+2027-03-10T16:46:04.008000+00:00 db-server-02 CRON[1178]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T16:49:45.524000+00:00 db-server-02 sshd[35949]: Failed password for oracle from 192.0.2.103 port 48537 ssh2
+2027-03-10T16:51:11.870000+00:00 db-server-02 sshd[7396]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-10T16:53:20.390000+00:00 db-server-02 sshd[15171]: Accepted publickey for n.reddy from 10.20.3.83 port 36289 ssh2
+2027-03-10T17:02:17.250000+00:00 db-server-02 sshd[7224]: Accepted password for r.mehta from 10.20.3.219 port 41962 ssh2
+2027-03-10T17:05:09.517000+00:00 db-server-02 CRON[9289]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T17:05:45.941000+00:00 db-server-02 sshd[10684]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-10T17:06:49.873000+00:00 db-server-02 sshd[25005]: Accepted password for t.singh from 10.20.3.220 port 54166 ssh2
+2027-03-10T17:17:22.825000+00:00 db-server-02 sshd[4091]: Accepted publickey for v.patel from 10.20.4.35 port 42423 ssh2
+2027-03-10T17:22:56.196000+00:00 db-server-02 sshd[22837]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-10T17:23:03.002000+00:00 db-server-02 CRON[13435]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T17:23:18.610000+00:00 db-server-02 sshd[20880]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-10T17:28:39.970000+00:00 db-server-02 sshd[23813]: Accepted publickey for k.iyer from 198.51.100.51 port 30489 ssh2
+2027-03-10T17:33:07.565000+00:00 db-server-02 sshd[2478]: Accepted publickey for s.nair from 10.20.1.209 port 45853 ssh2
+2027-03-10T17:35:34.932000+00:00 db-server-02 CRON[30033]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T17:39:18.217000+00:00 db-server-02 sudo: v.patel : TTY=pts/0 ; PWD=/home/v.patel ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-10T17:53:29.351000+00:00 db-server-02 sshd[23780]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-10T17:56:46.179000+00:00 db-server-02 sshd[18887]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-10T18:13:41.984000+00:00 db-server-02 sshd[33243]: Accepted password for v.patel from 10.20.1.109 port 30084 ssh2
+2027-03-10T18:13:46.796000+00:00 db-server-02 sshd[27152]: Accepted publickey for s.nair from 10.20.3.150 port 51432 ssh2
+2027-03-10T18:14:51.146000+00:00 db-server-02 sshd[20418]: Failed password for test from 192.0.2.103 port 31932 ssh2
+2027-03-10T18:23:38.486000+00:00 db-server-02 sshd[27128]: Failed password for root from 192.0.2.101 port 33150 ssh2
+2027-03-10T18:33:04.243000+00:00 db-server-02 sshd[38296]: pam_unix(sshd:session): session closed for user p.desai(uid=1001) by (uid=0)
+2027-03-10T18:34:21.288000+00:00 db-server-02 sshd[9519]: Accepted publickey for a.sharma from 10.20.2.98 port 41093 ssh2
+2027-03-10T18:40:54.936000+00:00 db-server-02 sshd[7432]: Accepted publickey for k.iyer from 10.20.2.110 port 56622 ssh2
+2027-03-10T18:43:21.437000+00:00 db-server-02 CRON[17335]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T18:44:41.174000+00:00 db-server-02 sshd[18876]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-10T18:50:52.651000+00:00 db-server-02 sshd[1871]: Accepted password for d.joshi from 10.20.4.38 port 43229 ssh2
+2027-03-10T18:59:10.623000+00:00 db-server-02 sshd[7707]: Accepted password for a.sharma from 10.20.1.25 port 40568 ssh2
+2027-03-10T19:04:17.363000+00:00 db-server-02 sshd[27960]: Failed password for admin from 192.0.2.101 port 35106 ssh2
+2027-03-10T19:05:27.181000+00:00 db-server-02 sshd[18489]: Accepted publickey for p.desai from 10.20.2.183 port 47129 ssh2
+2027-03-10T19:06:10.958000+00:00 db-server-02 sshd[18620]: Accepted publickey for k.iyer from 10.20.2.58 port 59705 ssh2
+2027-03-10T19:12:16.687000+00:00 db-server-02 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-10T19:29:23.484000+00:00 db-server-02 sshd[16054]: Failed password for test from 192.0.2.102 port 53081 ssh2
+2027-03-10T19:32:02.235000+00:00 db-server-02 sshd[5572]: Failed password for admin from 192.0.2.103 port 58718 ssh2
+2027-03-10T19:40:14.206000+00:00 db-server-02 CRON[2680]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T19:47:31.722000+00:00 db-server-02 sshd[19608]: Accepted publickey for j.thomas from 10.20.4.52 port 31341 ssh2
+2027-03-10T20:05:33.482000+00:00 db-server-02 CRON[9358]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T20:28:06.083000+00:00 db-server-02 CRON[23965]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T20:54:27.618000+00:00 db-server-02 sshd[26193]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-10T20:55:41.034000+00:00 db-server-02 sshd[19978]: Failed password for root from 192.0.2.102 port 52070 ssh2
+2027-03-10T21:06:54.619000+00:00 db-server-02 sshd[22925]: Accepted publickey for r.mehta from 10.20.4.180 port 41027 ssh2
+2027-03-10T21:13:49.748000+00:00 db-server-02 sshd[36938]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-10T21:19:24.442000+00:00 db-server-02 sshd[35250]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-10T21:32:00.171000+00:00 db-server-02 sshd[9474]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-10T21:33:51.702000+00:00 db-server-02 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-10T21:38:03.478000+00:00 db-server-02 sshd[24404]: Failed password for oracle from 192.0.2.102 port 51293 ssh2
+2027-03-10T22:09:53.915000+00:00 db-server-02 sshd[26212]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-10T22:25:36.715000+00:00 db-server-02 sshd[14192]: Failed password for ubuntu from 192.0.2.101 port 47294 ssh2
+2027-03-10T23:17:41.909000+00:00 db-server-02 sshd[20653]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-10T23:29:33.792000+00:00 db-server-02 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-10T23:59:19.775000+00:00 db-server-02 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-11T00:05:50.347000+00:00 db-server-02 sshd[1080]: Accepted publickey for d.joshi from 10.20.2.42 port 59308 ssh2
+2027-03-11T00:11:59.828000+00:00 db-server-02 CRON[7542]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T00:27:35.973000+00:00 db-server-02 sshd[30457]: Accepted publickey for r.mehta from 10.20.3.115 port 42406 ssh2
+2027-03-11T01:25:03.602000+00:00 db-server-02 sshd[2701]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-11T01:40:05.848000+00:00 db-server-02 sshd[29329]: Accepted publickey for r.mehta from 10.20.3.124 port 38386 ssh2
+2027-03-11T02:52:06.245000+00:00 db-server-02 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-11T03:38:59.072000+00:00 db-server-02 sshd[1123]: Accepted publickey for k.iyer from 10.20.3.74 port 58596 ssh2
+2027-03-11T04:27:52.499000+00:00 db-server-02 sshd[26364]: Accepted password for r.mehta from 10.20.4.104 port 44013 ssh2
+2027-03-11T05:19:41.747000+00:00 db-server-02 sshd[24563]: pam_unix(sshd:session): session closed for user p.desai(uid=1001) by (uid=0)
+2027-03-11T06:13:27.895000+00:00 db-server-02 sshd[29133]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-11T06:18:19.153000+00:00 db-server-02 CRON[18923]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T06:20:11.638000+00:00 db-server-02 sshd[27265]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-11T06:31:14.533000+00:00 db-server-02 sshd[4830]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-11T06:46:15.975000+00:00 db-server-02 sshd[12803]: pam_unix(sshd:session): session closed for user s.nair(uid=1001) by (uid=0)
+2027-03-11T06:48:43.855000+00:00 db-server-02 sshd[18240]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-11T06:54:26.482000+00:00 db-server-02 sshd[32354]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-11T07:00:10.321000+00:00 db-server-02 sshd[39455]: Disconnected from user v.patel 10.20.2.51 port 49942
+2027-03-11T07:04:54.749000+00:00 db-server-02 sshd[11260]: Disconnected from user s.nair 10.20.1.244 port 57701
+2027-03-11T07:11:36.253000+00:00 db-server-02 sshd[25069]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-11T07:13:25.414000+00:00 db-server-02 sshd[21597]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-11T07:16:47.879000+00:00 db-server-02 CRON[33317]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T07:16:57.328000+00:00 db-server-02 sudo: s.nair : TTY=pts/0 ; PWD=/home/s.nair ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-11T07:21:30.810000+00:00 db-server-02 sshd[10330]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-11T07:34:09.732000+00:00 db-server-02 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-11T07:34:43.407000+00:00 db-server-02 sshd[13701]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-11T07:42:32.366000+00:00 db-server-02 sshd[39266]: Accepted publickey for a.sharma from 10.20.2.173 port 57814 ssh2
+2027-03-11T07:58:49.063000+00:00 db-server-02 CRON[19732]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T08:02:47.075000+00:00 db-server-02 sshd[36530]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-11T08:04:14.981000+00:00 db-server-02 sshd[12694]: Failed password for ubuntu from 192.0.2.101 port 41278 ssh2
+2027-03-11T08:05:12.284000+00:00 db-server-02 sshd[39064]: pam_unix(sshd:session): session closed for user p.desai(uid=1001) by (uid=0)
+2027-03-11T08:10:42.971000+00:00 db-server-02 sshd[7529]: Disconnected from user v.patel 10.20.2.78 port 52505
+2027-03-11T08:13:11.414000+00:00 db-server-02 sshd[24102]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-11T08:16:10.753000+00:00 db-server-02 sshd[19062]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-11T08:21:42.064000+00:00 db-server-02 sshd[15421]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-11T08:23:57.335000+00:00 db-server-02 sshd[33363]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-11T08:27:04.064000+00:00 db-server-02 sshd[5832]: Accepted password for a.sharma from 10.20.1.181 port 47626 ssh2
+2027-03-11T08:28:08.644000+00:00 db-server-02 sshd[25525]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-11T08:29:38.562000+00:00 db-server-02 sshd[24225]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-11T08:34:42.318000+00:00 db-server-02 sshd[10516]: Disconnected from user d.joshi 10.20.3.25 port 58530
+2027-03-11T08:39:21.876000+00:00 db-server-02 CRON[39890]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T08:45:49.599000+00:00 db-server-02 CRON[31292]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T08:47:28.423000+00:00 db-server-02 sshd[2696]: Accepted publickey for d.joshi from 10.20.1.233 port 46589 ssh2
+2027-03-11T08:47:58.214000+00:00 db-server-02 sshd[30026]: Accepted publickey for t.singh from 10.20.3.222 port 58712 ssh2
+2027-03-11T08:52:17.972000+00:00 db-server-02 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-11T08:53:49.176000+00:00 db-server-02 sshd[10236]: Disconnected from user a.sharma 10.20.2.152 port 57038
+2027-03-11T08:56:56.460000+00:00 db-server-02 sshd[21219]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-11T09:00:53.946000+00:00 db-server-02 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-11T09:01:41.225000+00:00 db-server-02 CRON[37178]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T09:11:59.245000+00:00 db-server-02 CRON[29185]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T09:13:17.388000+00:00 db-server-02 sshd[14110]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-11T09:15:23.693000+00:00 db-server-02 sshd[20847]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-11T09:19:02.587000+00:00 db-server-02 sshd[11771]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-11T09:19:05.094000+00:00 db-server-02 sshd[6276]: Accepted publickey for v.patel from 10.20.2.101 port 51563 ssh2
+2027-03-11T09:20:07.096000+00:00 db-server-02 sshd[12797]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-11T09:35:39.575000+00:00 db-server-02 sshd[5580]: Accepted publickey for d.joshi from 10.20.1.141 port 57328 ssh2
+2027-03-11T09:37:14.038000+00:00 db-server-02 CRON[9058]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T09:43:50.092000+00:00 db-server-02 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-11T09:45:37.590000+00:00 db-server-02 CRON[11512]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T09:49:37.098000+00:00 db-server-02 sshd[31710]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-11T09:53:56.861000+00:00 db-server-02 sshd[5602]: Disconnected from user s.nair 10.20.3.168 port 33632
+2027-03-11T09:55:36.774000+00:00 db-server-02 sshd[3404]: Accepted publickey for v.patel from 10.20.1.244 port 42431 ssh2
+2027-03-11T09:56:52.900000+00:00 db-server-02 sshd[31558]: pam_unix(sshd:session): session closed for user d.joshi(uid=1001) by (uid=0)
+2027-03-11T10:16:34.032000+00:00 db-server-02 sshd[28083]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-11T10:17:47.381000+00:00 db-server-02 CRON[19454]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T10:28:29.669000+00:00 db-server-02 sshd[27957]: Accepted publickey for m.khan from 10.20.4.163 port 40086 ssh2
+2027-03-11T10:29:16.493000+00:00 db-server-02 sshd[10277]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-11T10:31:12.688000+00:00 db-server-02 sshd[26834]: Disconnected from user s.nair 10.20.2.217 port 52853
+2027-03-11T10:34:03.299000+00:00 db-server-02 sudo: s.nair : TTY=pts/0 ; PWD=/home/s.nair ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-11T10:39:17.688000+00:00 db-server-02 sshd[7701]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-11T10:50:45.718000+00:00 db-server-02 sshd[20752]: Accepted password for d.joshi from 10.20.1.138 port 59668 ssh2
+2027-03-11T10:53:38.400000+00:00 db-server-02 sshd[23419]: Disconnected from user v.patel 10.20.2.16 port 35936
+2027-03-11T11:03:33.223000+00:00 db-server-02 sshd[22876]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-11T11:06:41.135000+00:00 db-server-02 CRON[5680]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T11:27:12.030000+00:00 db-server-02 CRON[5885]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T11:30:36.181000+00:00 db-server-02 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-11T11:35:25.361000+00:00 db-server-02 CRON[20126]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T11:37:50.101000+00:00 db-server-02 CRON[21515]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T11:39:56.337000+00:00 db-server-02 sshd[17574]: Failed password for test from 192.0.2.103 port 55833 ssh2
+2027-03-11T11:41:16.322000+00:00 db-server-02 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-11T11:47:49.502000+00:00 db-server-02 CRON[31957]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T11:55:20.664000+00:00 db-server-02 CRON[25236]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T11:57:01.228000+00:00 db-server-02 sshd[18764]: Accepted publickey for r.mehta from 10.20.2.188 port 52632 ssh2
+2027-03-11T11:57:09.179000+00:00 db-server-02 CRON[39933]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T12:04:53.510000+00:00 db-server-02 sshd[9896]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-11T12:05:35.797000+00:00 db-server-02 sshd[24394]: Accepted publickey for p.desai from 10.20.1.117 port 56811 ssh2
+2027-03-11T12:09:10.952000+00:00 db-server-02 CRON[17714]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T12:17:22.759000+00:00 db-server-02 sshd[1918]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-11T12:17:47.327000+00:00 db-server-02 CRON[1809]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T12:18:11.346000+00:00 db-server-02 sshd[30066]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-11T12:22:44.926000+00:00 db-server-02 sudo: d.joshi : TTY=pts/0 ; PWD=/home/d.joshi ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-11T12:38:57.911000+00:00 db-server-02 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-11T12:50:15.688000+00:00 db-server-02 CRON[39749]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T12:50:30.657000+00:00 db-server-02 CRON[34862]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T12:55:17.371000+00:00 db-server-02 sshd[34043]: Failed password for oracle from 192.0.2.103 port 36730 ssh2
+2027-03-11T12:55:49.864000+00:00 db-server-02 CRON[17943]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T12:58:00.543000+00:00 db-server-02 CRON[19411]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T13:02:14.044000+00:00 db-server-02 sshd[2897]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-11T13:11:53.196000+00:00 db-server-02 sshd[5370]: Failed password for root from 192.0.2.103 port 45330 ssh2
+2027-03-11T13:16:09.487000+00:00 db-server-02 CRON[10991]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T13:20:34.771000+00:00 db-server-02 CRON[6584]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T13:20:57.304000+00:00 db-server-02 sshd[7245]: Accepted password for d.joshi from 10.20.2.213 port 49996 ssh2
+2027-03-11T13:24:18.031000+00:00 db-server-02 CRON[3892]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T13:35:28.728000+00:00 db-server-02 sshd[27056]: Failed password for oracle from 192.0.2.102 port 47060 ssh2
+2027-03-11T13:35:36.032000+00:00 db-server-02 CRON[36335]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T13:39:00.875000+00:00 db-server-02 CRON[16145]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T13:41:29.881000+00:00 db-server-02 CRON[12823]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T13:44:31.500000+00:00 db-server-02 sshd[29910]: Accepted password for v.patel from 10.20.3.57 port 33970 ssh2
+2027-03-11T13:47:24.761000+00:00 db-server-02 sshd[7730]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-11T13:49:12.467000+00:00 db-server-02 sshd[37731]: Disconnected from user m.khan 10.20.4.74 port 41533
+2027-03-11T13:51:19.480000+00:00 db-server-02 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-11T13:51:50.327000+00:00 db-server-02 sshd[6503]: pam_unix(sshd:session): session closed for user d.joshi(uid=1001) by (uid=0)
+2027-03-11T13:58:24.818000+00:00 db-server-02 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-11T14:01:19.358000+00:00 db-server-02 sshd[39738]: Disconnected from user s.nair 10.20.2.239 port 53877
+2027-03-11T14:01:31.333000+00:00 db-server-02 CRON[27525]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T14:07:15.145000+00:00 db-server-02 sshd[39133]: Disconnected from user n.reddy 10.20.3.190 port 57898
+2027-03-11T14:19:32.784000+00:00 db-server-02 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-11T14:20:26.838000+00:00 db-server-02 CRON[12038]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T14:31:42.753000+00:00 db-server-02 sshd[32095]: pam_unix(sshd:session): session closed for user s.nair(uid=1001) by (uid=0)
+2027-03-11T14:31:59.377000+00:00 db-server-02 CRON[14768]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T14:34:15.326000+00:00 db-server-02 sshd[1332]: pam_unix(sshd:session): session closed for user p.desai(uid=1001) by (uid=0)
+2027-03-11T14:40:57.718000+00:00 db-server-02 sshd[38038]: pam_unix(sshd:session): session closed for user d.joshi(uid=1001) by (uid=0)
+2027-03-11T14:43:33.211000+00:00 db-server-02 CRON[8705]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T14:46:29.799000+00:00 db-server-02 sshd[16579]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-11T14:50:40.947000+00:00 db-server-02 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-11T14:51:31.972000+00:00 db-server-02 sshd[13329]: Accepted password for p.desai from 198.51.100.50 port 45872 ssh2
+2027-03-11T14:56:23.496000+00:00 db-server-02 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-11T14:59:55.641000+00:00 db-server-02 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-11T15:00:30.846000+00:00 db-server-02 sshd[24378]: Accepted password for s.nair from 10.20.4.38 port 46283 ssh2
+2027-03-11T15:01:59.282000+00:00 db-server-02 sshd[25021]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-11T15:07:33.148000+00:00 db-server-02 sshd[11732]: pam_unix(sshd:session): session closed for user s.nair(uid=1001) by (uid=0)
+2027-03-11T15:16:46.805000+00:00 db-server-02 sshd[8307]: Accepted password for p.desai from 10.20.3.143 port 30695 ssh2
+2027-03-11T15:20:18.078000+00:00 db-server-02 sshd[20333]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-11T15:24:59.588000+00:00 db-server-02 CRON[31198]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T15:25:00.620000+00:00 db-server-02 CRON[22112]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T15:26:30.641000+00:00 db-server-02 sshd[32765]: Accepted password for n.reddy from 10.20.4.201 port 39955 ssh2
+2027-03-11T15:31:03.213000+00:00 db-server-02 sshd[20630]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-11T15:36:48.508000+00:00 db-server-02 CRON[25078]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T15:40:14.216000+00:00 db-server-02 CRON[9658]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T16:00:32.277000+00:00 db-server-02 sshd[22485]: Accepted password for t.singh from 10.20.1.105 port 58677 ssh2
+2027-03-11T16:01:17.476000+00:00 db-server-02 sshd[26343]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-11T16:03:02.141000+00:00 db-server-02 sshd[15522]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-11T16:04:14.049000+00:00 db-server-02 sshd[14608]: Accepted password for k.iyer from 198.51.100.51 port 40068 ssh2
+2027-03-11T16:05:12.443000+00:00 db-server-02 sshd[25217]: Accepted password for m.khan from 10.20.2.80 port 56133 ssh2
+2027-03-11T16:08:41.413000+00:00 db-server-02 CRON[23314]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T16:10:18.211000+00:00 db-server-02 sshd[35229]: Disconnected from user n.reddy 10.20.3.23 port 48647
+2027-03-11T16:24:04.863000+00:00 db-server-02 sshd[19407]: Failed password for test from 192.0.2.102 port 50758 ssh2
+2027-03-11T16:29:31.685000+00:00 db-server-02 CRON[6505]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T16:42:51.882000+00:00 db-server-02 sshd[30383]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-11T16:43:45.266000+00:00 db-server-02 CRON[34487]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T16:44:30.987000+00:00 db-server-02 sshd[13282]: Accepted publickey for t.singh from 10.20.3.159 port 56659 ssh2
+2027-03-11T16:44:55.638000+00:00 db-server-02 sshd[36314]: Disconnected from user k.iyer 198.51.100.51 port 31199
+2027-03-11T16:47:33.825000+00:00 db-server-02 sshd[5539]: Accepted publickey for j.thomas from 10.20.1.207 port 55035 ssh2
+2027-03-11T16:50:54.267000+00:00 db-server-02 CRON[19699]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T16:51:48.228000+00:00 db-server-02 sshd[29129]: Failed password for test from 192.0.2.103 port 43708 ssh2
+2027-03-11T16:55:35.373000+00:00 db-server-02 sshd[22792]: Disconnected from user d.joshi 10.20.1.205 port 57306
+2027-03-11T16:56:48.711000+00:00 db-server-02 sshd[22403]: Accepted password for d.joshi from 10.20.4.60 port 46952 ssh2
+2027-03-11T16:57:11.068000+00:00 db-server-02 sudo: s.nair : TTY=pts/0 ; PWD=/home/s.nair ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-11T17:11:32.229000+00:00 db-server-02 sshd[37148]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-11T17:14:32.631000+00:00 db-server-02 sshd[13613]: Failed password for ubuntu from 192.0.2.101 port 40690 ssh2
+2027-03-11T17:20:33.927000+00:00 db-server-02 sshd[18225]: Disconnected from user t.singh 10.20.3.127 port 55995
+2027-03-11T17:33:45.068000+00:00 db-server-02 sshd[15388]: Failed password for test from 192.0.2.103 port 41724 ssh2
+2027-03-11T17:39:24.606000+00:00 db-server-02 sshd[9598]: Accepted publickey for p.desai from 10.20.1.247 port 33597 ssh2
+2027-03-11T17:40:11.064000+00:00 db-server-02 sshd[36204]: Failed password for test from 192.0.2.102 port 44536 ssh2
+2027-03-11T17:41:03.926000+00:00 db-server-02 sshd[12438]: Accepted publickey for v.patel from 10.20.2.116 port 36753 ssh2
+2027-03-11T17:50:14.246000+00:00 db-server-02 sshd[26938]: Disconnected from user k.iyer 10.20.1.219 port 55336
+2027-03-11T17:50:43.598000+00:00 db-server-02 CRON[17926]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T17:52:16.512000+00:00 db-server-02 sshd[33470]: Accepted publickey for v.patel from 10.20.2.92 port 56872 ssh2
+2027-03-11T18:12:38.027000+00:00 db-server-02 sshd[11762]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-11T18:22:57.260000+00:00 db-server-02 sshd[30492]: Failed password for admin from 192.0.2.101 port 41870 ssh2
+2027-03-11T18:23:54.382000+00:00 db-server-02 sshd[20300]: Disconnected from user r.mehta 10.20.3.118 port 55605
+2027-03-11T18:24:26.783000+00:00 db-server-02 sshd[23573]: Accepted publickey for p.desai from 10.20.2.24 port 44724 ssh2
+2027-03-11T18:25:02.882000+00:00 db-server-02 CRON[3861]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T18:29:59.074000+00:00 db-server-02 sshd[24256]: Accepted password for r.mehta from 10.20.4.245 port 41494 ssh2
+2027-03-11T18:54:17.658000+00:00 db-server-02 sshd[26724]: Accepted password for k.iyer from 198.51.100.51 port 35200 ssh2
+2027-03-11T18:56:42.025000+00:00 db-server-02 sshd[10050]: Disconnected from user h.verma 10.20.1.228 port 38182
+2027-03-11T19:01:28.068000+00:00 db-server-02 sshd[2406]: Accepted publickey for t.singh from 10.20.2.45 port 52074 ssh2
+2027-03-11T19:06:57.098000+00:00 db-server-02 sshd[22704]: Accepted publickey for s.nair from 10.20.1.165 port 41496 ssh2
+2027-03-11T19:14:30.281000+00:00 db-server-02 sshd[22453]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-11T19:18:20.990000+00:00 db-server-02 sshd[26271]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-11T19:43:14.608000+00:00 db-server-02 CRON[2281]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T19:44:57.770000+00:00 db-server-02 sshd[10679]: Disconnected from user h.verma 10.20.4.117 port 43833
+2027-03-11T20:08:18.175000+00:00 db-server-02 sshd[21002]: Disconnected from user n.reddy 10.20.3.37 port 44577
+2027-03-11T20:24:03.080000+00:00 db-server-02 CRON[29893]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T20:41:32.872000+00:00 db-server-02 sshd[34142]: Accepted publickey for p.desai from 198.51.100.50 port 59420 ssh2
+2027-03-11T20:54:18.587000+00:00 db-server-02 sshd[39476]: Disconnected from user a.sharma 10.20.2.153 port 32036
+2027-03-11T20:57:37.305000+00:00 db-server-02 CRON[11611]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T22:06:04.038000+00:00 db-server-02 CRON[6479]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T22:11:17.565000+00:00 db-server-02 sshd[3364]: Accepted password for m.khan from 10.20.2.74 port 41760 ssh2
+2027-03-11T22:19:26.181000+00:00 db-server-02 sudo: s.nair : TTY=pts/0 ; PWD=/home/s.nair ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-11T22:30:15.293000+00:00 db-server-02 sshd[18979]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-11T23:00:57.775000+00:00 db-server-02 sshd[28362]: Accepted password for m.khan from 10.20.2.202 port 44275 ssh2
+2027-03-11T23:10:26.193000+00:00 db-server-02 sshd[36952]: Accepted publickey for k.iyer from 198.51.100.51 port 44826 ssh2
+2027-03-11T23:11:36.136000+00:00 db-server-02 CRON[12626]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T00:02:34.431000+00:00 db-server-02 sshd[30238]: Accepted password for v.patel from 10.20.4.123 port 37330 ssh2
+2027-03-12T01:18:20.815000+00:00 db-server-02 CRON[5591]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T01:23:05.029000+00:00 db-server-02 sshd[16666]: Accepted publickey for s.nair from 10.20.2.75 port 43769 ssh2
+2027-03-12T01:26:48.093000+00:00 db-server-02 CRON[5244]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T02:04:19.825000+00:00 db-server-02 sshd[36446]: Accepted password for d.joshi from 10.20.2.126 port 49074 ssh2
+2027-03-12T02:26:47.677000+00:00 db-server-02 sshd[37075]: pam_unix(sshd:session): session closed for user s.nair(uid=1001) by (uid=0)
+2027-03-12T03:15:48.357000+00:00 db-server-02 CRON[10237]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T03:47:07.600000+00:00 db-server-02 sshd[30519]: Failed password for root from 192.0.2.102 port 44661 ssh2
+2027-03-12T03:57:05.308000+00:00 db-server-02 sshd[23472]: Accepted password for d.joshi from 10.20.3.143 port 46256 ssh2
+2027-03-12T04:46:04.834000+00:00 db-server-02 sshd[16642]: Accepted password for s.nair from 10.20.4.45 port 52535 ssh2
+2027-03-12T04:49:16.179000+00:00 db-server-02 CRON[31360]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T05:11:41.465000+00:00 db-server-02 sshd[1052]: Disconnected from user t.singh 10.20.2.204 port 39379
+2027-03-12T05:19:13.792000+00:00 db-server-02 sshd[6240]: Accepted password for m.khan from 10.20.2.83 port 36884 ssh2
+2027-03-12T05:50:20.815000+00:00 db-server-02 sshd[6687]: Failed password for oracle from 192.0.2.102 port 53748 ssh2
+2027-03-12T05:55:24.927000+00:00 db-server-02 sshd[31983]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-12T06:08:12.360000+00:00 db-server-02 sshd[8316]: Accepted password for j.thomas from 10.20.1.175 port 30766 ssh2
+2027-03-12T06:08:36.804000+00:00 db-server-02 sshd[15269]: Accepted publickey for h.verma from 10.20.3.30 port 47228 ssh2
+2027-03-12T06:25:35.172000+00:00 db-server-02 sshd[24231]: Failed password for admin from 192.0.2.103 port 40957 ssh2
+2027-03-12T06:31:37.794000+00:00 db-server-02 CRON[17980]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T06:37:56.398000+00:00 db-server-02 CRON[24194]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T06:38:25.281000+00:00 db-server-02 sshd[39749]: Accepted password for r.mehta from 10.20.1.183 port 40364 ssh2
+2027-03-12T06:50:14.119000+00:00 db-server-02 sshd[31227]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-12T06:50:33.926000+00:00 db-server-02 sshd[27498]: Failed password for admin from 192.0.2.102 port 31680 ssh2
+2027-03-12T06:53:45.612000+00:00 db-server-02 sshd[34314]: Accepted publickey for t.singh from 10.20.3.216 port 44157 ssh2
+2027-03-12T07:06:19.888000+00:00 db-server-02 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-12T07:14:59.235000+00:00 db-server-02 sshd[1131]: Accepted password for n.reddy from 10.20.1.13 port 51180 ssh2
+2027-03-12T07:18:49.612000+00:00 db-server-02 CRON[23864]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T07:19:40.622000+00:00 db-server-02 sshd[13946]: Accepted password for h.verma from 10.20.3.185 port 42778 ssh2
+2027-03-12T07:22:40.004000+00:00 db-server-02 sshd[36442]: Disconnected from user h.verma 10.20.1.104 port 30036
+2027-03-12T07:31:49.791000+00:00 db-server-02 sshd[37797]: Accepted password for t.singh from 10.20.2.79 port 38024 ssh2
+2027-03-12T07:39:19.307000+00:00 db-server-02 sshd[31297]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-12T07:53:52.477000+00:00 db-server-02 sshd[29592]: Accepted publickey for n.reddy from 10.20.2.178 port 48167 ssh2
+2027-03-12T07:56:58.805000+00:00 db-server-02 sshd[8567]: Disconnected from user t.singh 10.20.4.66 port 37229
+2027-03-12T08:06:18.440000+00:00 db-server-02 sshd[36186]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-12T08:10:16.405000+00:00 db-server-02 sshd[30408]: Failed password for admin from 192.0.2.103 port 58115 ssh2
+2027-03-12T08:11:47.711000+00:00 db-server-02 sshd[3808]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-12T08:20:35.988000+00:00 db-server-02 CRON[16026]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T08:28:47.987000+00:00 db-server-02 sshd[19282]: Failed password for test from 192.0.2.101 port 37423 ssh2
+2027-03-12T08:34:20.327000+00:00 db-server-02 sshd[37199]: Accepted publickey for n.reddy from 10.20.1.195 port 55596 ssh2
+2027-03-12T08:52:44.780000+00:00 db-server-02 sshd[12339]: Accepted publickey for p.desai from 10.20.3.113 port 43189 ssh2
+2027-03-12T08:55:02.613000+00:00 db-server-02 CRON[22920]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T09:01:02.550000+00:00 db-server-02 sshd[30971]: Accepted password for j.thomas from 10.20.1.45 port 31444 ssh2
+2027-03-12T09:10:29.285000+00:00 db-server-02 CRON[21078]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T09:13:29.774000+00:00 db-server-02 sshd[5730]: Failed password for test from 192.0.2.101 port 46568 ssh2
+2027-03-12T09:22:49.659000+00:00 db-server-02 sshd[27710]: pam_unix(sshd:session): session closed for user p.desai(uid=1001) by (uid=0)
+2027-03-12T09:26:07.354000+00:00 db-server-02 sshd[35418]: Failed password for oracle from 192.0.2.102 port 40230 ssh2
+2027-03-12T09:33:48.619000+00:00 db-server-02 CRON[14094]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T09:34:12.171000+00:00 db-server-02 sshd[37096]: Failed password for oracle from 192.0.2.103 port 48214 ssh2
+2027-03-12T09:39:00.458000+00:00 db-server-02 sshd[31285]: Disconnected from user r.mehta 10.20.3.194 port 37041
+2027-03-12T09:40:08.115000+00:00 db-server-02 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-12T09:41:13.076000+00:00 db-server-02 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-12T09:41:15.336000+00:00 db-server-02 sshd[4886]: Accepted publickey for h.verma from 10.20.4.173 port 59674 ssh2
+2027-03-12T09:50:21.425000+00:00 db-server-02 sshd[7925]: Accepted publickey for s.nair from 10.20.4.84 port 43357 ssh2
+2027-03-12T09:55:15.866000+00:00 db-server-02 sshd[32576]: Disconnected from user v.patel 10.20.2.14 port 50132
+2027-03-12T09:55:41.075000+00:00 db-server-02 sshd[13710]: Failed password for ubuntu from 192.0.2.102 port 42318 ssh2
+2027-03-12T09:59:20.466000+00:00 db-server-02 sudo: s.nair : TTY=pts/0 ; PWD=/home/s.nair ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-12T10:04:59.390000+00:00 db-server-02 sshd[11805]: Disconnected from user p.desai 10.20.2.188 port 39074
+2027-03-12T10:07:54.435000+00:00 db-server-02 sshd[24722]: Disconnected from user h.verma 10.20.3.237 port 49498
+2027-03-12T10:13:43.909000+00:00 db-server-02 sshd[21039]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-12T10:20:01.767000+00:00 db-server-02 sshd[9317]: Accepted publickey for p.desai from 198.51.100.50 port 56558 ssh2
+2027-03-12T10:34:47.280000+00:00 db-server-02 sshd[36796]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-12T10:35:46.660000+00:00 db-server-02 sshd[27314]: Disconnected from user t.singh 10.20.3.169 port 45339
+2027-03-12T10:47:56.033000+00:00 db-server-02 sshd[17691]: Failed password for oracle from 192.0.2.102 port 40510 ssh2
+2027-03-12T10:48:07.989000+00:00 db-server-02 sshd[16551]: Disconnected from user h.verma 10.20.3.33 port 40626
+2027-03-12T10:50:02.155000+00:00 db-server-02 sshd[33680]: Failed password for ubuntu from 192.0.2.102 port 56982 ssh2
+2027-03-12T10:58:57.526000+00:00 db-server-02 sshd[35652]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-12T11:01:26.069000+00:00 db-server-02 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-12T11:01:41.629000+00:00 db-server-02 CRON[2508]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T11:01:46.712000+00:00 db-server-02 sshd[14311]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-12T11:03:43.206000+00:00 db-server-02 CRON[6060]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T11:16:24.180000+00:00 db-server-02 CRON[31286]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T11:16:30.042000+00:00 db-server-02 sshd[6129]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-12T11:31:21.248000+00:00 db-server-02 sshd[11530]: Accepted password for a.sharma from 10.20.3.94 port 36799 ssh2
+2027-03-12T11:31:47.895000+00:00 db-server-02 sshd[1318]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-12T11:34:59.964000+00:00 db-server-02 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-12T11:40:37.119000+00:00 db-server-02 sshd[11748]: Disconnected from user k.iyer 198.51.100.51 port 43794
+2027-03-12T11:41:12.816000+00:00 db-server-02 CRON[11714]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T11:42:17.298000+00:00 db-server-02 sshd[9594]: Failed password for admin from 192.0.2.103 port 40726 ssh2
+2027-03-12T11:43:50.629000+00:00 db-server-02 sshd[15977]: pam_unix(sshd:session): session closed for user p.desai(uid=1001) by (uid=0)
+2027-03-12T11:46:54.546000+00:00 db-server-02 sshd[17568]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-12T11:49:55.449000+00:00 db-server-02 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-12T11:52:41.705000+00:00 db-server-02 sshd[39645]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-12T11:59:24.896000+00:00 db-server-02 sshd[12891]: Accepted publickey for j.thomas from 10.20.1.54 port 39298 ssh2
+2027-03-12T12:03:24.926000+00:00 db-server-02 sshd[26677]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-12T12:06:12.687000+00:00 db-server-02 sshd[29317]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-12T12:25:17.132000+00:00 db-server-02 sshd[15507]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-12T12:28:09.718000+00:00 db-server-02 sudo: d.joshi : TTY=pts/0 ; PWD=/home/d.joshi ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-12T12:30:59.730000+00:00 db-server-02 CRON[5492]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T12:44:21.745000+00:00 db-server-02 CRON[22300]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T12:44:49.029000+00:00 db-server-02 sshd[20243]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-12T12:48:00.118000+00:00 db-server-02 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-12T13:00:15.031000+00:00 db-server-02 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-12T13:01:08.439000+00:00 db-server-02 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-12T13:09:32.490000+00:00 db-server-02 sshd[10962]: Accepted password for d.joshi from 10.20.4.72 port 37284 ssh2
+2027-03-12T13:11:09.795000+00:00 db-server-02 CRON[9919]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T13:11:32.003000+00:00 db-server-02 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-12T13:12:24.523000+00:00 db-server-02 sshd[35792]: Accepted password for k.iyer from 10.20.1.150 port 39547 ssh2
+2027-03-12T13:17:24.524000+00:00 db-server-02 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-12T13:19:43.424000+00:00 db-server-02 sshd[21418]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-12T13:21:17.633000+00:00 db-server-02 sshd[6181]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-12T13:22:24.259000+00:00 db-server-02 sshd[16886]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-12T13:28:17.816000+00:00 db-server-02 sshd[10543]: Failed password for ubuntu from 192.0.2.101 port 32626 ssh2
+2027-03-12T13:28:43.780000+00:00 db-server-02 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-12T13:28:51.286000+00:00 db-server-02 sshd[24656]: Accepted publickey for s.nair from 10.20.2.235 port 58319 ssh2
+2027-03-12T13:29:06.886000+00:00 db-server-02 sshd[35693]: Accepted publickey for r.mehta from 10.20.2.126 port 31408 ssh2
+2027-03-12T13:37:15.623000+00:00 db-server-02 sshd[26421]: Accepted password for n.reddy from 10.20.3.233 port 57330 ssh2
+2027-03-12T13:40:20.862000+00:00 db-server-02 CRON[9687]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T13:43:31.567000+00:00 db-server-02 sshd[11573]: Failed password for test from 192.0.2.101 port 57689 ssh2
+2027-03-12T13:54:53.045000+00:00 db-server-02 sshd[14702]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-12T13:55:04.925000+00:00 db-server-02 sshd[28827]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-12T13:55:24.225000+00:00 db-server-02 sshd[24517]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-12T13:59:00.569000+00:00 db-server-02 CRON[30750]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T14:04:50.125000+00:00 db-server-02 sshd[25046]: Disconnected from user a.sharma 10.20.3.143 port 43775
+2027-03-12T14:06:05.029000+00:00 db-server-02 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-12T14:07:53.006000+00:00 db-server-02 sshd[19437]: Failed password for root from 192.0.2.102 port 55736 ssh2
+2027-03-12T14:08:04.163000+00:00 db-server-02 sshd[30120]: Accepted publickey for t.singh from 10.20.4.225 port 52631 ssh2
+2027-03-12T14:11:37.463000+00:00 db-server-02 sshd[26566]: Disconnected from user m.khan 10.20.3.12 port 35417
+2027-03-12T14:16:24.802000+00:00 db-server-02 sshd[19044]: Disconnected from user v.patel 10.20.3.213 port 59640
+2027-03-12T14:17:00.562000+00:00 db-server-02 sshd[21597]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-12T14:27:30.675000+00:00 db-server-02 sshd[36927]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-12T14:28:07.017000+00:00 db-server-02 CRON[36171]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T14:31:54.986000+00:00 db-server-02 CRON[17695]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T14:52:22.752000+00:00 db-server-02 sshd[18174]: Accepted publickey for j.thomas from 10.20.4.131 port 51607 ssh2
+2027-03-12T15:02:31.911000+00:00 db-server-02 sshd[18594]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-12T15:03:17.368000+00:00 db-server-02 sshd[39224]: Accepted password for n.reddy from 10.20.1.101 port 35756 ssh2
+2027-03-12T15:03:17.710000+00:00 db-server-02 sshd[10010]: Accepted publickey for m.khan from 10.20.4.173 port 41061 ssh2
+2027-03-12T15:04:57.701000+00:00 db-server-02 sshd[15273]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-12T15:10:10.062000+00:00 db-server-02 sshd[28135]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-12T15:10:38.421000+00:00 db-server-02 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-12T15:15:24.731000+00:00 db-server-02 sudo: s.nair : TTY=pts/0 ; PWD=/home/s.nair ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-12T15:15:27.301000+00:00 db-server-02 sshd[15397]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-12T15:15:44.289000+00:00 db-server-02 sshd[9692]: Accepted publickey for k.iyer from 198.51.100.51 port 34178 ssh2
+2027-03-12T15:18:21.161000+00:00 db-server-02 CRON[9142]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T15:20:01.446000+00:00 db-server-02 sshd[26450]: Failed password for admin from 192.0.2.101 port 34702 ssh2
+2027-03-12T15:21:14.795000+00:00 db-server-02 sshd[5692]: Failed password for root from 192.0.2.103 port 35243 ssh2
+2027-03-12T15:24:43.344000+00:00 db-server-02 sshd[23043]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-12T15:24:44.073000+00:00 db-server-02 sshd[33278]: Accepted password for a.sharma from 10.20.2.87 port 48798 ssh2
+2027-03-12T15:25:33.688000+00:00 db-server-02 sshd[9249]: Failed password for ubuntu from 192.0.2.101 port 34155 ssh2
+2027-03-12T15:29:01.154000+00:00 db-server-02 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-12T15:29:25.493000+00:00 db-server-02 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-12T15:35:00.988000+00:00 db-server-02 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-12T15:38:53.546000+00:00 db-server-02 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-12T15:39:02.956000+00:00 db-server-02 sshd[6279]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-12T15:42:08.162000+00:00 db-server-02 sshd[29558]: Failed password for test from 192.0.2.101 port 47197 ssh2
+2027-03-12T15:56:35.143000+00:00 db-server-02 CRON[25318]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T15:57:36.840000+00:00 db-server-02 sshd[38380]: Accepted publickey for m.khan from 10.20.1.53 port 54161 ssh2
+2027-03-12T16:01:59.331000+00:00 db-server-02 sshd[33964]: Accepted password for a.sharma from 10.20.2.71 port 54569 ssh2
+2027-03-12T16:03:22.580000+00:00 db-server-02 sshd[8963]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-12T16:05:29.001000+00:00 db-server-02 sshd[5531]: Disconnected from user d.joshi 10.20.2.165 port 46294
+2027-03-12T16:07:02.812000+00:00 db-server-02 sshd[18551]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-12T16:08:58.861000+00:00 db-server-02 sshd[28393]: Failed password for oracle from 192.0.2.101 port 41417 ssh2
+2027-03-12T16:10:49.464000+00:00 db-server-02 CRON[3520]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T16:13:49.315000+00:00 db-server-02 sshd[3507]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-12T16:14:12.918000+00:00 db-server-02 sshd[13681]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-12T16:14:15.684000+00:00 db-server-02 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-12T16:23:55.864000+00:00 db-server-02 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-12T16:34:11.413000+00:00 db-server-02 sshd[36523]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-12T16:38:33.975000+00:00 db-server-02 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-12T16:48:12.026000+00:00 db-server-02 CRON[2085]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T16:48:50.544000+00:00 db-server-02 sshd[16575]: Failed password for test from 192.0.2.101 port 47259 ssh2
+2027-03-12T16:49:03.573000+00:00 db-server-02 sshd[39050]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-12T16:50:01.034000+00:00 db-server-02 sshd[10314]: Failed password for oracle from 192.0.2.102 port 50488 ssh2
+2027-03-12T16:50:58.341000+00:00 db-server-02 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-12T16:52:34.047000+00:00 db-server-02 sshd[20486]: Disconnected from user j.thomas 10.20.4.87 port 40565
+2027-03-12T16:56:21.015000+00:00 db-server-02 CRON[32871]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T16:58:19.848000+00:00 db-server-02 CRON[13298]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T17:02:28.622000+00:00 db-server-02 sshd[29320]: Accepted publickey for j.thomas from 10.20.4.118 port 41322 ssh2
+2027-03-12T17:06:51.775000+00:00 db-server-02 sshd[37170]: Accepted publickey for n.reddy from 10.20.4.36 port 56099 ssh2
+2027-03-12T17:09:41.777000+00:00 db-server-02 sshd[3809]: Accepted publickey for t.singh from 10.20.3.210 port 41251 ssh2
+2027-03-12T17:09:57.964000+00:00 db-server-02 CRON[7951]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T17:10:15.700000+00:00 db-server-02 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-12T17:20:01.934000+00:00 db-server-02 sshd[26870]: Failed password for test from 192.0.2.103 port 46393 ssh2
+2027-03-12T17:25:08.371000+00:00 db-server-02 sshd[10394]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-12T17:29:50.036000+00:00 db-server-02 sshd[29515]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-12T17:34:56.121000+00:00 db-server-02 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-12T17:40:42.497000+00:00 db-server-02 sshd[34384]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-12T17:52:41.653000+00:00 db-server-02 sshd[25232]: Disconnected from user a.sharma 10.20.3.166 port 37937
+2027-03-12T17:52:49.487000+00:00 db-server-02 sshd[34276]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-12T17:54:16.940000+00:00 db-server-02 CRON[5731]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T17:56:17.916000+00:00 db-server-02 sshd[6536]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-12T17:59:37.425000+00:00 db-server-02 sshd[32410]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-12T18:02:27.341000+00:00 db-server-02 sshd[20338]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-12T18:06:33.287000+00:00 db-server-02 sshd[1647]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-12T18:10:01.604000+00:00 db-server-02 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-12T18:18:52.872000+00:00 db-server-02 CRON[6049]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T18:32:14.823000+00:00 db-server-02 sshd[14529]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-12T19:00:39.410000+00:00 db-server-02 sshd[34333]: Failed password for root from 192.0.2.102 port 34044 ssh2
+2027-03-12T19:00:59.423000+00:00 db-server-02 sshd[5418]: Accepted password for m.khan from 10.20.4.59 port 47167 ssh2
+2027-03-12T19:09:42.907000+00:00 db-server-02 sshd[4777]: Accepted publickey for t.singh from 10.20.1.61 port 34602 ssh2
+2027-03-12T19:26:56.805000+00:00 db-server-02 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-12T19:27:09.035000+00:00 db-server-02 sshd[35296]: Accepted password for d.joshi from 10.20.2.126 port 49466 ssh2
+2027-03-12T19:34:38.849000+00:00 db-server-02 sshd[29045]: Accepted password for r.mehta from 10.20.1.114 port 37507 ssh2
+2027-03-12T19:38:27.036000+00:00 db-server-02 sshd[36980]: Failed password for ubuntu from 192.0.2.101 port 40130 ssh2
+2027-03-12T19:51:31.299000+00:00 db-server-02 CRON[21949]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T20:05:39.577000+00:00 db-server-02 sshd[13797]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-12T20:11:42.131000+00:00 db-server-02 sshd[15761]: Accepted publickey for j.thomas from 10.20.3.186 port 37380 ssh2
+2027-03-12T20:17:50.990000+00:00 db-server-02 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-12T20:26:58.511000+00:00 db-server-02 CRON[6681]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T20:29:02.607000+00:00 db-server-02 sshd[2748]: Failed password for admin from 192.0.2.102 port 55571 ssh2
+2027-03-12T20:42:34.922000+00:00 db-server-02 sshd[36471]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-12T20:42:51.998000+00:00 db-server-02 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-12T21:01:37.938000+00:00 db-server-02 sshd[16912]: Accepted password for m.khan from 10.20.3.127 port 52867 ssh2
+2027-03-12T21:03:18.981000+00:00 db-server-02 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-12T21:25:25.557000+00:00 db-server-02 sshd[6611]: Accepted password for r.mehta from 10.20.4.64 port 59657 ssh2
+2027-03-12T21:31:00.257000+00:00 db-server-02 sshd[21775]: Failed password for ubuntu from 192.0.2.102 port 37363 ssh2
+2027-03-12T21:35:19.831000+00:00 db-server-02 sshd[9207]: Failed password for test from 192.0.2.103 port 51108 ssh2
+2027-03-12T21:37:33.641000+00:00 db-server-02 CRON[16791]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T22:14:12.188000+00:00 db-server-02 CRON[38303]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T22:40:55.648000+00:00 db-server-02 CRON[14824]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T23:52:51.080000+00:00 db-server-02 sshd[10753]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-12T23:53:19.381000+00:00 db-server-02 CRON[14387]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T23:54:42.628000+00:00 db-server-02 CRON[34559]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T00:12:05.101000+00:00 db-server-02 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-13T00:49:47.382000+00:00 db-server-02 sshd[7096]: Disconnected from user p.desai 10.20.2.72 port 45546
+2027-03-13T01:50:49.705000+00:00 db-server-02 sshd[14356]: Accepted password for a.sharma from 10.20.1.58 port 52533 ssh2
+2027-03-13T01:53:18.278000+00:00 db-server-02 sshd[33452]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-13T04:05:36.156000+00:00 db-server-02 sshd[21732]: Disconnected from user t.singh 10.20.4.88 port 37898
+2027-03-13T04:41:50.657000+00:00 db-server-02 sshd[2391]: Accepted password for v.patel from 10.20.1.35 port 57511 ssh2
+2027-03-13T04:51:46.554000+00:00 db-server-02 sshd[9670]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-13T05:32:59.966000+00:00 db-server-02 sshd[3273]: Accepted publickey for s.nair from 10.20.4.143 port 58026 ssh2
+2027-03-13T05:39:13.608000+00:00 db-server-02 sshd[1976]: Accepted publickey for n.reddy from 10.20.2.208 port 34550 ssh2
+2027-03-13T06:16:32.569000+00:00 db-server-02 sshd[23574]: Accepted publickey for d.joshi from 10.20.2.131 port 56387 ssh2
+2027-03-13T06:32:28.233000+00:00 db-server-02 sshd[7359]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-13T06:34:54.332000+00:00 db-server-02 sshd[1654]: Accepted publickey for r.mehta from 10.20.4.17 port 55559 ssh2
+2027-03-13T06:38:32.672000+00:00 db-server-02 sshd[29448]: Accepted publickey for m.khan from 10.20.2.169 port 56376 ssh2
+2027-03-13T06:55:48.924000+00:00 db-server-02 CRON[7392]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T07:04:06.254000+00:00 db-server-02 sshd[33532]: Accepted publickey for j.thomas from 10.20.4.101 port 37621 ssh2
+2027-03-13T07:09:02.444000+00:00 db-server-02 sshd[27067]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-13T07:12:43.425000+00:00 db-server-02 sshd[18146]: Disconnected from user n.reddy 10.20.3.225 port 43345
+2027-03-13T07:21:51.241000+00:00 db-server-02 sshd[35512]: Failed password for ubuntu from 192.0.2.101 port 38425 ssh2
+2027-03-13T07:23:32.414000+00:00 db-server-02 sshd[29539]: Accepted publickey for v.patel from 10.20.4.166 port 37222 ssh2
+2027-03-13T07:35:03.615000+00:00 db-server-02 sshd[24792]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-13T07:40:45.027000+00:00 db-server-02 sshd[33039]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-13T07:46:21.591000+00:00 db-server-02 sshd[24658]: Accepted password for m.khan from 10.20.3.150 port 32235 ssh2
+2027-03-13T07:52:19.192000+00:00 db-server-02 sshd[20137]: Disconnected from user k.iyer 10.20.1.240 port 52795
+2027-03-13T07:53:11.255000+00:00 db-server-02 sshd[27875]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-13T07:58:39.476000+00:00 db-server-02 sshd[1590]: Disconnected from user h.verma 10.20.3.125 port 37784
+2027-03-13T08:04:17.072000+00:00 db-server-02 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-13T08:12:54.537000+00:00 db-server-02 sshd[13803]: pam_unix(sshd:session): session closed for user s.nair(uid=1001) by (uid=0)
+2027-03-13T08:15:36.029000+00:00 db-server-02 sshd[3864]: Accepted password for a.sharma from 10.20.4.63 port 59423 ssh2
+2027-03-13T08:16:34.108000+00:00 db-server-02 sshd[23981]: Accepted password for n.reddy from 10.20.4.84 port 33174 ssh2
+2027-03-13T08:19:03.267000+00:00 db-server-02 sshd[24584]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-13T08:21:20.791000+00:00 db-server-02 sshd[24275]: Accepted password for h.verma from 10.20.3.13 port 50705 ssh2
+2027-03-13T08:25:40.470000+00:00 db-server-02 sshd[31046]: Failed password for oracle from 192.0.2.101 port 59652 ssh2
+2027-03-13T08:27:02.256000+00:00 db-server-02 sshd[37849]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-13T08:30:15.655000+00:00 db-server-02 CRON[34829]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T08:30:27.609000+00:00 db-server-02 sshd[9581]: Disconnected from user n.reddy 10.20.4.85 port 42210
+2027-03-13T08:30:50.023000+00:00 db-server-02 CRON[17850]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T08:31:38.232000+00:00 db-server-02 sshd[9169]: Failed password for root from 192.0.2.101 port 33723 ssh2
+2027-03-13T08:41:01.411000+00:00 db-server-02 sshd[37810]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-13T08:51:26.730000+00:00 db-server-02 CRON[25007]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T08:51:39.292000+00:00 db-server-02 sshd[11018]: Failed password for oracle from 192.0.2.103 port 45951 ssh2
+2027-03-13T08:52:50.196000+00:00 db-server-02 CRON[20479]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T08:53:46.408000+00:00 db-server-02 sshd[7464]: Disconnected from user p.desai 198.51.100.50 port 54394
+2027-03-13T08:56:26.545000+00:00 db-server-02 sshd[34373]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-13T09:00:49.312000+00:00 db-server-02 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-13T09:00:55.376000+00:00 db-server-02 sshd[23526]: Accepted password for a.sharma from 10.20.3.181 port 45803 ssh2
+2027-03-13T09:08:54.848000+00:00 db-server-02 sshd[7322]: Accepted publickey for t.singh from 10.20.3.56 port 43511 ssh2
+2027-03-13T09:09:57.267000+00:00 db-server-02 sshd[17461]: pam_unix(sshd:session): session closed for user p.desai(uid=1001) by (uid=0)
+2027-03-13T09:10:42.776000+00:00 db-server-02 sshd[36018]: Accepted password for p.desai from 198.51.100.50 port 37775 ssh2
+2027-03-13T09:12:48.179000+00:00 db-server-02 sshd[23261]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-13T09:15:02.637000+00:00 db-server-02 sshd[13590]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-13T09:15:05.536000+00:00 db-server-02 sshd[6170]: Accepted password for p.desai from 10.20.2.216 port 50629 ssh2
+2027-03-13T09:15:40.707000+00:00 db-server-02 sshd[20878]: Failed password for admin from 192.0.2.103 port 48895 ssh2
+2027-03-13T09:15:47.570000+00:00 db-server-02 sshd[2399]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-13T09:18:11.429000+00:00 db-server-02 sshd[33044]: Failed password for ubuntu from 192.0.2.102 port 30872 ssh2
+2027-03-13T09:32:20.034000+00:00 db-server-02 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-13T09:32:41.726000+00:00 db-server-02 sshd[32210]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-13T09:38:55.202000+00:00 db-server-02 CRON[24310]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T09:42:01.437000+00:00 db-server-02 CRON[10793]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T09:42:26.335000+00:00 db-server-02 sshd[27785]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-13T09:44:34.754000+00:00 db-server-02 sshd[10458]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-13T09:44:37.865000+00:00 db-server-02 sudo: d.joshi : TTY=pts/0 ; PWD=/home/d.joshi ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-13T09:52:48.478000+00:00 db-server-02 sshd[4902]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-13T10:01:58.680000+00:00 db-server-02 sshd[5074]: Accepted publickey for d.joshi from 10.20.1.50 port 47151 ssh2
+2027-03-13T10:12:38.705000+00:00 db-server-02 sshd[25315]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-13T10:14:58.809000+00:00 db-server-02 sshd[18717]: Accepted password for k.iyer from 10.20.3.119 port 33167 ssh2
+2027-03-13T10:15:11.281000+00:00 db-server-02 sshd[22222]: Disconnected from user a.sharma 10.20.2.63 port 53321
+2027-03-13T10:15:24.583000+00:00 db-server-02 sshd[26036]: Accepted password for d.joshi from 10.20.4.179 port 58415 ssh2
+2027-03-13T10:15:41.628000+00:00 db-server-02 sshd[3309]: Accepted publickey for h.verma from 10.20.3.82 port 59208 ssh2
+2027-03-13T10:22:01.745000+00:00 db-server-02 sshd[11289]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-13T10:22:10.797000+00:00 db-server-02 sshd[16645]: Accepted password for k.iyer from 198.51.100.51 port 31346 ssh2
+2027-03-13T10:26:04.064000+00:00 db-server-02 sshd[30636]: Failed password for oracle from 192.0.2.101 port 34041 ssh2
+2027-03-13T10:29:04.865000+00:00 db-server-02 sshd[37746]: Disconnected from user t.singh 10.20.1.130 port 38943
+2027-03-13T10:40:13.927000+00:00 db-server-02 CRON[32945]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T10:42:33.527000+00:00 db-server-02 sshd[24100]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-13T10:42:52.823000+00:00 db-server-02 sudo: d.joshi : TTY=pts/0 ; PWD=/home/d.joshi ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-13T10:44:38.930000+00:00 db-server-02 sshd[37644]: Failed password for admin from 192.0.2.101 port 49768 ssh2
+2027-03-13T10:45:46.742000+00:00 db-server-02 sshd[13951]: pam_unix(sshd:session): session closed for user d.joshi(uid=1001) by (uid=0)
+2027-03-13T10:45:57.774000+00:00 db-server-02 sshd[39085]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-13T10:48:35.554000+00:00 db-server-02 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-13T10:55:55.302000+00:00 db-server-02 sshd[19178]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-13T11:05:12.147000+00:00 db-server-02 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-13T11:05:36.166000+00:00 db-server-02 sshd[36055]: Failed password for ubuntu from 192.0.2.101 port 47817 ssh2
+2027-03-13T11:06:57.411000+00:00 db-server-02 CRON[5789]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T11:08:45.366000+00:00 db-server-02 CRON[36821]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T11:08:49.348000+00:00 db-server-02 CRON[18473]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T11:13:56.205000+00:00 db-server-02 sshd[3625]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-13T11:19:47.616000+00:00 db-server-02 sshd[17655]: Failed password for root from 192.0.2.101 port 55759 ssh2
+2027-03-13T11:24:49.765000+00:00 db-server-02 CRON[5062]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T11:25:20.641000+00:00 db-server-02 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-13T11:28:29.839000+00:00 db-server-02 sudo: s.nair : TTY=pts/0 ; PWD=/home/s.nair ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-13T11:33:13.246000+00:00 db-server-02 sshd[6273]: pam_unix(sshd:session): session closed for user p.desai(uid=1001) by (uid=0)
+2027-03-13T11:36:00.476000+00:00 db-server-02 sshd[21671]: Failed password for ubuntu from 192.0.2.101 port 53919 ssh2
+2027-03-13T11:37:27.783000+00:00 db-server-02 sshd[21289]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-13T11:38:24.288000+00:00 db-server-02 CRON[11708]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T11:42:09.766000+00:00 db-server-02 sshd[12650]: pam_unix(sshd:session): session closed for user p.desai(uid=1001) by (uid=0)
+2027-03-13T11:45:41.904000+00:00 db-server-02 sshd[12470]: Accepted password for r.mehta from 10.20.3.242 port 53322 ssh2
+2027-03-13T11:47:50.657000+00:00 db-server-02 sshd[19156]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-13T11:49:21.705000+00:00 db-server-02 CRON[27153]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T11:51:03.620000+00:00 db-server-02 sshd[3907]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-13T11:51:15.115000+00:00 db-server-02 CRON[29371]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T11:52:11.122000+00:00 db-server-02 sshd[18507]: Failed password for ubuntu from 192.0.2.103 port 30691 ssh2
+2027-03-13T11:53:43.180000+00:00 db-server-02 sshd[2314]: Disconnected from user a.sharma 10.20.3.177 port 52143
+2027-03-13T11:57:13.316000+00:00 db-server-02 sshd[1826]: Disconnected from user j.thomas 10.20.4.51 port 59954
+2027-03-13T11:59:01.434000+00:00 db-server-02 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-13T12:02:47.332000+00:00 db-server-02 CRON[39002]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T12:05:48.331000+00:00 db-server-02 sshd[2037]: Disconnected from user h.verma 10.20.1.62 port 35736
+2027-03-13T12:07:59.561000+00:00 db-server-02 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-13T12:31:35.547000+00:00 db-server-02 sshd[5649]: Failed password for root from 192.0.2.101 port 40336 ssh2
+2027-03-13T12:38:33.524000+00:00 db-server-02 sshd[18011]: Accepted publickey for p.desai from 10.20.1.188 port 39005 ssh2
+2027-03-13T12:38:33.972000+00:00 db-server-02 sshd[28424]: Accepted password for n.reddy from 10.20.3.159 port 57435 ssh2
+2027-03-13T12:39:53.313000+00:00 db-server-02 sshd[7995]: Failed password for oracle from 192.0.2.101 port 57743 ssh2
+2027-03-13T12:43:10.942000+00:00 db-server-02 sshd[4053]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-13T12:43:49.943000+00:00 db-server-02 CRON[3236]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T12:48:16.475000+00:00 db-server-02 sshd[25408]: Disconnected from user s.nair 10.20.1.42 port 30818
+2027-03-13T12:50:41.242000+00:00 db-server-02 sshd[36193]: Failed password for admin from 192.0.2.103 port 42247 ssh2
+2027-03-13T12:52:15.538000+00:00 db-server-02 sshd[34323]: Accepted publickey for n.reddy from 10.20.3.193 port 54155 ssh2
+2027-03-13T12:56:16.028000+00:00 db-server-02 sshd[18966]: Accepted password for k.iyer from 198.51.100.51 port 30123 ssh2
+2027-03-13T12:57:31.274000+00:00 db-server-02 sshd[26343]: Disconnected from user n.reddy 10.20.4.217 port 54713
+2027-03-13T13:08:14.551000+00:00 db-server-02 sshd[36913]: Disconnected from user n.reddy 10.20.2.130 port 33210
+2027-03-13T13:11:50.952000+00:00 db-server-02 sudo: s.nair : TTY=pts/0 ; PWD=/home/s.nair ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-13T13:15:29.765000+00:00 db-server-02 sshd[14925]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-13T13:31:53.986000+00:00 db-server-02 CRON[28831]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T13:34:31.062000+00:00 db-server-02 sshd[33604]: pam_unix(sshd:session): session closed for user d.joshi(uid=1001) by (uid=0)
+2027-03-13T13:39:34.910000+00:00 db-server-02 sshd[23830]: Accepted password for p.desai from 10.20.3.112 port 34766 ssh2
+2027-03-13T13:40:10.682000+00:00 db-server-02 sshd[17577]: Disconnected from user s.nair 10.20.1.57 port 58457
+2027-03-13T13:48:33.062000+00:00 db-server-02 sshd[2061]: Accepted password for a.sharma from 10.20.3.68 port 33891 ssh2
+2027-03-13T13:49:55.582000+00:00 db-server-02 sshd[28979]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-13T13:50:38.610000+00:00 db-server-02 sudo: s.nair : TTY=pts/0 ; PWD=/home/s.nair ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-13T13:51:51.597000+00:00 db-server-02 sshd[21411]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-13T13:58:14.379000+00:00 db-server-02 sshd[1295]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-13T13:59:36.091000+00:00 db-server-02 CRON[2127]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T14:03:06.794000+00:00 db-server-02 sshd[9947]: Failed password for root from 192.0.2.101 port 38637 ssh2
+2027-03-13T14:04:12.077000+00:00 db-server-02 sshd[34394]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-13T14:07:16.036000+00:00 db-server-02 sshd[28824]: Accepted password for d.joshi from 10.20.3.145 port 58780 ssh2
+2027-03-13T14:09:17.382000+00:00 db-server-02 sshd[15044]: Accepted password for t.singh from 10.20.3.147 port 33468 ssh2
+2027-03-13T14:10:22.696000+00:00 db-server-02 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-13T14:12:46.547000+00:00 db-server-02 sshd[38162]: Failed password for test from 192.0.2.103 port 36569 ssh2
+2027-03-13T14:13:01.379000+00:00 db-server-02 sshd[2916]: Failed password for oracle from 192.0.2.102 port 45656 ssh2
+2027-03-13T14:13:57.700000+00:00 db-server-02 sshd[10608]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-13T14:29:26.514000+00:00 db-server-02 sshd[21684]: Accepted password for j.thomas from 10.20.2.184 port 30199 ssh2
+2027-03-13T14:35:44.008000+00:00 db-server-02 sshd[18503]: Accepted publickey for r.mehta from 10.20.3.65 port 53115 ssh2
+2027-03-13T14:35:54.566000+00:00 db-server-02 CRON[32163]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T14:42:15.080000+00:00 db-server-02 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-13T14:43:43.654000+00:00 db-server-02 sshd[23287]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-13T14:44:10.999000+00:00 db-server-02 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-13T14:50:04.564000+00:00 db-server-02 sshd[3821]: Accepted password for t.singh from 10.20.1.185 port 59673 ssh2
+2027-03-13T14:55:32.849000+00:00 db-server-02 sshd[35764]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-13T14:56:13.141000+00:00 db-server-02 sudo: v.patel : TTY=pts/0 ; PWD=/home/v.patel ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-13T14:56:55.845000+00:00 db-server-02 sshd[4594]: Accepted publickey for j.thomas from 10.20.1.175 port 42346 ssh2
+2027-03-13T15:03:19.030000+00:00 db-server-02 CRON[12116]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T15:03:52.463000+00:00 db-server-02 sshd[39114]: Accepted password for k.iyer from 198.51.100.51 port 40570 ssh2
+2027-03-13T15:05:04.521000+00:00 db-server-02 CRON[35202]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T15:10:54.822000+00:00 db-server-02 sshd[10717]: Accepted password for r.mehta from 10.20.2.29 port 56005 ssh2
+2027-03-13T15:13:41.507000+00:00 db-server-02 sshd[2535]: Accepted publickey for r.mehta from 10.20.3.74 port 42447 ssh2
+2027-03-13T15:16:03.610000+00:00 db-server-02 sshd[3399]: Failed password for admin from 192.0.2.103 port 35339 ssh2
+2027-03-13T15:20:51.088000+00:00 db-server-02 CRON[25357]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T15:23:11.641000+00:00 db-server-02 sshd[32660]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-13T15:34:03.494000+00:00 db-server-02 sshd[27288]: Accepted publickey for a.sharma from 10.20.2.195 port 50911 ssh2
+2027-03-13T15:36:12.163000+00:00 db-server-02 sshd[21967]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-13T15:37:30.552000+00:00 db-server-02 CRON[17308]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T15:41:28.542000+00:00 db-server-02 sshd[12193]: Failed password for oracle from 192.0.2.101 port 47493 ssh2
+2027-03-13T15:49:45.691000+00:00 db-server-02 sshd[23569]: Failed password for oracle from 192.0.2.101 port 31516 ssh2
+2027-03-13T15:55:13.755000+00:00 db-server-02 sshd[32656]: Disconnected from user v.patel 10.20.1.195 port 31644
+2027-03-13T15:58:27.294000+00:00 db-server-02 sshd[24476]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-13T15:58:44.579000+00:00 db-server-02 sshd[38584]: Accepted password for r.mehta from 10.20.1.242 port 39370 ssh2
+2027-03-13T15:59:21.818000+00:00 db-server-02 CRON[20787]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T15:59:35.462000+00:00 db-server-02 sshd[33119]: Accepted publickey for n.reddy from 10.20.1.238 port 31436 ssh2
+2027-03-13T16:02:24.607000+00:00 db-server-02 sshd[32509]: Disconnected from user r.mehta 10.20.4.192 port 33994
+2027-03-13T16:06:10.331000+00:00 db-server-02 sshd[31797]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-13T16:06:57.238000+00:00 db-server-02 sshd[29789]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-13T16:10:34.100000+00:00 db-server-02 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-13T16:17:16.656000+00:00 db-server-02 sshd[22741]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-13T16:28:14.659000+00:00 db-server-02 sshd[24575]: Accepted publickey for t.singh from 10.20.3.166 port 31105 ssh2
+2027-03-13T16:29:00.406000+00:00 db-server-02 sshd[26991]: Accepted publickey for m.khan from 10.20.3.13 port 35808 ssh2
+2027-03-13T16:32:51.202000+00:00 db-server-02 sshd[1448]: Accepted password for p.desai from 10.20.4.204 port 36641 ssh2
+2027-03-13T16:37:54.701000+00:00 db-server-02 sshd[17880]: Accepted publickey for j.thomas from 10.20.4.152 port 34184 ssh2
+2027-03-13T16:43:59.122000+00:00 db-server-02 sshd[36810]: Accepted password for d.joshi from 10.20.3.224 port 54719 ssh2
+2027-03-13T16:44:06.980000+00:00 db-server-02 sshd[17127]: Disconnected from user h.verma 10.20.1.59 port 37403
+2027-03-13T16:44:23.507000+00:00 db-server-02 sshd[20619]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-13T16:47:00.188000+00:00 db-server-02 sshd[38955]: Failed password for oracle from 192.0.2.102 port 43988 ssh2
+2027-03-13T16:47:14.229000+00:00 db-server-02 sudo: d.joshi : TTY=pts/0 ; PWD=/home/d.joshi ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-13T16:52:04.067000+00:00 db-server-02 sshd[4797]: Accepted publickey for t.singh from 10.20.1.92 port 30554 ssh2
+2027-03-13T16:52:44.361000+00:00 db-server-02 sshd[31612]: Accepted password for t.singh from 10.20.2.199 port 50003 ssh2
+2027-03-13T17:08:17.903000+00:00 db-server-02 sshd[25525]: pam_unix(sshd:session): session closed for user d.joshi(uid=1001) by (uid=0)
+2027-03-13T17:09:23.916000+00:00 db-server-02 sshd[14904]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-13T17:09:55.834000+00:00 db-server-02 sshd[6560]: Accepted password for m.khan from 10.20.2.150 port 59159 ssh2
+2027-03-13T17:10:04.342000+00:00 db-server-02 CRON[3909]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T17:18:58.154000+00:00 db-server-02 sshd[19029]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-13T17:19:59.177000+00:00 db-server-02 sshd[39545]: Accepted publickey for k.iyer from 198.51.100.51 port 36113 ssh2
+2027-03-13T17:22:20.143000+00:00 db-server-02 sshd[3470]: Accepted publickey for p.desai from 10.20.4.231 port 41757 ssh2
+2027-03-13T17:25:26.410000+00:00 db-server-02 sshd[23042]: Accepted password for j.thomas from 10.20.2.159 port 47419 ssh2
+2027-03-13T17:29:43.403000+00:00 db-server-02 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-13T17:29:56.270000+00:00 db-server-02 sshd[27726]: Disconnected from user h.verma 10.20.1.53 port 47110
+2027-03-13T17:32:12.686000+00:00 db-server-02 sshd[33169]: Disconnected from user r.mehta 10.20.3.187 port 32999
+2027-03-13T17:37:40.294000+00:00 db-server-02 sshd[12103]: Failed password for ubuntu from 192.0.2.103 port 30837 ssh2
+2027-03-13T17:42:30.647000+00:00 db-server-02 sshd[38111]: Accepted password for n.reddy from 10.20.3.49 port 49123 ssh2
+2027-03-13T17:43:22.053000+00:00 db-server-02 sshd[30356]: Disconnected from user n.reddy 10.20.1.24 port 50058
+2027-03-13T17:52:15.086000+00:00 db-server-02 CRON[19717]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T17:57:27.700000+00:00 db-server-02 CRON[1735]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T18:14:18.503000+00:00 db-server-02 sshd[22180]: Failed password for ubuntu from 192.0.2.103 port 31755 ssh2
+2027-03-13T18:53:22.558000+00:00 db-server-02 CRON[32341]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T19:00:35.475000+00:00 db-server-02 CRON[18449]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T19:02:27.246000+00:00 db-server-02 sshd[16721]: Accepted publickey for k.iyer from 10.20.3.128 port 58383 ssh2
+2027-03-13T19:04:36.675000+00:00 db-server-02 sshd[12462]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-13T19:18:02.811000+00:00 db-server-02 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-13T19:23:51.245000+00:00 db-server-02 sshd[9144]: Failed password for test from 192.0.2.101 port 48635 ssh2
+2027-03-13T19:28:08.137000+00:00 db-server-02 CRON[7890]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T19:35:03.418000+00:00 db-server-02 sshd[38046]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-13T19:47:21.357000+00:00 db-server-02 CRON[34802]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T20:10:20.312000+00:00 db-server-02 sshd[13744]: Disconnected from user v.patel 10.20.4.70 port 34693
+2027-03-13T20:36:01.171000+00:00 db-server-02 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-13T20:44:56.453000+00:00 db-server-02 sshd[3430]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-13T20:54:39.492000+00:00 db-server-02 sshd[4177]: Disconnected from user a.sharma 10.20.3.245 port 53631
+2027-03-13T20:58:47.971000+00:00 db-server-02 CRON[27232]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T21:08:10.982000+00:00 db-server-02 sshd[24126]: Failed password for ubuntu from 192.0.2.103 port 49568 ssh2
+2027-03-13T21:10:00.048000+00:00 db-server-02 sshd[5178]: Disconnected from user m.khan 10.20.1.118 port 47119
+2027-03-13T21:18:30.671000+00:00 db-server-02 CRON[28760]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T22:10:47.558000+00:00 db-server-02 CRON[9145]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T00:30:03.398000+00:00 db-server-02 sshd[4268]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-14T01:40:25.605000+00:00 db-server-02 sudo: v.patel : TTY=pts/0 ; PWD=/home/v.patel ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-14T01:44:25.673000+00:00 db-server-02 sshd[12565]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-14T02:40:48.280000+00:00 db-server-02 sshd[21109]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-14T02:46:45.651000+00:00 db-server-02 CRON[35574]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T02:48:27.860000+00:00 db-server-02 sshd[29842]: Failed password for ubuntu from 192.0.2.102 port 56073 ssh2
+2027-03-14T03:27:33.747000+00:00 db-server-02 sshd[36964]: Disconnected from user h.verma 10.20.1.204 port 46447
+2027-03-14T03:41:44.364000+00:00 db-server-02 CRON[36921]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T04:58:41.328000+00:00 db-server-02 sshd[15102]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-14T05:31:53.603000+00:00 db-server-02 sshd[24625]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-14T05:38:58.273000+00:00 db-server-02 CRON[36701]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T05:46:33.772000+00:00 db-server-02 sshd[35834]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-14T06:09:16.119000+00:00 db-server-02 sshd[24991]: Disconnected from user a.sharma 10.20.3.36 port 30562
+2027-03-14T06:09:25.342000+00:00 db-server-02 sshd[18936]: Accepted password for s.nair from 10.20.4.146 port 36442 ssh2
+2027-03-14T06:18:30.400000+00:00 db-server-02 sshd[27815]: Failed password for oracle from 192.0.2.102 port 34792 ssh2
+2027-03-14T06:28:28.156000+00:00 db-server-02 sshd[27211]: Failed password for ubuntu from 192.0.2.102 port 43463 ssh2
+2027-03-14T06:30:59.744000+00:00 db-server-02 sshd[10767]: Accepted password for k.iyer from 10.20.2.62 port 38012 ssh2
+2027-03-14T07:14:14.207000+00:00 db-server-02 sshd[10099]: Accepted password for k.iyer from 10.20.4.12 port 59862 ssh2
+2027-03-14T07:14:50.028000+00:00 db-server-02 sshd[25759]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-14T07:14:56.837000+00:00 db-server-02 CRON[28879]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T07:15:58.432000+00:00 db-server-02 CRON[31876]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T07:18:32.037000+00:00 db-server-02 sshd[16863]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-14T07:20:17.560000+00:00 db-server-02 sshd[5204]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-14T07:21:22.337000+00:00 db-server-02 sshd[5304]: Accepted password for v.patel from 10.20.4.151 port 41675 ssh2
+2027-03-14T07:38:00.875000+00:00 db-server-02 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-14T07:40:12.267000+00:00 db-server-02 sshd[15431]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-14T07:43:40.040000+00:00 db-server-02 CRON[39300]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T07:47:06.546000+00:00 db-server-02 sshd[21827]: Failed password for root from 192.0.2.102 port 46376 ssh2
+2027-03-14T07:47:26.420000+00:00 db-server-02 sshd[27432]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-14T07:47:59.377000+00:00 db-server-02 sshd[3201]: pam_unix(sshd:session): session closed for user d.joshi(uid=1001) by (uid=0)
+2027-03-14T07:52:02.577000+00:00 db-server-02 sshd[27066]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-14T08:03:52.585000+00:00 db-server-02 CRON[17101]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T08:04:24.459000+00:00 db-server-02 sshd[10994]: Accepted publickey for v.patel from 10.20.3.87 port 43677 ssh2
+2027-03-14T08:04:41.789000+00:00 db-server-02 CRON[27304]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T08:09:23.930000+00:00 db-server-02 CRON[7047]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T08:10:43.205000+00:00 db-server-02 sshd[12862]: Accepted password for d.joshi from 10.20.4.224 port 58627 ssh2
+2027-03-14T08:12:32.201000+00:00 db-server-02 CRON[7500]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T08:14:49.533000+00:00 db-server-02 sudo: v.patel : TTY=pts/0 ; PWD=/home/v.patel ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-14T08:18:59.320000+00:00 db-server-02 sshd[8420]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-14T08:30:44.605000+00:00 db-server-02 CRON[16741]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T08:32:25.885000+00:00 db-server-02 sshd[32396]: pam_unix(sshd:session): session closed for user s.nair(uid=1001) by (uid=0)
+2027-03-14T08:35:19.126000+00:00 db-server-02 CRON[13638]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T08:42:38.609000+00:00 db-server-02 sshd[2381]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-14T08:45:23.301000+00:00 db-server-02 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-14T08:47:36.114000+00:00 db-server-02 CRON[16312]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T08:52:17.513000+00:00 db-server-02 CRON[32691]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T08:52:26.542000+00:00 db-server-02 sshd[32167]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-14T08:53:38.686000+00:00 db-server-02 sshd[29819]: Accepted publickey for v.patel from 10.20.3.119 port 54878 ssh2
+2027-03-14T08:57:08.612000+00:00 db-server-02 sshd[21263]: Accepted password for m.khan from 10.20.3.76 port 48735 ssh2
+2027-03-14T08:57:33.765000+00:00 db-server-02 sshd[7862]: Accepted password for t.singh from 10.20.3.159 port 55311 ssh2
+2027-03-14T09:18:32.809000+00:00 db-server-02 sshd[16418]: Accepted publickey for h.verma from 10.20.4.69 port 53991 ssh2
+2027-03-14T09:21:01.623000+00:00 db-server-02 CRON[38407]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T09:29:46.699000+00:00 db-server-02 sshd[37339]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-14T09:37:05.953000+00:00 db-server-02 sshd[39480]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-14T09:41:14.269000+00:00 db-server-02 sshd[11473]: Accepted password for h.verma from 10.20.2.183 port 58509 ssh2
+2027-03-14T09:45:37.115000+00:00 db-server-02 sshd[34860]: Failed password for admin from 192.0.2.102 port 31341 ssh2
+2027-03-14T09:46:16.231000+00:00 db-server-02 sshd[7897]: Accepted password for m.khan from 10.20.4.136 port 46117 ssh2
+2027-03-14T10:02:30.850000+00:00 db-server-02 sshd[10022]: Accepted password for j.thomas from 10.20.4.58 port 35687 ssh2
+2027-03-14T10:04:20.031000+00:00 db-server-02 sshd[39797]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-14T10:07:07.665000+00:00 db-server-02 sshd[7315]: Disconnected from user r.mehta 10.20.4.68 port 57402
+2027-03-14T10:07:33.305000+00:00 db-server-02 sshd[9654]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-14T10:12:50.319000+00:00 db-server-02 sshd[20116]: Accepted password for v.patel from 10.20.1.115 port 48221 ssh2
+2027-03-14T10:26:50.220000+00:00 db-server-02 sshd[24219]: Accepted password for s.nair from 10.20.3.53 port 34112 ssh2
+2027-03-14T10:29:42.335000+00:00 db-server-02 sshd[30313]: Disconnected from user d.joshi 10.20.4.67 port 40544
+2027-03-14T10:33:41.362000+00:00 db-server-02 sshd[22582]: Failed password for root from 192.0.2.102 port 58358 ssh2
+2027-03-14T10:42:32.951000+00:00 db-server-02 sshd[17701]: pam_unix(sshd:session): session closed for user d.joshi(uid=1001) by (uid=0)
+2027-03-14T10:43:21.200000+00:00 db-server-02 CRON[39590]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T10:49:24.357000+00:00 db-server-02 CRON[20300]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T10:51:44.809000+00:00 db-server-02 sshd[11547]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-14T10:52:13.830000+00:00 db-server-02 sshd[36817]: Accepted publickey for v.patel from 10.20.4.58 port 45505 ssh2
+2027-03-14T10:55:54.376000+00:00 db-server-02 sshd[32172]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-14T10:58:24.643000+00:00 db-server-02 sshd[7542]: Accepted publickey for h.verma from 10.20.2.234 port 39608 ssh2
+2027-03-14T10:58:30.443000+00:00 db-server-02 sshd[26726]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-14T11:03:40.451000+00:00 db-server-02 sshd[32422]: Accepted publickey for p.desai from 198.51.100.50 port 34852 ssh2
+2027-03-14T11:24:37.230000+00:00 db-server-02 sshd[12698]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-14T11:28:54.643000+00:00 db-server-02 sshd[25456]: pam_unix(sshd:session): session closed for user p.desai(uid=1001) by (uid=0)
+2027-03-14T11:33:25.238000+00:00 db-server-02 sshd[12789]: Disconnected from user n.reddy 10.20.4.132 port 50363
+2027-03-14T11:35:29.181000+00:00 db-server-02 sshd[36357]: Accepted publickey for s.nair from 10.20.4.157 port 59486 ssh2
+2027-03-14T11:41:35.078000+00:00 db-server-02 sshd[24364]: Accepted publickey for m.khan from 10.20.3.65 port 40631 ssh2
+2027-03-14T11:42:10.926000+00:00 db-server-02 sshd[28370]: Failed password for root from 192.0.2.103 port 46915 ssh2
+2027-03-14T11:43:02.316000+00:00 db-server-02 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-14T11:45:45.155000+00:00 db-server-02 CRON[31307]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T11:46:20.977000+00:00 db-server-02 sshd[13848]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-14T11:46:30.761000+00:00 db-server-02 CRON[14919]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T11:50:51.265000+00:00 db-server-02 sshd[16966]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-14T11:51:46.446000+00:00 db-server-02 sshd[24530]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-14T11:52:57.921000+00:00 db-server-02 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-14T11:59:03.412000+00:00 db-server-02 sshd[34983]: Accepted password for n.reddy from 10.20.2.202 port 54932 ssh2
+2027-03-14T11:59:39.870000+00:00 db-server-02 sshd[7149]: Accepted publickey for t.singh from 10.20.4.246 port 42891 ssh2
+2027-03-14T12:00:32.125000+00:00 db-server-02 sshd[18838]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-14T12:04:25.975000+00:00 db-server-02 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-14T12:04:59.681000+00:00 db-server-02 CRON[6577]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T12:06:22.327000+00:00 db-server-02 sshd[10421]: pam_unix(sshd:session): session closed for user s.nair(uid=1001) by (uid=0)
+2027-03-14T12:06:43.400000+00:00 db-server-02 sshd[20087]: Accepted publickey for p.desai from 10.20.4.37 port 40061 ssh2
+2027-03-14T12:07:16.060000+00:00 db-server-02 sshd[15887]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-14T12:16:31.270000+00:00 db-server-02 CRON[27108]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T12:20:59.694000+00:00 db-server-02 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-14T12:24:29.194000+00:00 db-server-02 sshd[27073]: Accepted password for p.desai from 198.51.100.50 port 39883 ssh2
+2027-03-14T12:33:32.755000+00:00 db-server-02 CRON[28249]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T12:38:25.100000+00:00 db-server-02 sshd[33140]: Disconnected from user a.sharma 10.20.2.233 port 59747
+2027-03-14T12:42:08.835000+00:00 db-server-02 sshd[9836]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-14T12:42:12.256000+00:00 db-server-02 CRON[38656]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T13:00:06.010000+00:00 db-server-02 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-14T13:00:46.905000+00:00 db-server-02 sshd[23167]: Accepted publickey for t.singh from 10.20.4.203 port 40507 ssh2
+2027-03-14T13:01:22.660000+00:00 db-server-02 CRON[11226]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T13:03:09.135000+00:00 db-server-02 CRON[29276]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T13:03:37.069000+00:00 db-server-02 sshd[24273]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-14T13:03:51.804000+00:00 db-server-02 CRON[38996]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T13:04:04.880000+00:00 db-server-02 sshd[13161]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-14T13:04:35.122000+00:00 db-server-02 CRON[19240]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T13:10:55.670000+00:00 db-server-02 sshd[8538]: Failed password for ubuntu from 192.0.2.102 port 56700 ssh2
+2027-03-14T13:13:47.567000+00:00 db-server-02 sshd[11198]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-14T13:15:11.126000+00:00 db-server-02 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-14T13:17:37.268000+00:00 db-server-02 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-14T13:24:52.476000+00:00 db-server-02 sshd[18267]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-14T13:29:06.308000+00:00 db-server-02 sshd[9404]: Failed password for admin from 192.0.2.103 port 52865 ssh2
+2027-03-14T13:34:09.796000+00:00 db-server-02 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-14T13:34:50.716000+00:00 db-server-02 CRON[22806]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T13:35:23.356000+00:00 db-server-02 CRON[25998]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T13:36:00.536000+00:00 db-server-02 CRON[16777]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T13:36:22.783000+00:00 db-server-02 sshd[35918]: Accepted publickey for t.singh from 10.20.1.125 port 32476 ssh2
+2027-03-14T13:39:30.040000+00:00 db-server-02 sshd[20095]: Accepted password for p.desai from 198.51.100.50 port 49202 ssh2
+2027-03-14T13:43:36.972000+00:00 db-server-02 sshd[30607]: Accepted password for t.singh from 10.20.2.23 port 41946 ssh2
+2027-03-14T13:49:32.823000+00:00 db-server-02 CRON[8686]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T13:51:33.317000+00:00 db-server-02 sshd[31618]: Accepted password for m.khan from 10.20.2.152 port 53154 ssh2
+2027-03-14T13:54:26.464000+00:00 db-server-02 sshd[22962]: Accepted publickey for j.thomas from 10.20.2.18 port 42890 ssh2
+2027-03-14T13:54:58.275000+00:00 db-server-02 sshd[30752]: Accepted publickey for j.thomas from 10.20.3.236 port 50939 ssh2
+2027-03-14T13:56:16.201000+00:00 db-server-02 sshd[38963]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-14T14:05:08.696000+00:00 db-server-02 CRON[21822]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T14:16:22.881000+00:00 db-server-02 sshd[14148]: Accepted publickey for a.sharma from 10.20.2.35 port 56652 ssh2
+2027-03-14T14:21:08.695000+00:00 db-server-02 sudo: v.patel : TTY=pts/0 ; PWD=/home/v.patel ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-14T14:24:30.804000+00:00 db-server-02 sshd[6684]: Failed password for admin from 192.0.2.103 port 47938 ssh2
+2027-03-14T14:25:20.382000+00:00 db-server-02 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-14T14:26:05.123000+00:00 db-server-02 CRON[22338]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T14:27:28.689000+00:00 db-server-02 sshd[12742]: Accepted password for k.iyer from 198.51.100.51 port 53099 ssh2
+2027-03-14T14:28:51.987000+00:00 db-server-02 CRON[8404]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T14:29:44.230000+00:00 db-server-02 sshd[37061]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-14T14:33:26.094000+00:00 db-server-02 sshd[24372]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-14T14:33:38.166000+00:00 db-server-02 sshd[15324]: Disconnected from user r.mehta 10.20.4.145 port 41756
+2027-03-14T14:38:00.996000+00:00 db-server-02 sshd[29804]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-14T14:48:58.618000+00:00 db-server-02 sshd[24122]: Failed password for oracle from 192.0.2.102 port 39722 ssh2
+2027-03-14T14:53:24.790000+00:00 db-server-02 sshd[28568]: Failed password for test from 192.0.2.102 port 47125 ssh2
+2027-03-14T14:58:51.085000+00:00 db-server-02 sshd[23369]: Accepted password for a.sharma from 10.20.3.73 port 44550 ssh2
+2027-03-14T15:02:41.058000+00:00 db-server-02 CRON[8948]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T15:06:41.052000+00:00 db-server-02 sshd[15015]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-14T15:13:18.360000+00:00 db-server-02 sshd[21270]: Accepted publickey for m.khan from 10.20.1.176 port 32699 ssh2
+2027-03-14T15:13:37.270000+00:00 db-server-02 sshd[10311]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-14T15:14:58.138000+00:00 db-server-02 sshd[33700]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-14T15:15:38.864000+00:00 db-server-02 sshd[2464]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-14T15:16:58.623000+00:00 db-server-02 CRON[24774]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T15:20:54.477000+00:00 db-server-02 sshd[1640]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-14T15:23:57.139000+00:00 db-server-02 sshd[12976]: Accepted publickey for r.mehta from 10.20.1.40 port 59920 ssh2
+2027-03-14T15:25:26.789000+00:00 db-server-02 sshd[6748]: Disconnected from user t.singh 10.20.2.235 port 51339
+2027-03-14T15:28:48.436000+00:00 db-server-02 sshd[13261]: Accepted publickey for n.reddy from 10.20.1.248 port 49085 ssh2
+2027-03-14T15:30:14.204000+00:00 db-server-02 sudo: s.nair : TTY=pts/0 ; PWD=/home/s.nair ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-14T15:30:28.377000+00:00 db-server-02 CRON[18679]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T15:38:08.526000+00:00 db-server-02 sshd[30918]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-14T15:40:15.625000+00:00 db-server-02 sshd[33771]: Accepted publickey for k.iyer from 10.20.4.233 port 40605 ssh2
+2027-03-14T15:42:45.457000+00:00 db-server-02 sshd[35128]: pam_unix(sshd:session): session closed for user d.joshi(uid=1001) by (uid=0)
+2027-03-14T15:46:21.487000+00:00 db-server-02 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-14T15:48:49.397000+00:00 db-server-02 sshd[32997]: Accepted publickey for t.singh from 10.20.4.46 port 44414 ssh2
+2027-03-14T15:50:59.599000+00:00 db-server-02 sshd[14620]: Disconnected from user d.joshi 10.20.4.97 port 45856
+2027-03-14T15:51:28.550000+00:00 db-server-02 sshd[1283]: Failed password for root from 192.0.2.102 port 39715 ssh2
+2027-03-14T15:51:33.000000+00:00 db-server-02 sshd[23144]: Accepted password for r.mehta from 45.77.12.9 port 51122 ssh2
+2027-03-14T15:51:34.000000+00:00 db-server-02 sshd[23144]: pam_unix(sshd:session): session opened for user r.mehta(uid=1004) by (uid=0)
+2027-03-14T15:53:12.000000+00:00 db-server-02 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/cat /home/r.mehta/.aws/credentials
+2027-03-14T15:53:40.000000+00:00 db-server-02 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/cat /home/r.mehta/.aws/config
+2027-03-14T15:54:18.142000+00:00 db-server-02 CRON[23968]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T16:10:04.664000+00:00 db-server-02 sshd[11564]: Failed password for admin from 192.0.2.103 port 52380 ssh2
+2027-03-14T16:12:09.942000+00:00 db-server-02 sshd[25656]: Accepted password for r.mehta from 10.20.3.230 port 33543 ssh2
+2027-03-14T16:23:26.780000+00:00 db-server-02 sshd[12444]: Accepted password for m.khan from 10.20.2.244 port 53474 ssh2
+2027-03-14T16:26:59.791000+00:00 db-server-02 sshd[5241]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-14T16:28:30.916000+00:00 db-server-02 sshd[5522]: Accepted publickey for t.singh from 10.20.1.55 port 53513 ssh2
+2027-03-14T16:28:54.072000+00:00 db-server-02 sshd[13926]: Failed password for test from 192.0.2.103 port 41427 ssh2
+2027-03-14T16:30:16.001000+00:00 db-server-02 sshd[3837]: Accepted password for h.verma from 10.20.2.203 port 40846 ssh2
+2027-03-14T16:32:36.242000+00:00 db-server-02 sshd[11041]: Accepted publickey for j.thomas from 10.20.1.52 port 50069 ssh2
+2027-03-14T16:33:00.847000+00:00 db-server-02 sshd[36778]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-14T16:35:24.208000+00:00 db-server-02 sshd[33740]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-14T16:39:20.194000+00:00 db-server-02 sshd[34021]: Accepted publickey for t.singh from 10.20.2.143 port 43642 ssh2
+2027-03-14T16:40:31.898000+00:00 db-server-02 CRON[29189]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T16:41:36.453000+00:00 db-server-02 CRON[14039]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T16:41:43.095000+00:00 db-server-02 sshd[2091]: Disconnected from user s.nair 10.20.1.126 port 38309
+2027-03-14T16:44:07.269000+00:00 db-server-02 sshd[12081]: Accepted password for r.mehta from 10.20.4.65 port 37341 ssh2
+2027-03-14T16:45:02.163000+00:00 db-server-02 sshd[2751]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-14T16:45:21.305000+00:00 db-server-02 sshd[20637]: Accepted publickey for m.khan from 10.20.2.164 port 36728 ssh2
+2027-03-14T16:47:01.360000+00:00 db-server-02 sshd[9691]: Accepted publickey for r.mehta from 10.20.3.138 port 59440 ssh2
+2027-03-14T16:47:49.891000+00:00 db-server-02 CRON[1833]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T16:47:49.935000+00:00 db-server-02 sshd[28614]: Accepted password for t.singh from 10.20.3.162 port 30641 ssh2
+2027-03-14T16:48:12.053000+00:00 db-server-02 sshd[25296]: Accepted publickey for s.nair from 10.20.3.65 port 34378 ssh2
+2027-03-14T16:57:17.369000+00:00 db-server-02 sshd[8952]: Accepted publickey for v.patel from 10.20.1.59 port 38238 ssh2
+2027-03-14T16:58:13.779000+00:00 db-server-02 sshd[13368]: pam_unix(sshd:session): session closed for user s.nair(uid=1001) by (uid=0)
+2027-03-14T17:01:39.796000+00:00 db-server-02 sshd[33089]: Accepted publickey for r.mehta from 10.20.4.49 port 34495 ssh2
+2027-03-14T17:04:27.128000+00:00 db-server-02 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-14T17:13:45.403000+00:00 db-server-02 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-14T17:14:47.542000+00:00 db-server-02 CRON[3648]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T17:21:46.673000+00:00 db-server-02 sshd[8282]: Accepted password for k.iyer from 198.51.100.51 port 40362 ssh2
+2027-03-14T17:22:33.315000+00:00 db-server-02 sshd[4464]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-14T17:40:01.390000+00:00 db-server-02 sudo: v.patel : TTY=pts/0 ; PWD=/home/v.patel ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-14T17:42:45.114000+00:00 db-server-02 sshd[26089]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-14T17:43:29.586000+00:00 db-server-02 sshd[29803]: Disconnected from user h.verma 10.20.3.243 port 49777
+2027-03-14T17:48:20.105000+00:00 db-server-02 sshd[39304]: Accepted publickey for d.joshi from 10.20.2.172 port 30845 ssh2
+2027-03-14T17:51:25.450000+00:00 db-server-02 sshd[21198]: pam_unix(sshd:session): session closed for user p.desai(uid=1001) by (uid=0)
+2027-03-14T17:53:37.231000+00:00 db-server-02 sudo: v.patel : TTY=pts/0 ; PWD=/home/v.patel ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-14T17:55:05.230000+00:00 db-server-02 CRON[12785]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T17:57:06.905000+00:00 db-server-02 sshd[32774]: Accepted password for h.verma from 10.20.3.192 port 58357 ssh2
+2027-03-14T18:09:11.553000+00:00 db-server-02 CRON[2930]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T18:22:02.632000+00:00 db-server-02 sshd[26721]: Accepted password for a.sharma from 10.20.3.26 port 35586 ssh2
+2027-03-14T18:26:16.788000+00:00 db-server-02 sshd[21347]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-14T18:27:43.740000+00:00 db-server-02 CRON[38980]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T18:27:46.947000+00:00 db-server-02 sshd[6003]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-14T18:31:07.887000+00:00 db-server-02 sshd[27206]: Disconnected from user s.nair 10.20.2.172 port 40310
+2027-03-14T18:37:00.100000+00:00 db-server-02 sshd[24041]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-14T18:38:29.486000+00:00 db-server-02 CRON[38530]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T18:45:00.053000+00:00 db-server-02 CRON[34964]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T18:46:58.026000+00:00 db-server-02 sshd[33201]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-14T19:10:47.785000+00:00 db-server-02 sshd[31250]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-14T19:36:01.288000+00:00 db-server-02 sshd[39172]: Failed password for oracle from 192.0.2.101 port 42855 ssh2
+2027-03-14T19:40:49.137000+00:00 db-server-02 sshd[23764]: Failed password for admin from 192.0.2.102 port 50609 ssh2
+2027-03-14T19:44:20.292000+00:00 db-server-02 sshd[3707]: Accepted password for s.nair from 10.20.4.181 port 52180 ssh2
+2027-03-14T19:48:01.975000+00:00 db-server-02 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-14T19:48:24.330000+00:00 db-server-02 sshd[38923]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-14T19:55:46.164000+00:00 db-server-02 sshd[22891]: Disconnected from user r.mehta 10.20.3.152 port 35052
+2027-03-14T20:08:59.587000+00:00 db-server-02 sshd[32089]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-14T20:27:25.275000+00:00 db-server-02 sshd[21921]: Failed password for oracle from 192.0.2.102 port 37728 ssh2
+2027-03-14T20:59:58.746000+00:00 db-server-02 sshd[29800]: pam_unix(sshd:session): session closed for user s.nair(uid=1001) by (uid=0)
+2027-03-14T21:38:09.120000+00:00 db-server-02 sshd[21024]: Accepted password for r.mehta from 10.20.1.164 port 49101 ssh2
+2027-03-14T21:42:39.252000+00:00 db-server-02 CRON[1705]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T21:44:48.736000+00:00 db-server-02 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-14T21:50:56.247000+00:00 db-server-02 sshd[21621]: Accepted password for d.joshi from 10.20.4.210 port 32063 ssh2
+2027-03-14T21:51:03.410000+00:00 db-server-02 sshd[20850]: Accepted publickey for t.singh from 10.20.4.57 port 34994 ssh2
+2027-03-14T23:14:30.153000+00:00 db-server-02 sshd[39582]: Disconnected from user v.patel 10.20.1.173 port 59770
+2027-03-14T23:25:45.316000+00:00 db-server-02 sshd[17953]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)

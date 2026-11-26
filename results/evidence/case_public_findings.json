@@ -1,0 +1,147 @@
+[
+  {
+    "id": "F-0001",
+    "technique_id": "T1003.001",
+    "title": "OS Credential Dumping: LSASS Memory: user labuser; host WIN10-LAB [2 events]",
+    "event_ids": [
+      "W-5241",
+      "W-5242"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "F-0002",
+    "technique_id": "T1543.003",
+    "title": "Create/Modify System Process: Windows Service: host WIN10-LAB [1 event]",
+    "event_ids": [
+      "W-5243"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "F-0003",
+    "technique_id": "T1569.002",
+    "title": "System Services: Service Execution: host WIN10-LAB [1 event]",
+    "event_ids": [
+      "W-5243"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "F-0004",
+    "technique_id": "T1021.002",
+    "title": "Remote Services: SMB/Windows Admin Shares: user labuser; ip 10.10.10.25; host WIN10-LAB [1 event]",
+    "event_ids": [
+      "W-5244"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "F-0005",
+    "technique_id": "T1053.005",
+    "title": "Scheduled Task/Job: Scheduled Task: user labuser; host WIN10-LAB [1 event]",
+    "event_ids": [
+      "W-5245"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "F-0006",
+    "technique_id": "T1136.001",
+    "title": "Create Account: Local Account: user labuser; host WIN10-LAB [1 event]",
+    "event_ids": [
+      "W-5246"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "F-0007",
+    "technique_id": "T1098",
+    "title": "Account Manipulation (added to privileged group): user labuser; host WIN10-LAB [1 event]",
+    "event_ids": [
+      "W-5247"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "F-0008",
+    "technique_id": "T1059.001",
+    "title": "Command and Scripting Interpreter: PowerShell: user labuser; host WIN10-LAB [1 event]",
+    "event_ids": [
+      "W-5248"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "F-0009",
+    "technique_id": "T1490",
+    "title": "Inhibit System Recovery: user labuser; host WIN10-LAB [1 event]",
+    "event_ids": [
+      "W-5249"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "F-0010",
+    "technique_id": "T1558.003",
+    "title": "Steal or Forge Kerberos Tickets: Kerberoasting: user labuser; ip 10.10.10.25; host WIN10-LAB [1 event]",
+    "event_ids": [
+      "W-5250"
+    ],
+    "confidence": "low"
+  },
+  {
+    "id": "F-0011",
+    "technique_id": "T1070.001",
+    "title": "Indicator Removal: Clear Windows Event Logs: user labuser; host WIN10-LAB [1 event]",
+    "event_ids": [
+      "W-5251"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "F-0012",
+    "technique_id": "T1555.006",
+    "title": "Credentials from Password Stores: Cloud Secrets Management Stores: user stratus-dev; ip 198.51.100.7; host ap-south-1 [1 event]",
+    "event_ids": [
+      "A-101"
+    ],
+    "confidence": "low"
+  },
+  {
+    "id": "F-0013",
+    "technique_id": "T1136.003",
+    "title": "Create Account: Cloud Account: user stratus-dev; ip 198.51.100.7; host ap-south-1 [1 event]",
+    "event_ids": [
+      "A-102"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "F-0014",
+    "technique_id": "T1098.003",
+    "title": "Account Manipulation: Additional Cloud Roles: user stratus-dev; ip 198.51.100.7; host ap-south-1 [1 event]",
+    "event_ids": [
+      "A-103"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "F-0015",
+    "technique_id": "T1098.001",
+    "title": "Account Manipulation: Additional Cloud Credentials: user stratus-dev; ip 198.51.100.7; host ap-south-1 [1 event]",
+    "event_ids": [
+      "A-104"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "F-0016",
+    "technique_id": "T1562.008",
+    "title": "Impair Defenses: Disable or Modify Cloud Logs: user stratus-dev; ip 198.51.100.7; host ap-south-1 [1 event]",
+    "event_ids": [
+      "A-105"
+    ],
+    "confidence": "high"
+  }
+]

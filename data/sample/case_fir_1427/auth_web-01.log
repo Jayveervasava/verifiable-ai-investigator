@@ -1,0 +1,1541 @@
+2027-03-08T00:01:41.878000+00:00 web-01 CRON[8285]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T01:31:54.852000+00:00 web-01 sshd[9737]: Accepted publickey for a.sharma from 10.20.2.91 port 49345 ssh2
+2027-03-08T01:39:41.110000+00:00 web-01 CRON[31814]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T01:50:53.280000+00:00 web-01 CRON[14493]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T03:07:05.798000+00:00 web-01 sshd[7826]: pam_unix(sshd:session): session closed for user s.nair(uid=1001) by (uid=0)
+2027-03-08T03:46:47.369000+00:00 web-01 sshd[1787]: Disconnected from user p.desai 10.20.1.221 port 47438
+2027-03-08T04:19:58.374000+00:00 web-01 CRON[35919]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T05:21:07.326000+00:00 web-01 sshd[36955]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-08T05:54:27.866000+00:00 web-01 CRON[39735]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T06:04:52.418000+00:00 web-01 CRON[28014]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T06:14:25.422000+00:00 web-01 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-08T06:42:00.798000+00:00 web-01 sudo: d.joshi : TTY=pts/0 ; PWD=/home/d.joshi ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-08T06:55:50.852000+00:00 web-01 sshd[34212]: Accepted publickey for d.joshi from 10.20.1.35 port 46320 ssh2
+2027-03-08T07:08:48.271000+00:00 web-01 sshd[18590]: Failed password for ubuntu from 192.0.2.101 port 58161 ssh2
+2027-03-08T07:14:54.855000+00:00 web-01 CRON[16193]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T07:17:01.180000+00:00 web-01 CRON[14925]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T07:17:34.195000+00:00 web-01 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-08T07:21:15.386000+00:00 web-01 CRON[37756]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T07:28:09.487000+00:00 web-01 sshd[22063]: Failed password for admin from 192.0.2.103 port 56503 ssh2
+2027-03-08T07:35:19.582000+00:00 web-01 CRON[36134]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T07:45:49.284000+00:00 web-01 sshd[12734]: Failed password for root from 192.0.2.101 port 54644 ssh2
+2027-03-08T07:47:54.243000+00:00 web-01 sshd[20475]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-08T07:49:55.378000+00:00 web-01 CRON[2998]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T07:51:36.830000+00:00 web-01 sshd[36641]: Accepted publickey for a.sharma from 10.20.2.151 port 30042 ssh2
+2027-03-08T07:52:04.533000+00:00 web-01 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-08T08:02:36.390000+00:00 web-01 CRON[5631]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T08:08:22.256000+00:00 web-01 sshd[30081]: Failed password for ubuntu from 192.0.2.102 port 42106 ssh2
+2027-03-08T08:09:08.862000+00:00 web-01 sshd[25498]: Failed password for ubuntu from 192.0.2.102 port 31525 ssh2
+2027-03-08T08:10:58.996000+00:00 web-01 CRON[38785]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T08:11:41.129000+00:00 web-01 sshd[15382]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-08T08:18:27.128000+00:00 web-01 sshd[6470]: Accepted password for s.nair from 10.20.2.152 port 56888 ssh2
+2027-03-08T08:25:04.914000+00:00 web-01 sshd[10907]: Accepted password for j.thomas from 10.20.1.195 port 49126 ssh2
+2027-03-08T08:31:12.526000+00:00 web-01 sshd[37436]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-08T08:41:37.139000+00:00 web-01 sshd[22297]: Failed password for test from 192.0.2.102 port 44223 ssh2
+2027-03-08T08:41:46.086000+00:00 web-01 sshd[26863]: Accepted publickey for t.singh from 10.20.4.41 port 35279 ssh2
+2027-03-08T08:41:51.015000+00:00 web-01 sshd[19934]: Disconnected from user v.patel 10.20.2.80 port 32959
+2027-03-08T08:46:01.778000+00:00 web-01 sudo: s.nair : TTY=pts/0 ; PWD=/home/s.nair ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-08T08:49:50.874000+00:00 web-01 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-08T08:52:47.447000+00:00 web-01 sshd[38070]: Accepted publickey for k.iyer from 10.20.4.214 port 38865 ssh2
+2027-03-08T08:58:41.485000+00:00 web-01 sshd[24345]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-08T08:59:18.211000+00:00 web-01 sshd[36453]: Failed password for ubuntu from 192.0.2.103 port 31097 ssh2
+2027-03-08T08:59:30.144000+00:00 web-01 sshd[16502]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-08T09:02:19.944000+00:00 web-01 sshd[15969]: Disconnected from user k.iyer 198.51.100.51 port 51111
+2027-03-08T09:12:53.804000+00:00 web-01 sshd[25658]: Accepted password for d.joshi from 10.20.3.137 port 52786 ssh2
+2027-03-08T09:12:57.518000+00:00 web-01 sshd[6662]: Accepted publickey for n.reddy from 10.20.4.33 port 56256 ssh2
+2027-03-08T09:14:26.106000+00:00 web-01 sshd[32257]: Failed password for oracle from 192.0.2.101 port 50551 ssh2
+2027-03-08T09:15:14.451000+00:00 web-01 sshd[2940]: Failed password for oracle from 192.0.2.102 port 35938 ssh2
+2027-03-08T09:18:45.788000+00:00 web-01 sshd[2885]: Accepted password for h.verma from 10.20.4.102 port 38134 ssh2
+2027-03-08T09:19:00.125000+00:00 web-01 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-08T09:21:55.787000+00:00 web-01 CRON[17409]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T09:25:43.478000+00:00 web-01 sshd[21512]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-08T09:25:53.391000+00:00 web-01 CRON[13155]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T09:29:53.352000+00:00 web-01 sshd[17465]: Accepted password for d.joshi from 10.20.4.68 port 33728 ssh2
+2027-03-08T09:39:14.767000+00:00 web-01 sshd[14799]: Accepted password for k.iyer from 10.20.2.159 port 43074 ssh2
+2027-03-08T09:40:53.737000+00:00 web-01 sshd[33900]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-08T09:42:53.690000+00:00 web-01 sshd[28438]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-08T09:50:32.660000+00:00 web-01 sshd[26956]: Disconnected from user n.reddy 10.20.2.72 port 49586
+2027-03-08T09:53:54.933000+00:00 web-01 sshd[35105]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-08T09:57:26.033000+00:00 web-01 CRON[23984]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T09:58:09.312000+00:00 web-01 sshd[17762]: Accepted publickey for r.mehta from 10.20.1.138 port 38541 ssh2
+2027-03-08T09:59:40.173000+00:00 web-01 sshd[20894]: Accepted publickey for p.desai from 198.51.100.50 port 46063 ssh2
+2027-03-08T10:00:06.971000+00:00 web-01 sshd[23248]: Disconnected from user s.nair 10.20.2.109 port 43023
+2027-03-08T10:03:28.325000+00:00 web-01 sshd[18799]: Disconnected from user h.verma 10.20.4.169 port 42434
+2027-03-08T10:04:05.181000+00:00 web-01 sshd[20799]: Accepted password for h.verma from 10.20.4.138 port 41911 ssh2
+2027-03-08T10:09:48.883000+00:00 web-01 sshd[10302]: Accepted publickey for s.nair from 10.20.1.183 port 42622 ssh2
+2027-03-08T10:17:53.194000+00:00 web-01 sshd[33450]: Disconnected from user n.reddy 10.20.1.212 port 48490
+2027-03-08T10:19:04.944000+00:00 web-01 CRON[31690]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T10:21:11.202000+00:00 web-01 sshd[15607]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-08T10:22:42.005000+00:00 web-01 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-08T10:27:36.269000+00:00 web-01 CRON[32502]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T10:28:57.364000+00:00 web-01 sshd[39833]: Failed password for admin from 192.0.2.103 port 51889 ssh2
+2027-03-08T10:30:06.286000+00:00 web-01 sshd[10927]: Accepted publickey for s.nair from 10.20.1.219 port 59824 ssh2
+2027-03-08T10:35:43.384000+00:00 web-01 sshd[20678]: Disconnected from user k.iyer 10.20.1.168 port 53366
+2027-03-08T10:40:54.704000+00:00 web-01 sshd[33220]: Accepted password for a.sharma from 10.20.1.30 port 40100 ssh2
+2027-03-08T10:42:36.447000+00:00 web-01 sshd[11752]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-08T10:43:38.415000+00:00 web-01 sshd[22717]: Accepted password for j.thomas from 10.20.2.56 port 32500 ssh2
+2027-03-08T10:56:13.726000+00:00 web-01 sshd[24294]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-08T11:06:28.145000+00:00 web-01 sshd[16144]: Accepted publickey for m.khan from 10.20.3.240 port 31812 ssh2
+2027-03-08T11:10:01.312000+00:00 web-01 sshd[28173]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-08T11:11:33.107000+00:00 web-01 sshd[32988]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-08T11:14:23.400000+00:00 web-01 CRON[36884]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T11:16:27.413000+00:00 web-01 sshd[14419]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-08T11:17:35.057000+00:00 web-01 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-08T11:19:36.092000+00:00 web-01 sshd[13958]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-08T11:26:39.231000+00:00 web-01 sshd[20000]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-08T11:31:43.335000+00:00 web-01 sshd[29911]: Accepted publickey for p.desai from 10.20.2.236 port 36977 ssh2
+2027-03-08T11:38:37.069000+00:00 web-01 sshd[8195]: Failed password for oracle from 192.0.2.101 port 34550 ssh2
+2027-03-08T11:41:29.312000+00:00 web-01 sshd[11961]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-08T11:41:42.853000+00:00 web-01 sshd[9734]: Disconnected from user j.thomas 10.20.3.104 port 33558
+2027-03-08T11:44:07.088000+00:00 web-01 sshd[22050]: Disconnected from user r.mehta 10.20.4.196 port 39144
+2027-03-08T11:44:28.947000+00:00 web-01 sshd[29879]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-08T11:46:44.948000+00:00 web-01 sshd[11646]: Accepted password for n.reddy from 10.20.4.214 port 47451 ssh2
+2027-03-08T11:49:17.314000+00:00 web-01 CRON[38111]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T11:49:33.855000+00:00 web-01 CRON[33120]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T11:51:45.752000+00:00 web-01 sshd[8595]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-08T11:52:17.641000+00:00 web-01 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-08T11:55:41.098000+00:00 web-01 sshd[18836]: Accepted publickey for a.sharma from 10.20.4.153 port 45066 ssh2
+2027-03-08T11:58:57.011000+00:00 web-01 sshd[20863]: Disconnected from user m.khan 10.20.1.11 port 49479
+2027-03-08T11:59:26.390000+00:00 web-01 sshd[33807]: Accepted publickey for n.reddy from 10.20.4.167 port 39412 ssh2
+2027-03-08T12:02:23.171000+00:00 web-01 sshd[13822]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-08T12:11:27.482000+00:00 web-01 sshd[6072]: Failed password for test from 192.0.2.103 port 34356 ssh2
+2027-03-08T12:15:17.794000+00:00 web-01 sshd[4060]: pam_unix(sshd:session): session closed for user s.nair(uid=1001) by (uid=0)
+2027-03-08T12:19:22.046000+00:00 web-01 sshd[20415]: Accepted password for a.sharma from 10.20.4.11 port 53123 ssh2
+2027-03-08T12:28:24.112000+00:00 web-01 sshd[31916]: Accepted password for h.verma from 10.20.2.171 port 50109 ssh2
+2027-03-08T12:34:25.246000+00:00 web-01 CRON[29966]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T12:41:08.859000+00:00 web-01 sshd[34620]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-08T12:42:47.134000+00:00 web-01 sshd[8541]: Accepted publickey for r.mehta from 10.20.4.204 port 50131 ssh2
+2027-03-08T12:45:14.635000+00:00 web-01 CRON[20541]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T12:51:46.731000+00:00 web-01 sshd[15099]: Failed password for test from 192.0.2.102 port 41299 ssh2
+2027-03-08T12:54:26.130000+00:00 web-01 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-08T12:55:00.212000+00:00 web-01 sshd[4181]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-08T13:02:31.435000+00:00 web-01 sshd[37206]: Accepted publickey for m.khan from 10.20.3.130 port 38219 ssh2
+2027-03-08T13:03:29.135000+00:00 web-01 sshd[15541]: Accepted publickey for j.thomas from 10.20.3.246 port 43174 ssh2
+2027-03-08T13:05:06.355000+00:00 web-01 sshd[26588]: Accepted password for j.thomas from 10.20.3.86 port 33892 ssh2
+2027-03-08T13:05:55.219000+00:00 web-01 sshd[11522]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-08T13:06:32.543000+00:00 web-01 sshd[30627]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-08T13:08:06.993000+00:00 web-01 sshd[15558]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-08T13:09:04.159000+00:00 web-01 sshd[22771]: Failed password for test from 192.0.2.101 port 54128 ssh2
+2027-03-08T13:09:14.869000+00:00 web-01 CRON[29247]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T13:09:45.366000+00:00 web-01 CRON[4510]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T13:11:32.280000+00:00 web-01 CRON[18689]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T13:28:27.595000+00:00 web-01 sshd[34024]: Accepted publickey for n.reddy from 10.20.1.98 port 39918 ssh2
+2027-03-08T13:34:13.072000+00:00 web-01 sshd[23672]: Accepted password for d.joshi from 10.20.3.218 port 33518 ssh2
+2027-03-08T13:38:49.799000+00:00 web-01 sshd[33900]: Failed password for ubuntu from 192.0.2.102 port 58442 ssh2
+2027-03-08T13:40:08.030000+00:00 web-01 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-08T13:54:12.497000+00:00 web-01 sshd[12543]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-08T13:58:22.740000+00:00 web-01 sshd[36041]: Accepted password for s.nair from 10.20.1.87 port 51309 ssh2
+2027-03-08T13:59:26.029000+00:00 web-01 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-08T14:01:32.920000+00:00 web-01 sshd[22398]: Failed password for root from 192.0.2.102 port 59037 ssh2
+2027-03-08T14:14:24.389000+00:00 web-01 sshd[13283]: pam_unix(sshd:session): session closed for user d.joshi(uid=1001) by (uid=0)
+2027-03-08T14:15:12.428000+00:00 web-01 sshd[8765]: Accepted publickey for t.singh from 10.20.2.211 port 57661 ssh2
+2027-03-08T14:21:22.036000+00:00 web-01 CRON[21487]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T14:27:01.138000+00:00 web-01 CRON[27268]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T14:27:13.159000+00:00 web-01 CRON[16145]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T14:32:32.465000+00:00 web-01 sshd[16317]: Accepted publickey for a.sharma from 10.20.2.165 port 34026 ssh2
+2027-03-08T14:33:41.462000+00:00 web-01 sudo: s.nair : TTY=pts/0 ; PWD=/home/s.nair ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-08T14:43:22.754000+00:00 web-01 sshd[19097]: Accepted publickey for n.reddy from 10.20.2.15 port 44654 ssh2
+2027-03-08T14:46:13.532000+00:00 web-01 sshd[13486]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-08T14:47:29.589000+00:00 web-01 sshd[4000]: Accepted password for a.sharma from 10.20.1.223 port 59425 ssh2
+2027-03-08T14:49:21.328000+00:00 web-01 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-08T14:50:47.556000+00:00 web-01 sshd[31823]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-08T14:53:04.693000+00:00 web-01 CRON[4352]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T15:06:16.950000+00:00 web-01 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-08T15:07:24.369000+00:00 web-01 sshd[1124]: Disconnected from user s.nair 10.20.1.16 port 32199
+2027-03-08T15:08:20.446000+00:00 web-01 sshd[21001]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-08T15:09:47.868000+00:00 web-01 sshd[14897]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-08T15:11:25.391000+00:00 web-01 sshd[35895]: Disconnected from user s.nair 10.20.1.197 port 52332
+2027-03-08T15:31:10.221000+00:00 web-01 CRON[10521]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T15:34:53.907000+00:00 web-01 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-08T15:37:14.802000+00:00 web-01 sshd[5146]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-08T15:38:33.684000+00:00 web-01 CRON[4469]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T15:45:51.319000+00:00 web-01 sshd[5979]: Disconnected from user r.mehta 10.20.1.43 port 56783
+2027-03-08T15:48:11.610000+00:00 web-01 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-08T15:53:01.499000+00:00 web-01 CRON[35493]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T15:54:10.355000+00:00 web-01 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-08T15:55:21.252000+00:00 web-01 sshd[1402]: Failed password for ubuntu from 192.0.2.103 port 30331 ssh2
+2027-03-08T16:00:18.555000+00:00 web-01 sshd[14195]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-08T16:01:18.960000+00:00 web-01 sshd[12776]: Accepted publickey for j.thomas from 10.20.1.133 port 53793 ssh2
+2027-03-08T16:07:45.304000+00:00 web-01 CRON[38909]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T16:07:50.872000+00:00 web-01 sshd[12181]: Disconnected from user r.mehta 10.20.2.34 port 58402
+2027-03-08T16:16:31.975000+00:00 web-01 CRON[20619]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T16:18:05.443000+00:00 web-01 sshd[4374]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-08T16:19:51.924000+00:00 web-01 sshd[29346]: Disconnected from user m.khan 10.20.2.193 port 36852
+2027-03-08T16:21:30.678000+00:00 web-01 sshd[7466]: Failed password for root from 192.0.2.102 port 39097 ssh2
+2027-03-08T16:25:39.572000+00:00 web-01 sshd[13995]: Accepted password for a.sharma from 10.20.3.100 port 50860 ssh2
+2027-03-08T16:29:54.188000+00:00 web-01 sshd[31769]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-08T16:35:54.849000+00:00 web-01 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-08T16:36:21.299000+00:00 web-01 sshd[18221]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-08T16:40:22.208000+00:00 web-01 sudo: v.patel : TTY=pts/0 ; PWD=/home/v.patel ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-08T16:43:00.936000+00:00 web-01 sshd[26840]: Accepted password for j.thomas from 10.20.2.190 port 33113 ssh2
+2027-03-08T16:43:33.936000+00:00 web-01 sshd[10801]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-08T16:44:41.818000+00:00 web-01 sshd[3803]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-08T16:46:41.639000+00:00 web-01 CRON[1572]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T16:54:35.290000+00:00 web-01 sshd[28669]: Disconnected from user h.verma 10.20.2.24 port 50122
+2027-03-08T16:57:14.113000+00:00 web-01 sshd[10228]: Accepted password for d.joshi from 10.20.1.67 port 58512 ssh2
+2027-03-08T17:00:02.960000+00:00 web-01 CRON[12305]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T17:00:32.476000+00:00 web-01 sshd[8699]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-08T17:00:33.627000+00:00 web-01 CRON[9358]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T17:01:15.303000+00:00 web-01 sshd[26373]: Accepted password for p.desai from 198.51.100.50 port 41439 ssh2
+2027-03-08T17:06:16.260000+00:00 web-01 CRON[18581]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T17:08:01.076000+00:00 web-01 sshd[11230]: Accepted password for h.verma from 10.20.4.188 port 32588 ssh2
+2027-03-08T17:11:56.479000+00:00 web-01 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-08T17:24:38.019000+00:00 web-01 sshd[17942]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-08T17:37:10.641000+00:00 web-01 CRON[38466]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T17:37:20.618000+00:00 web-01 sshd[14590]: Disconnected from user r.mehta 10.20.4.247 port 36072
+2027-03-08T17:41:07.117000+00:00 web-01 sshd[37431]: Accepted password for a.sharma from 10.20.2.66 port 30522 ssh2
+2027-03-08T17:49:09.971000+00:00 web-01 sshd[34174]: Disconnected from user j.thomas 10.20.4.208 port 52471
+2027-03-08T17:53:35.819000+00:00 web-01 sshd[9459]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-08T17:56:08.006000+00:00 web-01 sshd[21799]: Failed password for ubuntu from 192.0.2.103 port 40258 ssh2
+2027-03-08T17:57:03.868000+00:00 web-01 sshd[11512]: Accepted password for p.desai from 10.20.4.31 port 37782 ssh2
+2027-03-08T17:58:20.927000+00:00 web-01 sshd[2353]: Accepted password for r.mehta from 10.20.2.103 port 30303 ssh2
+2027-03-08T18:07:28.832000+00:00 web-01 sshd[22260]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-08T18:21:13.631000+00:00 web-01 sshd[4477]: pam_unix(sshd:session): session closed for user p.desai(uid=1001) by (uid=0)
+2027-03-08T18:22:58.515000+00:00 web-01 CRON[24506]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T18:27:47.394000+00:00 web-01 sshd[37121]: Accepted password for k.iyer from 198.51.100.51 port 55549 ssh2
+2027-03-08T18:32:08.160000+00:00 web-01 sshd[1434]: Failed password for oracle from 192.0.2.103 port 43541 ssh2
+2027-03-08T18:34:27.733000+00:00 web-01 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-08T18:38:11.216000+00:00 web-01 CRON[31250]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T18:41:55.373000+00:00 web-01 sshd[13739]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-08T18:45:27.870000+00:00 web-01 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-08T18:45:52.432000+00:00 web-01 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-08T18:48:51.360000+00:00 web-01 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-08T18:54:34.593000+00:00 web-01 sshd[6348]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-08T19:01:06.767000+00:00 web-01 sshd[33815]: Disconnected from user h.verma 10.20.3.234 port 55032
+2027-03-08T19:06:35.430000+00:00 web-01 sshd[21297]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-08T19:19:20.854000+00:00 web-01 sshd[27230]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-08T19:23:42.727000+00:00 web-01 sshd[19160]: Accepted password for r.mehta from 10.20.1.144 port 55880 ssh2
+2027-03-08T19:25:09.789000+00:00 web-01 sshd[37572]: Disconnected from user j.thomas 10.20.4.232 port 46115
+2027-03-08T19:33:06.134000+00:00 web-01 sshd[26337]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-08T19:34:41.673000+00:00 web-01 CRON[27053]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-08T19:48:22.485000+00:00 web-01 sshd[26714]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-08T19:52:23.643000+00:00 web-01 sshd[14249]: Accepted password for p.desai from 10.20.2.81 port 31777 ssh2
+2027-03-08T19:52:50.175000+00:00 web-01 sshd[28825]: Accepted password for m.khan from 10.20.1.169 port 48697 ssh2
+2027-03-08T20:53:55.667000+00:00 web-01 sshd[30810]: Disconnected from user r.mehta 10.20.4.216 port 45367
+2027-03-08T20:58:32.113000+00:00 web-01 sshd[27001]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-08T21:08:14.744000+00:00 web-01 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-08T21:25:36.264000+00:00 web-01 sshd[29348]: pam_unix(sshd:session): session closed for user p.desai(uid=1001) by (uid=0)
+2027-03-08T21:26:40.372000+00:00 web-01 sshd[33654]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-08T21:28:45.222000+00:00 web-01 sshd[34894]: Accepted password for d.joshi from 10.20.3.68 port 35976 ssh2
+2027-03-08T21:40:45.045000+00:00 web-01 CRON[14986]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T22:07:11.437000+00:00 web-01 CRON[33142]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-08T23:17:44.204000+00:00 web-01 sudo: s.nair : TTY=pts/0 ; PWD=/home/s.nair ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-08T23:21:41.844000+00:00 web-01 CRON[19968]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T01:35:19.768000+00:00 web-01 sshd[9478]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-09T02:03:31.668000+00:00 web-01 sshd[28737]: Failed password for admin from 192.0.2.103 port 44512 ssh2
+2027-03-09T03:00:50.000000+00:00 web-01 sshd[32501]: Failed password for oracle from 192.0.2.101 port 32926 ssh2
+2027-03-09T03:01:15.000000+00:00 web-01 sshd[7210]: Failed password for admin from 192.0.2.101 port 36890 ssh2
+2027-03-09T03:02:30.000000+00:00 web-01 sshd[4188]: Failed password for admin from 192.0.2.101 port 59757 ssh2
+2027-03-09T03:02:55.000000+00:00 web-01 sshd[12589]: Failed password for root from 192.0.2.101 port 55698 ssh2
+2027-03-09T03:03:20.000000+00:00 web-01 sshd[7492]: Failed password for admin from 192.0.2.101 port 41835 ssh2
+2027-03-09T03:04:10.000000+00:00 web-01 sshd[36588]: Failed password for admin from 192.0.2.101 port 46661 ssh2
+2027-03-09T03:04:50.307000+00:00 web-01 sshd[3533]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-09T03:05:50.000000+00:00 web-01 sshd[15714]: Failed password for root from 192.0.2.101 port 37424 ssh2
+2027-03-09T03:14:15.329000+00:00 web-01 CRON[12763]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T03:37:09.166000+00:00 web-01 sshd[14180]: Accepted password for a.sharma from 10.20.2.237 port 41216 ssh2
+2027-03-09T03:45:48.473000+00:00 web-01 CRON[13078]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T04:50:53.215000+00:00 web-01 sshd[4674]: Disconnected from user h.verma 10.20.1.49 port 53621
+2027-03-09T05:38:03.542000+00:00 web-01 CRON[1603]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T06:10:55.327000+00:00 web-01 sshd[1564]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-09T06:12:19.493000+00:00 web-01 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-09T06:15:12.368000+00:00 web-01 sshd[27087]: Accepted password for p.desai from 198.51.100.50 port 37816 ssh2
+2027-03-09T06:19:23.304000+00:00 web-01 sshd[7844]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-09T06:35:31.965000+00:00 web-01 CRON[15171]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T06:37:53.235000+00:00 web-01 sshd[24256]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-09T06:40:24.661000+00:00 web-01 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-09T07:02:48.625000+00:00 web-01 CRON[22896]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T07:05:40.754000+00:00 web-01 sshd[14843]: Accepted password for p.desai from 10.20.2.213 port 55013 ssh2
+2027-03-09T07:20:34.636000+00:00 web-01 sshd[13780]: Accepted publickey for p.desai from 198.51.100.50 port 30036 ssh2
+2027-03-09T07:26:30.691000+00:00 web-01 CRON[2993]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T07:35:51.929000+00:00 web-01 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-09T07:41:02.894000+00:00 web-01 sshd[29888]: Accepted password for r.mehta from 10.20.4.172 port 58352 ssh2
+2027-03-09T07:45:52.968000+00:00 web-01 sshd[16182]: Failed password for root from 192.0.2.102 port 46935 ssh2
+2027-03-09T07:54:20.977000+00:00 web-01 CRON[5284]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T08:05:14.205000+00:00 web-01 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-09T08:19:55.754000+00:00 web-01 sshd[32733]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-09T08:20:45.620000+00:00 web-01 sshd[16837]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-09T08:23:50.510000+00:00 web-01 sshd[36015]: Accepted password for s.nair from 10.20.1.56 port 50967 ssh2
+2027-03-09T08:29:18.381000+00:00 web-01 sshd[11579]: Failed password for test from 192.0.2.101 port 35351 ssh2
+2027-03-09T08:30:04.887000+00:00 web-01 CRON[2673]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T08:45:31.525000+00:00 web-01 CRON[32271]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T08:47:13.887000+00:00 web-01 sshd[22711]: Accepted publickey for k.iyer from 10.20.4.129 port 54792 ssh2
+2027-03-09T08:47:44.794000+00:00 web-01 sshd[11453]: Accepted publickey for h.verma from 10.20.4.49 port 59125 ssh2
+2027-03-09T08:50:23.542000+00:00 web-01 sshd[36705]: Accepted publickey for n.reddy from 10.20.2.35 port 31617 ssh2
+2027-03-09T08:53:53.437000+00:00 web-01 sshd[38235]: Accepted password for s.nair from 10.20.1.180 port 38602 ssh2
+2027-03-09T09:17:09.510000+00:00 web-01 sshd[16080]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-09T09:17:30.035000+00:00 web-01 sshd[38649]: Accepted publickey for j.thomas from 10.20.3.59 port 34951 ssh2
+2027-03-09T09:19:00.679000+00:00 web-01 sshd[11042]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-09T09:19:21.188000+00:00 web-01 sshd[2533]: Accepted publickey for n.reddy from 10.20.4.62 port 40133 ssh2
+2027-03-09T09:29:43.288000+00:00 web-01 sshd[24518]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-09T09:34:40.527000+00:00 web-01 CRON[26479]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T09:37:56.334000+00:00 web-01 sshd[5747]: Accepted password for r.mehta from 10.20.2.220 port 55647 ssh2
+2027-03-09T09:44:36.942000+00:00 web-01 sshd[26108]: pam_unix(sshd:session): session closed for user d.joshi(uid=1001) by (uid=0)
+2027-03-09T09:46:51.525000+00:00 web-01 sshd[29802]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-09T09:48:44.048000+00:00 web-01 CRON[36583]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T09:59:08.417000+00:00 web-01 sshd[29640]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-09T10:02:49.886000+00:00 web-01 sshd[17214]: Disconnected from user p.desai 198.51.100.50 port 41813
+2027-03-09T10:10:25.353000+00:00 web-01 sshd[10197]: Accepted password for s.nair from 10.20.3.246 port 41177 ssh2
+2027-03-09T10:10:37.000000+00:00 web-01 sshd[23280]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-09T10:27:10.912000+00:00 web-01 CRON[39501]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T10:32:29.165000+00:00 web-01 sshd[11700]: Accepted publickey for k.iyer from 198.51.100.51 port 35208 ssh2
+2027-03-09T10:39:56.905000+00:00 web-01 CRON[22076]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T10:45:22.287000+00:00 web-01 sshd[15389]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-09T10:45:45.153000+00:00 web-01 sshd[17092]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-09T10:48:01.556000+00:00 web-01 sshd[5384]: Accepted password for s.nair from 10.20.3.81 port 49730 ssh2
+2027-03-09T10:58:11.174000+00:00 web-01 CRON[22172]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T10:58:23.034000+00:00 web-01 sshd[9376]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-09T11:05:02.473000+00:00 web-01 sshd[29582]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-09T11:05:39.943000+00:00 web-01 sshd[13724]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-09T11:05:52.776000+00:00 web-01 CRON[31605]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T11:07:29.997000+00:00 web-01 sshd[18715]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-09T11:09:39.335000+00:00 web-01 sshd[24331]: Accepted publickey for n.reddy from 10.20.1.195 port 50377 ssh2
+2027-03-09T11:10:45.038000+00:00 web-01 sshd[34388]: Disconnected from user t.singh 10.20.1.62 port 34950
+2027-03-09T11:19:26.095000+00:00 web-01 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-09T11:20:47.744000+00:00 web-01 CRON[10240]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T11:21:11.067000+00:00 web-01 sshd[36233]: Disconnected from user k.iyer 198.51.100.51 port 40458
+2027-03-09T11:24:43.085000+00:00 web-01 CRON[36805]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T11:29:37.693000+00:00 web-01 sshd[15579]: Accepted password for h.verma from 10.20.3.13 port 48554 ssh2
+2027-03-09T11:32:01.858000+00:00 web-01 CRON[1001]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T11:34:37.715000+00:00 web-01 sshd[2514]: Accepted password for p.desai from 198.51.100.50 port 39873 ssh2
+2027-03-09T11:40:31.538000+00:00 web-01 CRON[35186]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T11:42:06.415000+00:00 web-01 sshd[10948]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-09T11:47:25.088000+00:00 web-01 sshd[37037]: Disconnected from user p.desai 198.51.100.50 port 30060
+2027-03-09T11:51:42.673000+00:00 web-01 sshd[7965]: Accepted publickey for s.nair from 10.20.2.30 port 56469 ssh2
+2027-03-09T11:58:27.046000+00:00 web-01 sshd[8572]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-09T12:03:28.934000+00:00 web-01 sshd[10610]: Accepted password for t.singh from 10.20.4.124 port 57489 ssh2
+2027-03-09T12:04:25.408000+00:00 web-01 sshd[24606]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-09T12:04:44.426000+00:00 web-01 sshd[39646]: Disconnected from user j.thomas 10.20.4.61 port 54844
+2027-03-09T12:05:56.899000+00:00 web-01 sshd[32890]: Accepted publickey for j.thomas from 10.20.2.119 port 52468 ssh2
+2027-03-09T12:11:27.099000+00:00 web-01 sshd[31470]: Disconnected from user n.reddy 10.20.2.242 port 41851
+2027-03-09T12:22:15.274000+00:00 web-01 CRON[37151]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T12:23:14.383000+00:00 web-01 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-09T12:25:01.308000+00:00 web-01 sshd[9769]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-09T12:29:38.978000+00:00 web-01 sshd[1179]: Failed password for oracle from 192.0.2.103 port 56581 ssh2
+2027-03-09T12:35:37.129000+00:00 web-01 sshd[16609]: Disconnected from user a.sharma 10.20.2.76 port 48882
+2027-03-09T12:48:07.062000+00:00 web-01 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-09T12:54:54.026000+00:00 web-01 sshd[7336]: Accepted password for s.nair from 10.20.1.210 port 30620 ssh2
+2027-03-09T12:59:57.013000+00:00 web-01 sshd[31026]: Accepted publickey for m.khan from 10.20.2.152 port 40415 ssh2
+2027-03-09T13:03:51.955000+00:00 web-01 sshd[7754]: Accepted password for s.nair from 10.20.2.238 port 48393 ssh2
+2027-03-09T13:09:51.862000+00:00 web-01 sudo: v.patel : TTY=pts/0 ; PWD=/home/v.patel ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-09T13:12:52.750000+00:00 web-01 sshd[24348]: Failed password for root from 192.0.2.103 port 30937 ssh2
+2027-03-09T13:14:54.918000+00:00 web-01 sshd[6451]: Accepted password for t.singh from 10.20.4.132 port 58009 ssh2
+2027-03-09T13:20:21.753000+00:00 web-01 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-09T13:22:04.184000+00:00 web-01 sshd[35496]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-09T13:32:48.698000+00:00 web-01 sshd[34830]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-09T13:40:21.676000+00:00 web-01 sshd[38784]: Accepted password for h.verma from 10.20.1.103 port 47181 ssh2
+2027-03-09T13:40:39.251000+00:00 web-01 sshd[10556]: Failed password for root from 192.0.2.103 port 48310 ssh2
+2027-03-09T13:41:41.381000+00:00 web-01 sshd[22899]: Accepted publickey for n.reddy from 10.20.1.107 port 38010 ssh2
+2027-03-09T13:48:09.460000+00:00 web-01 sshd[23958]: Accepted publickey for n.reddy from 10.20.4.20 port 30161 ssh2
+2027-03-09T13:56:38.416000+00:00 web-01 sshd[23801]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-09T13:59:06.127000+00:00 web-01 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-09T14:03:44.572000+00:00 web-01 sshd[33095]: Accepted password for s.nair from 10.20.1.32 port 36884 ssh2
+2027-03-09T14:04:56.997000+00:00 web-01 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-09T14:05:20.497000+00:00 web-01 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-09T14:07:56.504000+00:00 web-01 sshd[15476]: Accepted password for v.patel from 10.20.1.79 port 57554 ssh2
+2027-03-09T14:09:44.008000+00:00 web-01 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-09T14:10:24.993000+00:00 web-01 sshd[10135]: Accepted password for s.nair from 10.20.3.240 port 45400 ssh2
+2027-03-09T14:13:15.148000+00:00 web-01 sshd[20070]: pam_unix(sshd:session): session closed for user d.joshi(uid=1001) by (uid=0)
+2027-03-09T14:14:14.537000+00:00 web-01 CRON[1562]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T14:17:55.360000+00:00 web-01 sshd[5658]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-09T14:21:49.092000+00:00 web-01 sshd[11183]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-09T14:24:17.983000+00:00 web-01 sshd[2538]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-09T14:25:55.852000+00:00 web-01 sshd[17306]: Accepted publickey for h.verma from 10.20.2.32 port 34254 ssh2
+2027-03-09T14:27:57.773000+00:00 web-01 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-09T14:29:50.774000+00:00 web-01 sshd[39057]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-09T14:30:30.669000+00:00 web-01 sshd[5798]: Failed password for root from 192.0.2.102 port 47432 ssh2
+2027-03-09T14:34:20.988000+00:00 web-01 sshd[29918]: Accepted publickey for j.thomas from 10.20.3.240 port 59475 ssh2
+2027-03-09T14:35:06.599000+00:00 web-01 sshd[12348]: Accepted password for a.sharma from 10.20.2.95 port 44312 ssh2
+2027-03-09T14:37:14.634000+00:00 web-01 CRON[34723]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T14:48:09.484000+00:00 web-01 sshd[2064]: Failed password for root from 192.0.2.101 port 47565 ssh2
+2027-03-09T14:49:46.814000+00:00 web-01 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-09T14:50:33.598000+00:00 web-01 sshd[23188]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-09T14:50:58.653000+00:00 web-01 sshd[26421]: pam_unix(sshd:session): session closed for user d.joshi(uid=1001) by (uid=0)
+2027-03-09T14:56:22.728000+00:00 web-01 CRON[3032]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T14:58:14.739000+00:00 web-01 sshd[5792]: Accepted password for s.nair from 10.20.1.241 port 39608 ssh2
+2027-03-09T14:59:02.063000+00:00 web-01 CRON[4757]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T14:59:32.347000+00:00 web-01 CRON[22097]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T15:01:47.745000+00:00 web-01 CRON[2094]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T15:04:46.932000+00:00 web-01 sshd[18828]: Accepted password for n.reddy from 10.20.2.176 port 55477 ssh2
+2027-03-09T15:08:18.063000+00:00 web-01 CRON[35263]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T15:14:49.845000+00:00 web-01 sshd[4640]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-09T15:16:03.825000+00:00 web-01 sshd[33624]: Accepted publickey for a.sharma from 10.20.4.148 port 32991 ssh2
+2027-03-09T15:16:17.442000+00:00 web-01 sshd[11484]: pam_unix(sshd:session): session closed for user p.desai(uid=1001) by (uid=0)
+2027-03-09T15:26:11.602000+00:00 web-01 sshd[2926]: Failed password for admin from 192.0.2.102 port 52825 ssh2
+2027-03-09T15:33:35.020000+00:00 web-01 CRON[32140]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T15:35:37.569000+00:00 web-01 sshd[15315]: Accepted publickey for s.nair from 10.20.1.163 port 44682 ssh2
+2027-03-09T15:36:17.804000+00:00 web-01 sshd[23815]: Accepted password for j.thomas from 10.20.1.80 port 56572 ssh2
+2027-03-09T15:40:11.718000+00:00 web-01 sshd[22334]: Disconnected from user a.sharma 10.20.2.16 port 51839
+2027-03-09T15:44:59.228000+00:00 web-01 sshd[27473]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-09T15:45:58.074000+00:00 web-01 sshd[21802]: Accepted password for j.thomas from 10.20.4.214 port 37987 ssh2
+2027-03-09T15:48:30.606000+00:00 web-01 CRON[22292]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T15:50:55.576000+00:00 web-01 sshd[23491]: Accepted publickey for j.thomas from 10.20.1.149 port 34943 ssh2
+2027-03-09T15:53:27.810000+00:00 web-01 sshd[38827]: Disconnected from user t.singh 10.20.1.154 port 40203
+2027-03-09T16:06:25.926000+00:00 web-01 CRON[22360]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T16:08:08.088000+00:00 web-01 sshd[37807]: Failed password for oracle from 192.0.2.102 port 45590 ssh2
+2027-03-09T16:08:36.364000+00:00 web-01 sshd[9520]: Accepted publickey for d.joshi from 10.20.4.244 port 45155 ssh2
+2027-03-09T16:10:30.955000+00:00 web-01 sshd[3816]: Accepted password for h.verma from 10.20.3.205 port 31079 ssh2
+2027-03-09T16:13:17.219000+00:00 web-01 sshd[32541]: Accepted publickey for n.reddy from 10.20.2.89 port 43314 ssh2
+2027-03-09T16:14:34.892000+00:00 web-01 sudo: v.patel : TTY=pts/0 ; PWD=/home/v.patel ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-09T16:15:12.715000+00:00 web-01 sshd[26359]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-09T16:18:51.803000+00:00 web-01 sshd[39800]: pam_unix(sshd:session): session closed for user p.desai(uid=1001) by (uid=0)
+2027-03-09T16:19:29.209000+00:00 web-01 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-09T16:19:54.833000+00:00 web-01 sshd[38756]: Failed password for root from 192.0.2.103 port 38768 ssh2
+2027-03-09T16:21:44.725000+00:00 web-01 sshd[7262]: Accepted publickey for m.khan from 10.20.2.151 port 53303 ssh2
+2027-03-09T16:22:40.703000+00:00 web-01 sshd[19970]: Accepted password for n.reddy from 10.20.2.182 port 30672 ssh2
+2027-03-09T16:30:24.453000+00:00 web-01 sshd[16327]: Accepted publickey for j.thomas from 10.20.2.121 port 50454 ssh2
+2027-03-09T16:33:49.078000+00:00 web-01 sshd[20762]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-09T16:34:19.475000+00:00 web-01 sshd[34266]: Disconnected from user h.verma 10.20.3.245 port 43871
+2027-03-09T16:34:22.575000+00:00 web-01 sshd[5595]: Accepted publickey for r.mehta from 10.20.4.119 port 57601 ssh2
+2027-03-09T16:35:08.454000+00:00 web-01 sshd[21266]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-09T16:36:24.572000+00:00 web-01 CRON[25307]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T16:37:42.032000+00:00 web-01 sshd[25337]: Accepted password for k.iyer from 10.20.1.31 port 49962 ssh2
+2027-03-09T16:41:23.814000+00:00 web-01 sshd[30411]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-09T16:46:18.844000+00:00 web-01 sshd[7896]: Disconnected from user n.reddy 10.20.2.104 port 49652
+2027-03-09T16:46:49.278000+00:00 web-01 sshd[9687]: Accepted publickey for t.singh from 10.20.4.180 port 48675 ssh2
+2027-03-09T16:48:40.021000+00:00 web-01 CRON[3906]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T16:49:46.589000+00:00 web-01 sshd[29856]: Disconnected from user r.mehta 10.20.1.120 port 42354
+2027-03-09T16:56:20.442000+00:00 web-01 sshd[16182]: Failed password for admin from 192.0.2.101 port 39969 ssh2
+2027-03-09T16:59:27.661000+00:00 web-01 sshd[32424]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-09T16:59:38.057000+00:00 web-01 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-09T17:05:37.724000+00:00 web-01 sshd[13107]: Accepted publickey for k.iyer from 198.51.100.51 port 50847 ssh2
+2027-03-09T17:07:03.885000+00:00 web-01 sshd[17780]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-09T17:07:15.529000+00:00 web-01 sshd[23582]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-09T17:08:41.077000+00:00 web-01 CRON[27693]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-09T17:15:20.505000+00:00 web-01 sshd[25414]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-09T17:16:06.133000+00:00 web-01 sshd[5091]: Accepted publickey for m.khan from 10.20.2.241 port 30098 ssh2
+2027-03-09T17:17:48.516000+00:00 web-01 sshd[10940]: Disconnected from user m.khan 10.20.1.83 port 58314
+2027-03-09T17:19:52.211000+00:00 web-01 sshd[32009]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-09T17:22:54.421000+00:00 web-01 CRON[25242]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T17:31:51.874000+00:00 web-01 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-09T17:36:04.255000+00:00 web-01 sshd[14951]: Accepted password for d.joshi from 10.20.2.196 port 32340 ssh2
+2027-03-09T17:47:55.141000+00:00 web-01 sshd[27564]: Accepted publickey for n.reddy from 10.20.3.28 port 46971 ssh2
+2027-03-09T17:48:08.117000+00:00 web-01 sshd[6808]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-09T17:52:16.348000+00:00 web-01 sshd[37712]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-09T17:57:09.304000+00:00 web-01 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-09T17:59:19.025000+00:00 web-01 sshd[16893]: Failed password for admin from 192.0.2.101 port 34149 ssh2
+2027-03-09T18:02:50.796000+00:00 web-01 sudo: s.nair : TTY=pts/0 ; PWD=/home/s.nair ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-09T18:10:37.787000+00:00 web-01 sshd[26498]: Accepted publickey for t.singh from 10.20.2.158 port 35407 ssh2
+2027-03-09T18:11:43.731000+00:00 web-01 sshd[39747]: Accepted publickey for k.iyer from 198.51.100.51 port 36354 ssh2
+2027-03-09T18:14:51.497000+00:00 web-01 sshd[20234]: Failed password for admin from 192.0.2.101 port 33159 ssh2
+2027-03-09T18:30:45.144000+00:00 web-01 sshd[35724]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-09T18:40:57.428000+00:00 web-01 sshd[36815]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-09T18:48:46.454000+00:00 web-01 sshd[11724]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-09T19:00:28.929000+00:00 web-01 CRON[34477]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T19:15:59.107000+00:00 web-01 CRON[22403]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T19:55:36.991000+00:00 web-01 sshd[37963]: Accepted publickey for p.desai from 198.51.100.50 port 52637 ssh2
+2027-03-09T20:05:26.703000+00:00 web-01 sshd[29247]: Disconnected from user p.desai 10.20.3.229 port 52491
+2027-03-09T20:06:30.618000+00:00 web-01 sshd[39798]: Failed password for root from 192.0.2.103 port 34197 ssh2
+2027-03-09T20:18:14.961000+00:00 web-01 sshd[23168]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-09T20:22:57.559000+00:00 web-01 sshd[16997]: Accepted password for a.sharma from 10.20.3.132 port 33852 ssh2
+2027-03-09T20:37:59.492000+00:00 web-01 sshd[20759]: Accepted publickey for h.verma from 10.20.1.159 port 30839 ssh2
+2027-03-09T20:45:16.523000+00:00 web-01 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-09T20:52:03.553000+00:00 web-01 sshd[2336]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-09T20:56:14.917000+00:00 web-01 sshd[20036]: Accepted publickey for n.reddy from 10.20.4.208 port 35779 ssh2
+2027-03-09T21:07:44.422000+00:00 web-01 sshd[7774]: Accepted password for k.iyer from 198.51.100.51 port 30582 ssh2
+2027-03-09T21:12:56.614000+00:00 web-01 sudo: s.nair : TTY=pts/0 ; PWD=/home/s.nair ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-09T21:13:45.685000+00:00 web-01 sshd[3751]: Failed password for test from 192.0.2.102 port 31765 ssh2
+2027-03-09T21:20:55.134000+00:00 web-01 sshd[13313]: Accepted publickey for a.sharma from 10.20.3.38 port 45906 ssh2
+2027-03-09T21:22:19.963000+00:00 web-01 sshd[15415]: Accepted publickey for v.patel from 10.20.3.181 port 43861 ssh2
+2027-03-09T21:53:09.587000+00:00 web-01 sshd[25221]: Accepted publickey for m.khan from 10.20.2.55 port 44665 ssh2
+2027-03-09T22:14:44.599000+00:00 web-01 CRON[12308]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-09T22:17:31.254000+00:00 web-01 sshd[39706]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-09T22:21:52.953000+00:00 web-01 sshd[21292]: Accepted publickey for n.reddy from 10.20.4.164 port 51762 ssh2
+2027-03-09T22:43:45.323000+00:00 web-01 sshd[37059]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-09T23:01:29.794000+00:00 web-01 sshd[10636]: Failed password for root from 192.0.2.102 port 55032 ssh2
+2027-03-09T23:59:29.872000+00:00 web-01 sshd[12758]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-10T00:24:17.170000+00:00 web-01 sshd[29181]: Accepted password for h.verma from 10.20.3.233 port 42956 ssh2
+2027-03-10T00:48:37.804000+00:00 web-01 CRON[16305]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T00:51:22.490000+00:00 web-01 sshd[37293]: Disconnected from user n.reddy 10.20.4.155 port 41931
+2027-03-10T00:57:16.003000+00:00 web-01 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-10T02:05:38.657000+00:00 web-01 CRON[9477]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T02:16:43.914000+00:00 web-01 sshd[38114]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-10T02:37:03.569000+00:00 web-01 sshd[31228]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-10T02:47:31.762000+00:00 web-01 CRON[18664]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T03:00:00.000000+00:00 web-01 sshd[25428]: Failed password for admin from 192.0.2.102 port 44026 ssh2
+2027-03-10T03:01:15.000000+00:00 web-01 sshd[32002]: Failed password for oracle from 192.0.2.102 port 59797 ssh2
+2027-03-10T03:02:55.000000+00:00 web-01 sshd[17173]: Failed password for root from 192.0.2.102 port 46828 ssh2
+2027-03-10T03:04:10.000000+00:00 web-01 sshd[9009]: Failed password for admin from 192.0.2.102 port 30633 ssh2
+2027-03-10T03:05:00.000000+00:00 web-01 sshd[24540]: Failed password for root from 192.0.2.102 port 31178 ssh2
+2027-03-10T03:05:25.000000+00:00 web-01 sshd[37942]: Failed password for root from 192.0.2.102 port 38631 ssh2
+2027-03-10T03:05:50.000000+00:00 web-01 sshd[25829]: Failed password for admin from 192.0.2.102 port 59017 ssh2
+2027-03-10T03:06:40.000000+00:00 web-01 sshd[24030]: Failed password for oracle from 192.0.2.102 port 46682 ssh2
+2027-03-10T03:07:05.000000+00:00 web-01 sshd[20435]: Failed password for admin from 192.0.2.102 port 58047 ssh2
+2027-03-10T03:07:30.000000+00:00 web-01 sshd[15217]: Failed password for oracle from 192.0.2.102 port 42957 ssh2
+2027-03-10T03:08:20.000000+00:00 web-01 sshd[29150]: Failed password for oracle from 192.0.2.102 port 48907 ssh2
+2027-03-10T03:08:45.000000+00:00 web-01 sshd[35326]: Failed password for root from 192.0.2.102 port 50057 ssh2
+2027-03-10T03:09:35.000000+00:00 web-01 sshd[22381]: Failed password for oracle from 192.0.2.102 port 46578 ssh2
+2027-03-10T03:38:13.542000+00:00 web-01 sshd[10128]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-10T04:18:43.112000+00:00 web-01 CRON[3283]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T04:50:10.439000+00:00 web-01 sshd[35555]: pam_unix(sshd:session): session closed for user s.nair(uid=1001) by (uid=0)
+2027-03-10T05:29:41.502000+00:00 web-01 sudo: d.joshi : TTY=pts/0 ; PWD=/home/d.joshi ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-10T05:36:06.663000+00:00 web-01 sshd[15347]: Accepted publickey for s.nair from 10.20.4.129 port 43304 ssh2
+2027-03-10T05:37:30.105000+00:00 web-01 sshd[28047]: Failed password for root from 192.0.2.101 port 31918 ssh2
+2027-03-10T06:17:05.077000+00:00 web-01 sshd[27265]: Accepted publickey for r.mehta from 10.20.1.227 port 43364 ssh2
+2027-03-10T06:19:03.666000+00:00 web-01 sshd[34473]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-10T06:32:54.623000+00:00 web-01 sshd[2030]: Failed password for oracle from 192.0.2.102 port 47877 ssh2
+2027-03-10T06:40:24.648000+00:00 web-01 sshd[18744]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-10T06:51:47.761000+00:00 web-01 CRON[37041]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T06:52:20.267000+00:00 web-01 sshd[7338]: Accepted publickey for k.iyer from 198.51.100.51 port 43404 ssh2
+2027-03-10T06:55:02.137000+00:00 web-01 sshd[21190]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-10T07:02:33.239000+00:00 web-01 CRON[36274]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T07:06:35.445000+00:00 web-01 sshd[4339]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-10T07:18:01.092000+00:00 web-01 sshd[25816]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-10T07:33:18.250000+00:00 web-01 sshd[19838]: Accepted publickey for j.thomas from 10.20.3.115 port 52701 ssh2
+2027-03-10T07:44:04.461000+00:00 web-01 sshd[4311]: Failed password for ubuntu from 192.0.2.102 port 59763 ssh2
+2027-03-10T07:45:25.284000+00:00 web-01 sshd[9737]: Accepted password for m.khan from 10.20.3.225 port 45141 ssh2
+2027-03-10T07:50:12.422000+00:00 web-01 sshd[21563]: Accepted publickey for d.joshi from 10.20.2.104 port 38991 ssh2
+2027-03-10T07:52:45.116000+00:00 web-01 CRON[2002]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T07:53:41.895000+00:00 web-01 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-10T07:55:29.420000+00:00 web-01 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-10T07:55:33.605000+00:00 web-01 sshd[30467]: Accepted password for d.joshi from 10.20.1.63 port 39362 ssh2
+2027-03-10T08:00:28.720000+00:00 web-01 sshd[21116]: Accepted password for p.desai from 10.20.2.142 port 31970 ssh2
+2027-03-10T08:12:56.503000+00:00 web-01 sshd[11169]: Disconnected from user t.singh 10.20.2.97 port 53149
+2027-03-10T08:13:40.578000+00:00 web-01 sshd[10618]: Accepted password for t.singh from 10.20.3.62 port 49648 ssh2
+2027-03-10T08:22:54.844000+00:00 web-01 sudo: v.patel : TTY=pts/0 ; PWD=/home/v.patel ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-10T08:26:17.119000+00:00 web-01 sshd[8699]: Failed password for admin from 192.0.2.103 port 58989 ssh2
+2027-03-10T08:26:49.956000+00:00 web-01 CRON[32773]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T08:26:58.415000+00:00 web-01 sshd[25252]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-10T08:29:51.642000+00:00 web-01 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-10T08:30:12.388000+00:00 web-01 sshd[21281]: Accepted publickey for s.nair from 10.20.4.237 port 42440 ssh2
+2027-03-10T08:45:27.875000+00:00 web-01 sshd[18773]: Failed password for root from 192.0.2.102 port 34020 ssh2
+2027-03-10T08:46:49.638000+00:00 web-01 sshd[23654]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-10T08:47:22.049000+00:00 web-01 CRON[25805]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T08:48:02.828000+00:00 web-01 sshd[20355]: Disconnected from user k.iyer 198.51.100.51 port 57699
+2027-03-10T08:48:15.071000+00:00 web-01 sshd[5075]: Accepted password for t.singh from 10.20.4.213 port 44222 ssh2
+2027-03-10T08:48:37.908000+00:00 web-01 sshd[5520]: Accepted password for r.mehta from 10.20.3.16 port 42136 ssh2
+2027-03-10T08:53:12.295000+00:00 web-01 sshd[23586]: Accepted publickey for d.joshi from 10.20.4.37 port 55592 ssh2
+2027-03-10T08:55:21.150000+00:00 web-01 sshd[23368]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-10T08:58:39.277000+00:00 web-01 CRON[35658]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T09:00:38.272000+00:00 web-01 sshd[30572]: Disconnected from user k.iyer 10.20.1.116 port 53625
+2027-03-10T09:01:53.621000+00:00 web-01 sshd[18468]: Disconnected from user k.iyer 198.51.100.51 port 50620
+2027-03-10T09:14:08.686000+00:00 web-01 sshd[11743]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-10T09:24:47.000000+00:00 web-01 sshd[15891]: Accepted password for v.patel from 10.20.1.47 port 43861 ssh2
+2027-03-10T09:25:40.806000+00:00 web-01 CRON[7393]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T09:26:49.015000+00:00 web-01 CRON[39860]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T09:28:26.524000+00:00 web-01 sshd[39027]: Failed password for root from 192.0.2.101 port 48889 ssh2
+2027-03-10T09:35:06.894000+00:00 web-01 sshd[26714]: Failed password for oracle from 192.0.2.102 port 48741 ssh2
+2027-03-10T09:35:14.987000+00:00 web-01 sshd[10302]: Disconnected from user a.sharma 10.20.4.118 port 38911
+2027-03-10T09:37:46.706000+00:00 web-01 sshd[22415]: Accepted publickey for k.iyer from 198.51.100.51 port 47065 ssh2
+2027-03-10T09:38:46.118000+00:00 web-01 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-10T09:39:00.789000+00:00 web-01 sshd[25693]: Accepted publickey for m.khan from 10.20.2.121 port 40935 ssh2
+2027-03-10T09:41:28.098000+00:00 web-01 sshd[6699]: Accepted password for t.singh from 10.20.3.64 port 46884 ssh2
+2027-03-10T09:43:08.257000+00:00 web-01 sshd[29976]: Accepted publickey for a.sharma from 10.20.3.163 port 33677 ssh2
+2027-03-10T09:50:38.018000+00:00 web-01 sshd[30633]: Accepted publickey for m.khan from 10.20.3.44 port 47046 ssh2
+2027-03-10T09:52:29.383000+00:00 web-01 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-10T09:52:32.438000+00:00 web-01 sshd[9526]: Accepted password for j.thomas from 10.20.4.120 port 35726 ssh2
+2027-03-10T09:55:26.200000+00:00 web-01 CRON[34776]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T10:00:08.490000+00:00 web-01 sshd[29582]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-10T10:00:24.338000+00:00 web-01 CRON[35456]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T10:04:56.042000+00:00 web-01 sshd[3542]: Disconnected from user v.patel 10.20.2.156 port 38562
+2027-03-10T10:05:43.008000+00:00 web-01 sshd[21707]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-10T10:13:36.637000+00:00 web-01 sshd[20694]: Disconnected from user k.iyer 10.20.1.56 port 32560
+2027-03-10T10:19:42.694000+00:00 web-01 CRON[14106]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T10:22:28.543000+00:00 web-01 sshd[1603]: Failed password for test from 192.0.2.102 port 52337 ssh2
+2027-03-10T10:24:37.538000+00:00 web-01 sshd[14618]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-10T10:28:57.178000+00:00 web-01 CRON[24782]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T10:32:45.172000+00:00 web-01 sshd[15711]: Disconnected from user p.desai 198.51.100.50 port 51210
+2027-03-10T10:45:05.098000+00:00 web-01 sshd[39681]: Failed password for oracle from 192.0.2.101 port 33781 ssh2
+2027-03-10T10:46:34.700000+00:00 web-01 CRON[21602]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T10:54:46.849000+00:00 web-01 sshd[12752]: Failed password for admin from 192.0.2.103 port 52317 ssh2
+2027-03-10T10:59:54.510000+00:00 web-01 CRON[31785]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T11:07:29.233000+00:00 web-01 sshd[26203]: Accepted password for a.sharma from 10.20.4.165 port 58980 ssh2
+2027-03-10T11:09:35.626000+00:00 web-01 sshd[6973]: Accepted publickey for h.verma from 10.20.4.34 port 56054 ssh2
+2027-03-10T11:14:11.179000+00:00 web-01 sshd[19755]: Failed password for root from 192.0.2.102 port 30849 ssh2
+2027-03-10T11:18:46.364000+00:00 web-01 sshd[38921]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-10T11:19:16.464000+00:00 web-01 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-10T11:30:12.898000+00:00 web-01 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-10T11:35:21.964000+00:00 web-01 sshd[17684]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-10T11:36:22.905000+00:00 web-01 sshd[7366]: pam_unix(sshd:session): session closed for user d.joshi(uid=1001) by (uid=0)
+2027-03-10T11:41:52.881000+00:00 web-01 CRON[6175]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T11:43:25.034000+00:00 web-01 sshd[17280]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-10T11:47:30.966000+00:00 web-01 CRON[13573]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T11:47:37.864000+00:00 web-01 sshd[37524]: Accepted publickey for a.sharma from 10.20.4.35 port 39230 ssh2
+2027-03-10T11:54:52.267000+00:00 web-01 sshd[21959]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-10T11:56:31.298000+00:00 web-01 sshd[1891]: Disconnected from user j.thomas 10.20.4.193 port 52090
+2027-03-10T11:56:51.899000+00:00 web-01 sshd[35954]: Disconnected from user k.iyer 10.20.2.200 port 42575
+2027-03-10T12:10:56.730000+00:00 web-01 CRON[39323]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T12:11:35.472000+00:00 web-01 sshd[32804]: Accepted password for t.singh from 10.20.4.152 port 46201 ssh2
+2027-03-10T12:12:14.340000+00:00 web-01 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-10T12:12:48.199000+00:00 web-01 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-10T12:15:24.321000+00:00 web-01 sshd[33558]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-10T12:17:03.750000+00:00 web-01 sshd[15973]: Disconnected from user p.desai 198.51.100.50 port 44045
+2027-03-10T12:20:29.022000+00:00 web-01 CRON[32578]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T12:21:57.127000+00:00 web-01 sshd[3217]: Accepted password for n.reddy from 10.20.4.55 port 32517 ssh2
+2027-03-10T12:22:31.284000+00:00 web-01 sshd[32420]: Accepted password for d.joshi from 10.20.4.25 port 44449 ssh2
+2027-03-10T12:27:13.318000+00:00 web-01 sudo: d.joshi : TTY=pts/0 ; PWD=/home/d.joshi ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-10T12:31:40.131000+00:00 web-01 sshd[11254]: Accepted publickey for p.desai from 10.20.1.61 port 49192 ssh2
+2027-03-10T12:34:28.405000+00:00 web-01 sshd[2830]: Disconnected from user s.nair 10.20.1.38 port 38633
+2027-03-10T12:38:53.044000+00:00 web-01 sshd[20615]: Accepted password for k.iyer from 198.51.100.51 port 39055 ssh2
+2027-03-10T12:44:12.128000+00:00 web-01 sshd[18946]: Accepted publickey for m.khan from 10.20.3.181 port 48139 ssh2
+2027-03-10T12:51:32.168000+00:00 web-01 CRON[31798]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T12:56:36.969000+00:00 web-01 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-10T13:04:53.955000+00:00 web-01 CRON[17353]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T13:10:36.481000+00:00 web-01 sshd[20403]: Disconnected from user p.desai 10.20.4.170 port 34640
+2027-03-10T13:10:48.048000+00:00 web-01 CRON[14396]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T13:11:06.640000+00:00 web-01 CRON[11046]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T13:13:46.821000+00:00 web-01 CRON[31518]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T13:15:08.026000+00:00 web-01 sshd[36111]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-10T13:26:32.271000+00:00 web-01 sshd[13017]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-10T13:32:25.322000+00:00 web-01 sshd[24540]: Failed password for test from 192.0.2.101 port 46669 ssh2
+2027-03-10T13:33:26.732000+00:00 web-01 sshd[10045]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-10T13:34:54.361000+00:00 web-01 sshd[6788]: Failed password for admin from 192.0.2.103 port 59669 ssh2
+2027-03-10T13:38:37.988000+00:00 web-01 sshd[38138]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-10T13:38:51.353000+00:00 web-01 sshd[21262]: Accepted publickey for s.nair from 10.20.1.56 port 44905 ssh2
+2027-03-10T13:40:56.490000+00:00 web-01 sshd[25985]: Accepted password for r.mehta from 10.20.3.104 port 56068 ssh2
+2027-03-10T13:48:47.463000+00:00 web-01 sshd[35412]: Disconnected from user k.iyer 10.20.4.244 port 40161
+2027-03-10T13:52:04.238000+00:00 web-01 sshd[34062]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-10T13:54:43.115000+00:00 web-01 sshd[9643]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-10T13:55:22.186000+00:00 web-01 CRON[22879]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T13:58:42.941000+00:00 web-01 sshd[11396]: Failed password for test from 192.0.2.101 port 59870 ssh2
+2027-03-10T14:06:13.930000+00:00 web-01 sshd[1486]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-10T14:14:03.750000+00:00 web-01 CRON[17957]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T14:17:13.196000+00:00 web-01 sshd[20931]: Accepted password for s.nair from 10.20.3.88 port 44578 ssh2
+2027-03-10T14:22:13.593000+00:00 web-01 sshd[38985]: Failed password for admin from 192.0.2.101 port 57131 ssh2
+2027-03-10T14:24:24.126000+00:00 web-01 CRON[33965]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T14:26:14.884000+00:00 web-01 sshd[10204]: Accepted password for s.nair from 10.20.1.37 port 36511 ssh2
+2027-03-10T14:26:47.182000+00:00 web-01 CRON[35510]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T14:30:57.596000+00:00 web-01 sshd[17340]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-10T14:33:20.215000+00:00 web-01 CRON[32846]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T14:33:43.867000+00:00 web-01 sshd[34596]: Accepted publickey for r.mehta from 10.20.3.18 port 52110 ssh2
+2027-03-10T14:42:00.025000+00:00 web-01 sshd[19739]: Disconnected from user p.desai 10.20.2.112 port 56265
+2027-03-10T14:44:25.887000+00:00 web-01 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-10T14:44:27.218000+00:00 web-01 CRON[38799]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T14:51:34.665000+00:00 web-01 sshd[18440]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-10T14:54:04.159000+00:00 web-01 sshd[9242]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-10T14:55:56.585000+00:00 web-01 sshd[30776]: Accepted password for p.desai from 10.20.2.216 port 48799 ssh2
+2027-03-10T15:02:12.600000+00:00 web-01 sshd[34139]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-10T15:03:33.878000+00:00 web-01 sshd[24678]: Accepted password for p.desai from 10.20.4.107 port 41991 ssh2
+2027-03-10T15:04:01.568000+00:00 web-01 sshd[30093]: Accepted publickey for p.desai from 198.51.100.50 port 56212 ssh2
+2027-03-10T15:04:25.558000+00:00 web-01 sshd[17795]: Accepted password for a.sharma from 10.20.1.10 port 46012 ssh2
+2027-03-10T15:04:53.693000+00:00 web-01 sshd[36203]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-10T15:06:32.161000+00:00 web-01 sshd[13110]: Disconnected from user j.thomas 10.20.4.165 port 45887
+2027-03-10T15:07:33.620000+00:00 web-01 sshd[5024]: Accepted password for h.verma from 10.20.3.150 port 30327 ssh2
+2027-03-10T15:08:30.313000+00:00 web-01 CRON[22706]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T15:12:25.707000+00:00 web-01 CRON[9470]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T15:21:33.088000+00:00 web-01 sshd[10178]: Accepted password for t.singh from 10.20.3.240 port 30798 ssh2
+2027-03-10T15:27:06.646000+00:00 web-01 sshd[12362]: Disconnected from user s.nair 10.20.2.90 port 58652
+2027-03-10T15:33:39.273000+00:00 web-01 sshd[28023]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-10T15:35:20.941000+00:00 web-01 CRON[22750]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T15:39:36.321000+00:00 web-01 sshd[4925]: Disconnected from user j.thomas 10.20.3.156 port 51760
+2027-03-10T15:47:38.300000+00:00 web-01 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-10T15:51:33.270000+00:00 web-01 sshd[21616]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-10T16:08:31.962000+00:00 web-01 sshd[39449]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-10T16:20:54.140000+00:00 web-01 CRON[33122]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T16:23:33.445000+00:00 web-01 sshd[28242]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-10T16:23:43.309000+00:00 web-01 CRON[34246]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T16:24:43.145000+00:00 web-01 sshd[5005]: Failed password for oracle from 192.0.2.101 port 48198 ssh2
+2027-03-10T16:26:29.487000+00:00 web-01 sshd[37213]: Accepted password for s.nair from 10.20.2.102 port 54740 ssh2
+2027-03-10T16:27:33.909000+00:00 web-01 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-10T16:29:18.444000+00:00 web-01 sshd[16605]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-10T16:31:07.108000+00:00 web-01 sshd[31550]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-10T16:36:31.721000+00:00 web-01 CRON[35787]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T16:36:51.666000+00:00 web-01 sshd[20287]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-10T16:44:00.792000+00:00 web-01 sshd[14167]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-10T16:45:15.178000+00:00 web-01 sshd[12127]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-10T16:47:35.064000+00:00 web-01 sshd[17840]: Disconnected from user s.nair 10.20.1.159 port 43962
+2027-03-10T16:50:16.389000+00:00 web-01 sshd[15112]: Accepted password for p.desai from 10.20.4.125 port 57182 ssh2
+2027-03-10T16:50:44.171000+00:00 web-01 sshd[39784]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-10T16:53:17.858000+00:00 web-01 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-10T17:01:05.666000+00:00 web-01 sshd[29655]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-10T17:07:07.706000+00:00 web-01 CRON[4671]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T17:16:57.190000+00:00 web-01 sshd[37593]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-10T17:18:23.149000+00:00 web-01 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-10T17:18:38.200000+00:00 web-01 sshd[39221]: Accepted password for m.khan from 10.20.4.239 port 31005 ssh2
+2027-03-10T17:20:30.971000+00:00 web-01 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-10T17:28:28.713000+00:00 web-01 sshd[10890]: Disconnected from user j.thomas 10.20.3.48 port 51658
+2027-03-10T17:29:01.857000+00:00 web-01 CRON[33420]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T17:29:06.850000+00:00 web-01 sshd[36085]: Accepted publickey for a.sharma from 10.20.4.81 port 52061 ssh2
+2027-03-10T17:30:42.714000+00:00 web-01 sshd[3386]: Accepted password for p.desai from 198.51.100.50 port 53033 ssh2
+2027-03-10T17:31:52.031000+00:00 web-01 sshd[30109]: Accepted publickey for m.khan from 10.20.4.213 port 55445 ssh2
+2027-03-10T17:35:02.628000+00:00 web-01 sshd[35872]: Failed password for root from 192.0.2.101 port 44675 ssh2
+2027-03-10T17:39:17.935000+00:00 web-01 sshd[2428]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-10T17:40:38.437000+00:00 web-01 sshd[2839]: Disconnected from user n.reddy 10.20.1.88 port 47376
+2027-03-10T17:41:22.804000+00:00 web-01 CRON[24236]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T17:42:36.952000+00:00 web-01 sshd[14777]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-10T17:44:07.141000+00:00 web-01 sshd[35586]: Disconnected from user s.nair 10.20.4.43 port 38571
+2027-03-10T17:51:25.705000+00:00 web-01 sshd[26830]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-10T17:51:56.429000+00:00 web-01 sshd[24723]: Accepted password for t.singh from 10.20.1.151 port 43105 ssh2
+2027-03-10T18:12:38.763000+00:00 web-01 sshd[15269]: Accepted publickey for k.iyer from 10.20.1.15 port 52722 ssh2
+2027-03-10T18:32:05.572000+00:00 web-01 sshd[32014]: Accepted password for s.nair from 10.20.3.208 port 48519 ssh2
+2027-03-10T18:32:39.935000+00:00 web-01 CRON[25451]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T18:33:14.949000+00:00 web-01 sshd[26272]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-10T18:35:10.679000+00:00 web-01 CRON[30535]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T18:52:17.407000+00:00 web-01 sshd[6546]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-10T19:19:26.354000+00:00 web-01 sshd[12423]: Accepted publickey for n.reddy from 10.20.1.24 port 53507 ssh2
+2027-03-10T19:25:15.605000+00:00 web-01 CRON[7345]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-10T19:28:33.618000+00:00 web-01 sshd[9699]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-10T19:32:52.885000+00:00 web-01 sshd[18709]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-10T19:33:29.910000+00:00 web-01 sshd[31028]: Failed password for test from 192.0.2.101 port 30893 ssh2
+2027-03-10T19:38:12.481000+00:00 web-01 sshd[5580]: Failed password for ubuntu from 192.0.2.101 port 34237 ssh2
+2027-03-10T19:42:57.366000+00:00 web-01 sshd[10603]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-10T19:45:06.247000+00:00 web-01 sshd[22624]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-10T19:46:20.782000+00:00 web-01 sshd[34380]: Accepted publickey for m.khan from 10.20.3.136 port 57792 ssh2
+2027-03-10T20:17:58.715000+00:00 web-01 CRON[19477]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-10T20:25:16.917000+00:00 web-01 sshd[30801]: Accepted publickey for j.thomas from 10.20.1.179 port 47396 ssh2
+2027-03-10T20:42:00.591000+00:00 web-01 sshd[7118]: Accepted password for h.verma from 10.20.1.122 port 43974 ssh2
+2027-03-10T20:45:41.670000+00:00 web-01 sshd[27533]: pam_unix(sshd:session): session closed for user d.joshi(uid=1001) by (uid=0)
+2027-03-10T21:22:41.289000+00:00 web-01 sshd[38157]: Accepted publickey for p.desai from 198.51.100.50 port 54518 ssh2
+2027-03-10T21:27:56.641000+00:00 web-01 CRON[29324]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T00:26:36.322000+00:00 web-01 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-11T00:27:59.554000+00:00 web-01 sshd[1504]: Failed password for admin from 192.0.2.103 port 36118 ssh2
+2027-03-11T00:28:07.572000+00:00 web-01 sshd[24457]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-11T00:54:21.558000+00:00 web-01 sshd[9431]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-11T02:34:09.110000+00:00 web-01 sshd[28995]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-11T03:01:40.000000+00:00 web-01 sshd[16106]: Failed password for admin from 192.0.2.103 port 38479 ssh2
+2027-03-11T03:02:30.000000+00:00 web-01 sshd[10157]: Failed password for oracle from 192.0.2.103 port 32575 ssh2
+2027-03-11T03:02:55.000000+00:00 web-01 sshd[3023]: Failed password for oracle from 192.0.2.103 port 58619 ssh2
+2027-03-11T03:03:20.000000+00:00 web-01 sshd[33799]: Failed password for root from 192.0.2.103 port 51709 ssh2
+2027-03-11T03:03:45.000000+00:00 web-01 sshd[32493]: Failed password for oracle from 192.0.2.103 port 30507 ssh2
+2027-03-11T03:04:35.000000+00:00 web-01 sshd[5526]: Failed password for oracle from 192.0.2.103 port 37050 ssh2
+2027-03-11T03:05:00.000000+00:00 web-01 sshd[17829]: Failed password for admin from 192.0.2.103 port 52755 ssh2
+2027-03-11T03:05:25.000000+00:00 web-01 sshd[21822]: Failed password for root from 192.0.2.103 port 37635 ssh2
+2027-03-11T03:05:50.000000+00:00 web-01 sshd[9062]: Failed password for admin from 192.0.2.103 port 41058 ssh2
+2027-03-11T03:06:15.000000+00:00 web-01 sshd[2493]: Failed password for admin from 192.0.2.103 port 45846 ssh2
+2027-03-11T03:06:40.000000+00:00 web-01 sshd[19021]: Failed password for root from 192.0.2.103 port 31804 ssh2
+2027-03-11T03:07:30.000000+00:00 web-01 sshd[6464]: Failed password for oracle from 192.0.2.103 port 34648 ssh2
+2027-03-11T03:07:55.000000+00:00 web-01 sshd[13137]: Failed password for root from 192.0.2.103 port 38276 ssh2
+2027-03-11T03:08:20.000000+00:00 web-01 sshd[18018]: Failed password for root from 192.0.2.103 port 44394 ssh2
+2027-03-11T03:09:10.000000+00:00 web-01 sshd[9638]: Failed password for admin from 192.0.2.103 port 33548 ssh2
+2027-03-11T03:09:35.000000+00:00 web-01 sshd[16198]: Failed password for root from 192.0.2.103 port 46289 ssh2
+2027-03-11T03:10:00.000000+00:00 web-01 sshd[36748]: Failed password for admin from 192.0.2.103 port 56894 ssh2
+2027-03-11T03:10:25.000000+00:00 web-01 sshd[39804]: Failed password for root from 192.0.2.103 port 52299 ssh2
+2027-03-11T03:10:50.000000+00:00 web-01 sshd[2675]: Failed password for root from 192.0.2.103 port 51900 ssh2
+2027-03-11T03:11:15.000000+00:00 web-01 sshd[30869]: Failed password for admin from 192.0.2.103 port 48756 ssh2
+2027-03-11T03:12:05.000000+00:00 web-01 sshd[2936]: Failed password for oracle from 192.0.2.103 port 31576 ssh2
+2027-03-11T03:12:30.000000+00:00 web-01 sshd[17492]: Failed password for oracle from 192.0.2.103 port 42836 ssh2
+2027-03-11T03:12:55.000000+00:00 web-01 sshd[28225]: Failed password for admin from 192.0.2.103 port 37509 ssh2
+2027-03-11T03:13:45.000000+00:00 web-01 sshd[15038]: Failed password for admin from 192.0.2.103 port 57648 ssh2
+2027-03-11T03:19:03.716000+00:00 web-01 CRON[22152]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T03:47:45.708000+00:00 web-01 CRON[1715]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T03:52:32.969000+00:00 web-01 CRON[4157]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T04:05:57.831000+00:00 web-01 sshd[13964]: Failed password for root from 192.0.2.103 port 44340 ssh2
+2027-03-11T04:24:52.226000+00:00 web-01 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-11T05:17:26.014000+00:00 web-01 sshd[23819]: Failed password for test from 192.0.2.101 port 43442 ssh2
+2027-03-11T06:01:21.376000+00:00 web-01 sshd[33456]: Accepted password for s.nair from 10.20.2.79 port 53403 ssh2
+2027-03-11T06:06:32.822000+00:00 web-01 sshd[21666]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-11T06:20:11.029000+00:00 web-01 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-11T06:57:03.511000+00:00 web-01 sshd[20687]: Failed password for admin from 192.0.2.102 port 45262 ssh2
+2027-03-11T06:59:40.030000+00:00 web-01 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-11T07:02:55.244000+00:00 web-01 sshd[12713]: Failed password for test from 192.0.2.102 port 36855 ssh2
+2027-03-11T07:05:33.916000+00:00 web-01 sshd[36869]: Accepted password for n.reddy from 10.20.1.27 port 39755 ssh2
+2027-03-11T07:09:10.503000+00:00 web-01 sshd[18390]: Disconnected from user m.khan 10.20.1.87 port 43310
+2027-03-11T07:11:12.118000+00:00 web-01 sshd[16576]: Accepted publickey for h.verma from 10.20.2.117 port 35868 ssh2
+2027-03-11T07:17:01.976000+00:00 web-01 sshd[23740]: Accepted publickey for n.reddy from 10.20.1.234 port 39323 ssh2
+2027-03-11T07:17:22.533000+00:00 web-01 CRON[26912]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T07:18:16.004000+00:00 web-01 sshd[5087]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-11T07:18:22.611000+00:00 web-01 CRON[14991]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T07:24:17.756000+00:00 web-01 sshd[20142]: Accepted publickey for h.verma from 10.20.3.65 port 44900 ssh2
+2027-03-11T07:24:45.062000+00:00 web-01 sshd[10253]: Accepted publickey for t.singh from 10.20.3.167 port 45811 ssh2
+2027-03-11T07:26:50.266000+00:00 web-01 sshd[28406]: Failed password for oracle from 192.0.2.103 port 35197 ssh2
+2027-03-11T07:30:20.134000+00:00 web-01 sshd[18084]: Accepted publickey for k.iyer from 198.51.100.51 port 54514 ssh2
+2027-03-11T07:35:49.785000+00:00 web-01 sshd[3981]: Accepted password for d.joshi from 10.20.1.213 port 34099 ssh2
+2027-03-11T07:41:59.780000+00:00 web-01 sshd[32156]: Accepted publickey for d.joshi from 10.20.3.68 port 45905 ssh2
+2027-03-11T07:52:40.487000+00:00 web-01 CRON[9471]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T07:54:01.268000+00:00 web-01 sshd[16168]: Failed password for test from 192.0.2.101 port 36113 ssh2
+2027-03-11T07:56:36.368000+00:00 web-01 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-11T08:03:31.648000+00:00 web-01 sshd[22400]: Accepted publickey for h.verma from 10.20.1.91 port 40600 ssh2
+2027-03-11T08:03:45.604000+00:00 web-01 CRON[29092]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T08:09:30.680000+00:00 web-01 sshd[24438]: Accepted password for n.reddy from 10.20.2.90 port 45763 ssh2
+2027-03-11T08:09:51.219000+00:00 web-01 sshd[6058]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-11T08:13:37.301000+00:00 web-01 sshd[13899]: Disconnected from user k.iyer 198.51.100.51 port 41891
+2027-03-11T08:17:56.450000+00:00 web-01 sshd[21042]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-11T08:24:56.703000+00:00 web-01 sshd[20672]: Accepted publickey for d.joshi from 10.20.1.202 port 58699 ssh2
+2027-03-11T08:26:09.200000+00:00 web-01 sshd[10300]: Accepted publickey for s.nair from 10.20.2.218 port 59095 ssh2
+2027-03-11T08:33:17.497000+00:00 web-01 sshd[19667]: Accepted publickey for v.patel from 10.20.1.134 port 46377 ssh2
+2027-03-11T08:34:04.649000+00:00 web-01 sshd[38352]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-11T08:36:06.196000+00:00 web-01 sshd[39474]: Accepted password for d.joshi from 10.20.3.86 port 59385 ssh2
+2027-03-11T08:36:07.991000+00:00 web-01 sshd[2113]: Accepted password for k.iyer from 10.20.1.121 port 56195 ssh2
+2027-03-11T08:38:18.371000+00:00 web-01 CRON[14858]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T08:45:08.561000+00:00 web-01 CRON[27283]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T08:45:48.491000+00:00 web-01 CRON[32627]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T08:57:34.624000+00:00 web-01 sshd[23426]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-11T09:02:16.877000+00:00 web-01 sshd[17173]: Accepted password for j.thomas from 10.20.4.88 port 40271 ssh2
+2027-03-11T09:06:21.534000+00:00 web-01 sshd[23140]: Accepted password for v.patel from 10.20.1.156 port 35425 ssh2
+2027-03-11T09:07:17.889000+00:00 web-01 CRON[37143]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T09:09:45.706000+00:00 web-01 sshd[37088]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-11T09:19:27.226000+00:00 web-01 CRON[22991]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T09:28:13.150000+00:00 web-01 CRON[37724]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T09:36:03.021000+00:00 web-01 sshd[5165]: Accepted password for a.sharma from 10.20.2.71 port 43292 ssh2
+2027-03-11T09:36:38.169000+00:00 web-01 sshd[9061]: pam_unix(sshd:session): session closed for user s.nair(uid=1001) by (uid=0)
+2027-03-11T09:48:16.517000+00:00 web-01 sshd[17563]: Disconnected from user d.joshi 10.20.1.86 port 46296
+2027-03-11T09:49:10.866000+00:00 web-01 CRON[9489]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T09:53:54.007000+00:00 web-01 sshd[18971]: Failed password for oracle from 192.0.2.103 port 39193 ssh2
+2027-03-11T09:55:53.927000+00:00 web-01 sshd[29677]: Failed password for root from 192.0.2.103 port 36919 ssh2
+2027-03-11T09:57:24.518000+00:00 web-01 sshd[38035]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-11T10:00:51.842000+00:00 web-01 sshd[3395]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-11T10:08:17.953000+00:00 web-01 sshd[14167]: Failed password for ubuntu from 192.0.2.101 port 30765 ssh2
+2027-03-11T10:08:35.470000+00:00 web-01 sshd[18242]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-11T10:13:26.384000+00:00 web-01 sshd[21500]: Accepted password for a.sharma from 10.20.4.184 port 33362 ssh2
+2027-03-11T10:15:41.175000+00:00 web-01 CRON[13933]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T10:16:25.046000+00:00 web-01 sshd[20225]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-11T10:17:44.366000+00:00 web-01 sshd[3528]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-11T10:24:22.821000+00:00 web-01 sshd[39991]: Failed password for root from 192.0.2.101 port 36947 ssh2
+2027-03-11T10:30:22.285000+00:00 web-01 sshd[37795]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-11T10:32:21.860000+00:00 web-01 CRON[12037]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T10:35:12.273000+00:00 web-01 sshd[22047]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-11T10:35:20.597000+00:00 web-01 sshd[29787]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-11T10:48:24.141000+00:00 web-01 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-11T10:51:24.982000+00:00 web-01 sshd[19692]: Accepted publickey for v.patel from 10.20.2.224 port 44706 ssh2
+2027-03-11T10:57:22.354000+00:00 web-01 sshd[35705]: Failed password for ubuntu from 192.0.2.101 port 50031 ssh2
+2027-03-11T10:58:03.829000+00:00 web-01 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-11T10:58:49.795000+00:00 web-01 sshd[39329]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-11T11:05:56.935000+00:00 web-01 sshd[2958]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-11T11:08:11.680000+00:00 web-01 sshd[4806]: Accepted password for v.patel from 10.20.1.227 port 55358 ssh2
+2027-03-11T11:08:27.790000+00:00 web-01 sshd[38449]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-11T11:17:36.453000+00:00 web-01 sshd[8389]: Accepted publickey for s.nair from 10.20.2.119 port 34087 ssh2
+2027-03-11T11:17:44.893000+00:00 web-01 sshd[11323]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-11T11:20:55.717000+00:00 web-01 CRON[23506]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T11:22:35.903000+00:00 web-01 sshd[1686]: Accepted password for s.nair from 10.20.3.160 port 56248 ssh2
+2027-03-11T11:22:45.322000+00:00 web-01 sshd[4742]: Disconnected from user n.reddy 10.20.1.242 port 34745
+2027-03-11T11:24:30.821000+00:00 web-01 sshd[12632]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-11T11:31:53.005000+00:00 web-01 sshd[15593]: Accepted publickey for d.joshi from 10.20.2.233 port 30323 ssh2
+2027-03-11T11:39:14.358000+00:00 web-01 sshd[31626]: pam_unix(sshd:session): session closed for user d.joshi(uid=1001) by (uid=0)
+2027-03-11T11:39:48.226000+00:00 web-01 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-11T11:41:08.999000+00:00 web-01 sshd[30298]: Accepted password for r.mehta from 10.20.3.92 port 45506 ssh2
+2027-03-11T11:44:05.398000+00:00 web-01 sshd[14876]: pam_unix(sshd:session): session closed for user p.desai(uid=1001) by (uid=0)
+2027-03-11T11:49:11.994000+00:00 web-01 sshd[29016]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-11T11:51:16.910000+00:00 web-01 CRON[8730]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T11:54:08.327000+00:00 web-01 CRON[10555]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T11:54:22.049000+00:00 web-01 CRON[16293]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T11:56:32.184000+00:00 web-01 CRON[34661]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T12:07:32.870000+00:00 web-01 sshd[18561]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-11T12:08:09.865000+00:00 web-01 sshd[22331]: Accepted publickey for t.singh from 10.20.4.162 port 51567 ssh2
+2027-03-11T12:16:33.189000+00:00 web-01 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-11T12:20:05.694000+00:00 web-01 sshd[13031]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-11T12:20:28.707000+00:00 web-01 sshd[32758]: Accepted publickey for t.singh from 10.20.4.21 port 55602 ssh2
+2027-03-11T12:23:50.726000+00:00 web-01 sshd[38636]: Disconnected from user k.iyer 198.51.100.51 port 51576
+2027-03-11T12:32:34.689000+00:00 web-01 sshd[9354]: Accepted password for v.patel from 10.20.2.129 port 31581 ssh2
+2027-03-11T12:36:30.104000+00:00 web-01 sshd[15229]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-11T12:46:45.110000+00:00 web-01 sshd[9692]: Accepted password for a.sharma from 10.20.1.183 port 55157 ssh2
+2027-03-11T12:47:54.032000+00:00 web-01 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-11T12:50:03.996000+00:00 web-01 sshd[30934]: Disconnected from user v.patel 10.20.2.117 port 58338
+2027-03-11T12:52:59.413000+00:00 web-01 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-11T13:04:14.555000+00:00 web-01 CRON[20731]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T13:11:10.396000+00:00 web-01 sshd[10409]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-11T13:17:53.455000+00:00 web-01 CRON[24960]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T13:23:20.794000+00:00 web-01 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-11T13:24:31.172000+00:00 web-01 CRON[1933]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T13:27:23.029000+00:00 web-01 sshd[26237]: Accepted password for k.iyer from 198.51.100.51 port 58462 ssh2
+2027-03-11T13:30:35.097000+00:00 web-01 sshd[1927]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-11T13:31:00.099000+00:00 web-01 sshd[26542]: Disconnected from user s.nair 10.20.2.103 port 45538
+2027-03-11T13:34:13.358000+00:00 web-01 CRON[4024]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T13:37:41.269000+00:00 web-01 CRON[4102]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T13:47:15.059000+00:00 web-01 sudo: d.joshi : TTY=pts/0 ; PWD=/home/d.joshi ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-11T13:49:31.050000+00:00 web-01 sshd[11046]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-11T13:54:07.869000+00:00 web-01 sshd[34229]: Accepted password for a.sharma from 10.20.4.137 port 47332 ssh2
+2027-03-11T13:55:52.803000+00:00 web-01 CRON[5938]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T14:00:16.281000+00:00 web-01 CRON[27672]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T14:01:50.807000+00:00 web-01 sshd[31176]: Disconnected from user s.nair 10.20.1.22 port 40699
+2027-03-11T14:02:13.269000+00:00 web-01 CRON[11717]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T14:03:18.974000+00:00 web-01 CRON[36173]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T14:04:00.720000+00:00 web-01 CRON[30572]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T14:04:50.086000+00:00 web-01 sshd[24878]: Accepted password for s.nair from 10.20.1.203 port 47720 ssh2
+2027-03-11T14:07:02.922000+00:00 web-01 CRON[32978]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T14:13:13.611000+00:00 web-01 CRON[3153]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T14:23:13.410000+00:00 web-01 CRON[12311]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T14:32:06.350000+00:00 web-01 sshd[21502]: Failed password for root from 192.0.2.103 port 40368 ssh2
+2027-03-11T14:39:34.447000+00:00 web-01 sshd[8550]: Failed password for admin from 192.0.2.101 port 47016 ssh2
+2027-03-11T14:40:38.158000+00:00 web-01 sshd[11469]: Accepted publickey for a.sharma from 10.20.4.249 port 59691 ssh2
+2027-03-11T14:42:01.431000+00:00 web-01 sshd[1075]: Accepted password for d.joshi from 10.20.3.124 port 34221 ssh2
+2027-03-11T14:45:29.715000+00:00 web-01 sshd[20615]: Accepted password for h.verma from 10.20.1.84 port 41000 ssh2
+2027-03-11T14:49:07.826000+00:00 web-01 sshd[24117]: Disconnected from user h.verma 10.20.1.128 port 36826
+2027-03-11T14:52:18.517000+00:00 web-01 sshd[17007]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-11T14:54:24.821000+00:00 web-01 CRON[34130]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T14:58:46.751000+00:00 web-01 sshd[20282]: Accepted publickey for v.patel from 10.20.4.206 port 33446 ssh2
+2027-03-11T14:59:37.543000+00:00 web-01 sshd[17014]: Accepted password for d.joshi from 10.20.4.144 port 59156 ssh2
+2027-03-11T15:03:09.389000+00:00 web-01 sshd[24431]: pam_unix(sshd:session): session closed for user p.desai(uid=1001) by (uid=0)
+2027-03-11T15:04:27.738000+00:00 web-01 sshd[19357]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-11T15:06:06.161000+00:00 web-01 sshd[6463]: Disconnected from user p.desai 10.20.3.236 port 58344
+2027-03-11T15:19:19.457000+00:00 web-01 sshd[38253]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-11T15:19:45.355000+00:00 web-01 sshd[15507]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-11T15:22:18.889000+00:00 web-01 sshd[9599]: Accepted publickey for m.khan from 10.20.3.214 port 31238 ssh2
+2027-03-11T15:30:19.834000+00:00 web-01 sshd[33460]: Accepted password for j.thomas from 10.20.4.236 port 53098 ssh2
+2027-03-11T15:31:35.841000+00:00 web-01 sshd[39558]: Accepted password for a.sharma from 10.20.2.136 port 32721 ssh2
+2027-03-11T15:38:38.584000+00:00 web-01 sshd[7084]: Accepted password for j.thomas from 10.20.4.18 port 53363 ssh2
+2027-03-11T15:39:38.961000+00:00 web-01 sshd[1100]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-11T15:41:44.732000+00:00 web-01 sshd[8940]: Accepted password for t.singh from 10.20.2.192 port 47380 ssh2
+2027-03-11T15:42:15.659000+00:00 web-01 sshd[13500]: Accepted publickey for v.patel from 10.20.4.236 port 52290 ssh2
+2027-03-11T15:44:34.569000+00:00 web-01 sshd[33482]: Accepted password for r.mehta from 10.20.1.173 port 52678 ssh2
+2027-03-11T15:49:08.425000+00:00 web-01 CRON[14978]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T15:52:44.283000+00:00 web-01 sshd[29641]: Accepted password for d.joshi from 10.20.1.33 port 59940 ssh2
+2027-03-11T16:01:33.742000+00:00 web-01 sshd[37049]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-11T16:12:15.458000+00:00 web-01 CRON[15084]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T16:20:24.096000+00:00 web-01 CRON[25312]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T16:22:25.985000+00:00 web-01 sshd[27105]: Disconnected from user n.reddy 10.20.4.108 port 51037
+2027-03-11T16:25:15.791000+00:00 web-01 sshd[26044]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-11T16:31:22.366000+00:00 web-01 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-11T16:31:54.949000+00:00 web-01 CRON[6039]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T16:34:12.230000+00:00 web-01 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-11T16:37:09.610000+00:00 web-01 CRON[3607]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T16:48:11.041000+00:00 web-01 sshd[17967]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-11T16:55:13.091000+00:00 web-01 sshd[4860]: Accepted publickey for k.iyer from 198.51.100.51 port 34853 ssh2
+2027-03-11T17:02:50.915000+00:00 web-01 sshd[11276]: Accepted password for k.iyer from 198.51.100.51 port 57435 ssh2
+2027-03-11T17:03:05.106000+00:00 web-01 sshd[12635]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-11T17:04:08.584000+00:00 web-01 sshd[22070]: Accepted publickey for s.nair from 10.20.1.111 port 40758 ssh2
+2027-03-11T17:41:35.136000+00:00 web-01 sshd[24872]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-11T17:43:32.271000+00:00 web-01 sshd[30724]: Accepted publickey for v.patel from 10.20.3.204 port 49129 ssh2
+2027-03-11T17:44:39.685000+00:00 web-01 sudo: v.patel : TTY=pts/0 ; PWD=/home/v.patel ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-11T17:44:55.081000+00:00 web-01 CRON[13510]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T17:51:19.324000+00:00 web-01 sshd[16928]: Accepted password for d.joshi from 10.20.4.67 port 43515 ssh2
+2027-03-11T17:57:42.886000+00:00 web-01 CRON[38917]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T18:01:05.325000+00:00 web-01 CRON[37385]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T18:03:06.310000+00:00 web-01 CRON[29800]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T18:05:51.189000+00:00 web-01 sshd[27400]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-11T18:15:14.517000+00:00 web-01 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-11T18:25:57.146000+00:00 web-01 CRON[27105]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T18:27:23.032000+00:00 web-01 CRON[30297]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T18:27:29.030000+00:00 web-01 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-11T18:35:08.904000+00:00 web-01 sshd[22610]: Accepted password for v.patel from 10.20.4.163 port 57133 ssh2
+2027-03-11T18:40:46.490000+00:00 web-01 sshd[14572]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-11T18:56:22.653000+00:00 web-01 sshd[32118]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-11T19:07:19.880000+00:00 web-01 sshd[3233]: Accepted password for v.patel from 10.20.4.217 port 45384 ssh2
+2027-03-11T19:17:38.480000+00:00 web-01 sshd[15218]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-11T19:31:22.271000+00:00 web-01 sshd[26195]: Failed password for test from 192.0.2.103 port 39908 ssh2
+2027-03-11T19:44:37.748000+00:00 web-01 sshd[39951]: Accepted password for r.mehta from 10.20.2.192 port 58992 ssh2
+2027-03-11T19:44:43.591000+00:00 web-01 sshd[16721]: Accepted password for j.thomas from 10.20.1.17 port 47009 ssh2
+2027-03-11T20:00:49.008000+00:00 web-01 sshd[16470]: Failed password for admin from 192.0.2.101 port 47988 ssh2
+2027-03-11T20:03:32.941000+00:00 web-01 sshd[3119]: Failed password for root from 192.0.2.102 port 34549 ssh2
+2027-03-11T20:17:17.756000+00:00 web-01 sshd[13527]: Accepted password for n.reddy from 10.20.2.211 port 41925 ssh2
+2027-03-11T20:21:19.984000+00:00 web-01 sshd[16104]: Disconnected from user h.verma 10.20.4.130 port 39832
+2027-03-11T20:21:32.356000+00:00 web-01 sshd[30790]: Accepted publickey for d.joshi from 10.20.3.229 port 52068 ssh2
+2027-03-11T20:32:13.642000+00:00 web-01 sshd[38671]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-11T21:00:50.520000+00:00 web-01 sshd[32449]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-11T21:33:36.187000+00:00 web-01 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-11T21:36:04.197000+00:00 web-01 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-11T22:09:13.071000+00:00 web-01 sshd[13841]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-11T22:14:39.803000+00:00 web-01 sshd[16366]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-11T22:33:40.897000+00:00 web-01 sshd[17185]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-11T23:05:51.421000+00:00 web-01 CRON[33346]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-11T23:21:03.386000+00:00 web-01 CRON[8058]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-11T23:54:42.864000+00:00 web-01 sshd[2075]: Failed password for test from 192.0.2.101 port 42986 ssh2
+2027-03-12T00:57:16.620000+00:00 web-01 sshd[22162]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-12T01:10:51.046000+00:00 web-01 sshd[19033]: Accepted password for r.mehta from 10.20.1.235 port 46190 ssh2
+2027-03-12T02:56:11.490000+00:00 web-01 sshd[27282]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-12T03:09:50.612000+00:00 web-01 sshd[25059]: Accepted password for a.sharma from 10.20.3.28 port 33461 ssh2
+2027-03-12T03:19:42.426000+00:00 web-01 sshd[29768]: Disconnected from user v.patel 10.20.3.206 port 45340
+2027-03-12T05:52:47.329000+00:00 web-01 sshd[25272]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-12T06:08:15.295000+00:00 web-01 CRON[34863]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T06:11:30.117000+00:00 web-01 CRON[35445]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T06:15:00.184000+00:00 web-01 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-12T06:19:02.530000+00:00 web-01 sshd[3795]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-12T06:26:16.944000+00:00 web-01 CRON[15614]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T06:29:23.642000+00:00 web-01 sshd[3291]: Failed password for root from 192.0.2.101 port 58444 ssh2
+2027-03-12T06:37:29.260000+00:00 web-01 sshd[6761]: Disconnected from user d.joshi 10.20.3.142 port 45803
+2027-03-12T06:41:46.067000+00:00 web-01 sshd[32314]: Accepted publickey for n.reddy from 10.20.3.107 port 55645 ssh2
+2027-03-12T06:52:34.270000+00:00 web-01 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-12T06:55:35.851000+00:00 web-01 sshd[13312]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-12T06:57:34.157000+00:00 web-01 CRON[23227]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T06:58:17.494000+00:00 web-01 sshd[35369]: Accepted password for t.singh from 10.20.3.233 port 41096 ssh2
+2027-03-12T07:07:38.131000+00:00 web-01 sshd[22439]: Accepted publickey for h.verma from 10.20.2.128 port 44465 ssh2
+2027-03-12T07:13:17.548000+00:00 web-01 sshd[21206]: Accepted publickey for t.singh from 10.20.4.53 port 42122 ssh2
+2027-03-12T07:18:27.208000+00:00 web-01 sshd[14302]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-12T07:29:57.477000+00:00 web-01 sshd[27277]: Accepted publickey for s.nair from 10.20.1.107 port 57626 ssh2
+2027-03-12T07:31:51.715000+00:00 web-01 CRON[25121]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T07:32:01.011000+00:00 web-01 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-12T08:02:35.147000+00:00 web-01 sshd[36296]: Accepted publickey for d.joshi from 10.20.1.204 port 33519 ssh2
+2027-03-12T08:04:48.839000+00:00 web-01 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-12T08:07:37.513000+00:00 web-01 sshd[38602]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-12T08:08:17.827000+00:00 web-01 sshd[23046]: Failed password for root from 192.0.2.102 port 49310 ssh2
+2027-03-12T08:09:09.126000+00:00 web-01 sshd[30732]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-12T08:13:41.382000+00:00 web-01 sshd[15501]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-12T08:16:43.214000+00:00 web-01 CRON[24293]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T08:18:14.453000+00:00 web-01 CRON[30395]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T08:19:05.880000+00:00 web-01 sshd[12625]: Accepted password for t.singh from 10.20.1.86 port 44844 ssh2
+2027-03-12T08:20:17.879000+00:00 web-01 sshd[11843]: Disconnected from user d.joshi 10.20.4.34 port 57430
+2027-03-12T08:22:15.483000+00:00 web-01 sshd[33069]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-12T08:24:38.763000+00:00 web-01 sshd[21127]: pam_unix(sshd:session): session closed for user s.nair(uid=1001) by (uid=0)
+2027-03-12T08:28:19.148000+00:00 web-01 sshd[23790]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-12T08:29:11.756000+00:00 web-01 sshd[35348]: Failed password for root from 192.0.2.102 port 34148 ssh2
+2027-03-12T08:42:06.222000+00:00 web-01 sshd[31017]: Accepted publickey for d.joshi from 10.20.4.210 port 33351 ssh2
+2027-03-12T08:44:02.350000+00:00 web-01 sshd[19077]: Disconnected from user h.verma 10.20.3.15 port 32579
+2027-03-12T08:45:21.361000+00:00 web-01 sshd[33397]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-12T08:49:35.599000+00:00 web-01 sshd[7187]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-12T08:57:22.253000+00:00 web-01 sshd[16037]: Accepted password for d.joshi from 10.20.4.185 port 34349 ssh2
+2027-03-12T08:59:00.750000+00:00 web-01 CRON[2376]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T09:01:43.056000+00:00 web-01 CRON[13525]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T09:01:49.917000+00:00 web-01 CRON[34942]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T09:06:16.558000+00:00 web-01 sshd[18371]: Failed password for ubuntu from 192.0.2.103 port 43893 ssh2
+2027-03-12T09:08:11.280000+00:00 web-01 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-12T09:15:57.084000+00:00 web-01 sshd[32978]: Accepted publickey for v.patel from 10.20.2.70 port 55324 ssh2
+2027-03-12T09:22:52.834000+00:00 web-01 sshd[19232]: Accepted publickey for k.iyer from 10.20.4.28 port 50389 ssh2
+2027-03-12T09:25:00.551000+00:00 web-01 sshd[9617]: Failed password for ubuntu from 192.0.2.101 port 53783 ssh2
+2027-03-12T09:30:34.355000+00:00 web-01 sshd[33128]: Failed password for test from 192.0.2.103 port 52712 ssh2
+2027-03-12T09:31:48.193000+00:00 web-01 sshd[27343]: Disconnected from user t.singh 10.20.2.204 port 57451
+2027-03-12T09:33:54.815000+00:00 web-01 CRON[14283]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T09:38:33.158000+00:00 web-01 sshd[21534]: Accepted publickey for p.desai from 198.51.100.50 port 43469 ssh2
+2027-03-12T09:46:09.412000+00:00 web-01 sshd[23489]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-12T09:49:52.312000+00:00 web-01 CRON[27208]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T09:49:59.218000+00:00 web-01 CRON[23588]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T09:52:55.802000+00:00 web-01 CRON[21777]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T10:06:06.965000+00:00 web-01 sshd[35476]: Accepted password for p.desai from 198.51.100.50 port 48355 ssh2
+2027-03-12T10:07:50.893000+00:00 web-01 sshd[12173]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-12T10:11:10.490000+00:00 web-01 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-12T10:12:17.435000+00:00 web-01 sshd[11676]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-12T10:13:01.277000+00:00 web-01 sshd[36530]: Disconnected from user s.nair 10.20.1.204 port 33121
+2027-03-12T10:15:08.071000+00:00 web-01 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-12T10:17:29.492000+00:00 web-01 sshd[29877]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-12T10:17:53.092000+00:00 web-01 sshd[19530]: Disconnected from user v.patel 10.20.3.48 port 47588
+2027-03-12T10:18:54.438000+00:00 web-01 CRON[3474]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T10:23:25.152000+00:00 web-01 sshd[38761]: Failed password for ubuntu from 192.0.2.101 port 58060 ssh2
+2027-03-12T10:23:44.702000+00:00 web-01 sshd[17710]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-12T10:26:35.464000+00:00 web-01 sshd[18358]: Accepted publickey for j.thomas from 10.20.3.35 port 43004 ssh2
+2027-03-12T10:31:56.307000+00:00 web-01 sshd[21943]: Failed password for oracle from 192.0.2.103 port 48826 ssh2
+2027-03-12T10:32:49.913000+00:00 web-01 sshd[10777]: Accepted publickey for n.reddy from 10.20.3.193 port 34389 ssh2
+2027-03-12T10:36:27.012000+00:00 web-01 sshd[39016]: Disconnected from user h.verma 10.20.3.93 port 30485
+2027-03-12T10:37:10.297000+00:00 web-01 sshd[6510]: Failed password for admin from 192.0.2.102 port 51746 ssh2
+2027-03-12T10:38:02.085000+00:00 web-01 sshd[12238]: Failed password for root from 192.0.2.102 port 59398 ssh2
+2027-03-12T10:41:00.470000+00:00 web-01 sshd[6375]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-12T10:42:21.797000+00:00 web-01 sshd[30395]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-12T10:45:16.463000+00:00 web-01 sudo: v.patel : TTY=pts/0 ; PWD=/home/v.patel ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-12T10:53:04.055000+00:00 web-01 sshd[25978]: Accepted password for h.verma from 10.20.2.15 port 49155 ssh2
+2027-03-12T10:53:27.290000+00:00 web-01 CRON[4640]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T10:55:00.600000+00:00 web-01 sshd[8961]: Accepted password for r.mehta from 10.20.3.150 port 47450 ssh2
+2027-03-12T11:14:18.575000+00:00 web-01 sshd[15062]: Failed password for test from 192.0.2.101 port 58724 ssh2
+2027-03-12T11:20:56.043000+00:00 web-01 CRON[5400]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T11:31:52.962000+00:00 web-01 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-12T11:41:08.047000+00:00 web-01 sshd[21633]: Disconnected from user a.sharma 10.20.2.210 port 34963
+2027-03-12T11:41:40.071000+00:00 web-01 sshd[39273]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-12T11:42:19.360000+00:00 web-01 sshd[34449]: Accepted password for a.sharma from 10.20.1.137 port 51355 ssh2
+2027-03-12T11:56:22.199000+00:00 web-01 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-12T12:07:53.192000+00:00 web-01 sshd[7339]: Failed password for oracle from 192.0.2.103 port 55809 ssh2
+2027-03-12T12:08:28.229000+00:00 web-01 sshd[16786]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-12T12:11:20.614000+00:00 web-01 sshd[1476]: Accepted publickey for h.verma from 10.20.3.236 port 44677 ssh2
+2027-03-12T12:11:25.491000+00:00 web-01 sshd[15697]: pam_unix(sshd:session): session closed for user s.nair(uid=1001) by (uid=0)
+2027-03-12T12:17:53.851000+00:00 web-01 sshd[34675]: Accepted publickey for h.verma from 10.20.2.45 port 57875 ssh2
+2027-03-12T12:33:56.288000+00:00 web-01 sshd[10002]: Accepted password for p.desai from 10.20.2.135 port 48288 ssh2
+2027-03-12T12:44:56.749000+00:00 web-01 sshd[24197]: Failed password for test from 192.0.2.103 port 50737 ssh2
+2027-03-12T12:49:32.121000+00:00 web-01 sshd[8404]: Accepted publickey for v.patel from 10.20.4.222 port 54896 ssh2
+2027-03-12T12:55:15.235000+00:00 web-01 sshd[25780]: Accepted publickey for r.mehta from 10.20.2.121 port 53122 ssh2
+2027-03-12T13:00:34.983000+00:00 web-01 sshd[30421]: Disconnected from user h.verma 10.20.2.84 port 32098
+2027-03-12T13:11:54.928000+00:00 web-01 sshd[26758]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-12T13:19:03.686000+00:00 web-01 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-12T13:19:09.190000+00:00 web-01 sshd[9541]: Disconnected from user v.patel 10.20.1.213 port 41644
+2027-03-12T13:23:10.336000+00:00 web-01 sshd[15461]: Accepted password for h.verma from 10.20.2.125 port 50812 ssh2
+2027-03-12T13:24:30.890000+00:00 web-01 sshd[27874]: Failed password for root from 192.0.2.103 port 58556 ssh2
+2027-03-12T13:32:25.207000+00:00 web-01 sshd[34691]: Disconnected from user k.iyer 10.20.1.77 port 59269
+2027-03-12T13:32:40.800000+00:00 web-01 sshd[35451]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-12T13:32:47.328000+00:00 web-01 sshd[36721]: Disconnected from user m.khan 10.20.4.92 port 56144
+2027-03-12T13:32:53.222000+00:00 web-01 CRON[7227]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T13:34:02.949000+00:00 web-01 CRON[27243]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T13:36:21.206000+00:00 web-01 CRON[31576]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T13:39:18.506000+00:00 web-01 sshd[39634]: Accepted publickey for n.reddy from 10.20.2.134 port 33136 ssh2
+2027-03-12T13:42:38.701000+00:00 web-01 CRON[34224]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T13:45:14.526000+00:00 web-01 sshd[6819]: Accepted publickey for t.singh from 10.20.2.204 port 52225 ssh2
+2027-03-12T13:45:34.987000+00:00 web-01 sshd[17957]: Accepted publickey for p.desai from 10.20.1.77 port 46052 ssh2
+2027-03-12T13:47:55.576000+00:00 web-01 CRON[12014]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T13:56:16.006000+00:00 web-01 sshd[23429]: Accepted publickey for p.desai from 10.20.2.185 port 53643 ssh2
+2027-03-12T13:57:31.531000+00:00 web-01 sshd[23784]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-12T14:00:41.274000+00:00 web-01 sshd[8375]: Disconnected from user t.singh 10.20.3.197 port 47472
+2027-03-12T14:01:06.994000+00:00 web-01 sshd[13848]: Disconnected from user j.thomas 10.20.2.216 port 47630
+2027-03-12T14:01:08.093000+00:00 web-01 sshd[37689]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-12T14:02:01.006000+00:00 web-01 sshd[12457]: Accepted password for k.iyer from 198.51.100.51 port 43962 ssh2
+2027-03-12T14:02:10.199000+00:00 web-01 sshd[14340]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-12T14:10:14.990000+00:00 web-01 sshd[14083]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-12T14:10:57.332000+00:00 web-01 sshd[15435]: Accepted publickey for j.thomas from 10.20.2.112 port 51249 ssh2
+2027-03-12T14:14:23.066000+00:00 web-01 sshd[1784]: Failed password for test from 192.0.2.101 port 38521 ssh2
+2027-03-12T14:15:41.183000+00:00 web-01 sshd[14415]: Disconnected from user p.desai 198.51.100.50 port 51011
+2027-03-12T14:16:51.283000+00:00 web-01 CRON[17739]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T14:17:36.881000+00:00 web-01 CRON[34442]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T14:21:55.965000+00:00 web-01 sshd[37844]: pam_unix(sshd:session): session closed for user d.joshi(uid=1001) by (uid=0)
+2027-03-12T14:25:26.445000+00:00 web-01 CRON[13476]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T14:25:34.279000+00:00 web-01 CRON[30484]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T14:31:33.665000+00:00 web-01 sshd[6898]: Accepted publickey for p.desai from 198.51.100.50 port 50926 ssh2
+2027-03-12T14:33:34.446000+00:00 web-01 sshd[17583]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-12T14:33:42.321000+00:00 web-01 sshd[31719]: Accepted password for h.verma from 10.20.3.210 port 39941 ssh2
+2027-03-12T14:33:52.763000+00:00 web-01 sshd[18839]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-12T14:36:31.734000+00:00 web-01 CRON[13664]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T14:39:32.723000+00:00 web-01 sshd[8554]: Disconnected from user t.singh 10.20.3.241 port 52124
+2027-03-12T14:48:51.185000+00:00 web-01 CRON[22170]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T14:59:24.221000+00:00 web-01 sudo: s.nair : TTY=pts/0 ; PWD=/home/s.nair ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-12T14:59:48.893000+00:00 web-01 sshd[35945]: Failed password for admin from 192.0.2.101 port 58733 ssh2
+2027-03-12T15:00:09.855000+00:00 web-01 CRON[3203]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T15:01:36.883000+00:00 web-01 sshd[14800]: Disconnected from user p.desai 10.20.2.31 port 59957
+2027-03-12T15:05:58.098000+00:00 web-01 CRON[27505]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T15:14:33.026000+00:00 web-01 sshd[3268]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-12T15:21:03.012000+00:00 web-01 CRON[19884]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T15:22:48.816000+00:00 web-01 sshd[39192]: Accepted password for j.thomas from 10.20.4.99 port 40035 ssh2
+2027-03-12T15:26:30.678000+00:00 web-01 sshd[31013]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-12T15:29:39.280000+00:00 web-01 CRON[31227]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T15:37:39.154000+00:00 web-01 sshd[27075]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-12T15:39:47.155000+00:00 web-01 sshd[38187]: Accepted password for t.singh from 10.20.3.157 port 44056 ssh2
+2027-03-12T15:40:17.125000+00:00 web-01 CRON[26215]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T15:42:16.903000+00:00 web-01 CRON[21525]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T15:49:37.717000+00:00 web-01 sshd[2152]: Failed password for ubuntu from 192.0.2.102 port 34009 ssh2
+2027-03-12T15:50:40.788000+00:00 web-01 sshd[28299]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-12T15:53:54.874000+00:00 web-01 sshd[5130]: Accepted password for h.verma from 10.20.2.200 port 56774 ssh2
+2027-03-12T16:01:04.220000+00:00 web-01 sshd[3820]: Accepted publickey for n.reddy from 10.20.2.144 port 32351 ssh2
+2027-03-12T16:06:27.387000+00:00 web-01 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-12T16:10:21.731000+00:00 web-01 CRON[16075]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T16:13:02.527000+00:00 web-01 CRON[4958]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T16:13:28.412000+00:00 web-01 sshd[1245]: Disconnected from user p.desai 198.51.100.50 port 31396
+2027-03-12T16:15:22.181000+00:00 web-01 sshd[36699]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-12T16:19:11.599000+00:00 web-01 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-12T16:20:43.554000+00:00 web-01 sshd[22108]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-12T16:21:38.636000+00:00 web-01 sshd[18374]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-12T16:26:07.145000+00:00 web-01 sshd[6126]: Accepted password for r.mehta from 10.20.3.33 port 33667 ssh2
+2027-03-12T16:31:15.144000+00:00 web-01 sshd[27855]: Failed password for oracle from 192.0.2.102 port 49961 ssh2
+2027-03-12T16:33:58.281000+00:00 web-01 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-12T16:38:00.147000+00:00 web-01 sshd[20686]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-12T16:38:27.090000+00:00 web-01 CRON[5149]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T16:49:41.168000+00:00 web-01 sshd[18112]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-12T16:50:56.805000+00:00 web-01 sshd[15340]: Accepted publickey for k.iyer from 198.51.100.51 port 55915 ssh2
+2027-03-12T16:52:27.033000+00:00 web-01 sshd[27615]: Failed password for admin from 192.0.2.102 port 52182 ssh2
+2027-03-12T16:59:59.294000+00:00 web-01 sshd[25183]: Accepted password for v.patel from 10.20.1.114 port 54836 ssh2
+2027-03-12T17:04:05.672000+00:00 web-01 sshd[25640]: Accepted publickey for r.mehta from 10.20.4.231 port 54285 ssh2
+2027-03-12T17:05:40.346000+00:00 web-01 sshd[9674]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-12T17:12:00.211000+00:00 web-01 sshd[9185]: Failed password for root from 192.0.2.103 port 39449 ssh2
+2027-03-12T17:13:03.335000+00:00 web-01 sshd[24816]: Accepted password for j.thomas from 10.20.1.230 port 31251 ssh2
+2027-03-12T17:13:12.715000+00:00 web-01 sshd[33455]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-12T17:17:45.830000+00:00 web-01 sshd[38378]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-12T17:23:32.305000+00:00 web-01 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-12T17:28:47.595000+00:00 web-01 sshd[37714]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-12T17:28:52.348000+00:00 web-01 sshd[37611]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-12T17:33:22.267000+00:00 web-01 CRON[38378]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T17:33:57.266000+00:00 web-01 sshd[37176]: Accepted publickey for h.verma from 10.20.4.150 port 39293 ssh2
+2027-03-12T17:36:41.347000+00:00 web-01 CRON[33846]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T17:46:10.194000+00:00 web-01 sshd[28893]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-12T18:01:19.827000+00:00 web-01 sshd[17875]: Accepted publickey for k.iyer from 10.20.3.72 port 40637 ssh2
+2027-03-12T18:04:46.521000+00:00 web-01 sshd[18391]: pam_unix(sshd:session): session closed for user s.nair(uid=1001) by (uid=0)
+2027-03-12T18:07:11.544000+00:00 web-01 sshd[24240]: Accepted publickey for p.desai from 10.20.2.109 port 43342 ssh2
+2027-03-12T18:12:37.632000+00:00 web-01 sshd[9257]: Disconnected from user h.verma 10.20.3.140 port 44489
+2027-03-12T18:17:32.250000+00:00 web-01 CRON[15662]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T18:20:03.951000+00:00 web-01 sshd[24792]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-12T18:23:57.916000+00:00 web-01 sshd[35238]: Failed password for root from 192.0.2.102 port 40962 ssh2
+2027-03-12T18:32:20.468000+00:00 web-01 sshd[36766]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-12T18:33:52.992000+00:00 web-01 sshd[10837]: Accepted publickey for a.sharma from 10.20.4.217 port 56953 ssh2
+2027-03-12T18:41:11.681000+00:00 web-01 sshd[33926]: Failed password for admin from 192.0.2.101 port 55705 ssh2
+2027-03-12T18:43:12.400000+00:00 web-01 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-12T18:48:14.261000+00:00 web-01 sshd[2585]: Accepted publickey for p.desai from 198.51.100.50 port 55346 ssh2
+2027-03-12T18:49:03.593000+00:00 web-01 CRON[15437]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-12T18:49:30.672000+00:00 web-01 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-12T18:54:59.381000+00:00 web-01 sshd[39315]: Accepted password for v.patel from 10.20.2.133 port 52585 ssh2
+2027-03-12T18:59:20.261000+00:00 web-01 sshd[12334]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-12T18:59:32.314000+00:00 web-01 sshd[8430]: pam_unix(sshd:session): session closed for user s.nair(uid=1001) by (uid=0)
+2027-03-12T19:07:14.450000+00:00 web-01 sshd[1764]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-12T19:22:19.195000+00:00 web-01 sshd[29249]: pam_unix(sshd:session): session closed for user d.joshi(uid=1001) by (uid=0)
+2027-03-12T19:30:17.319000+00:00 web-01 sshd[27535]: Failed password for test from 192.0.2.103 port 38521 ssh2
+2027-03-12T19:36:15.465000+00:00 web-01 CRON[27995]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T19:43:19.916000+00:00 web-01 CRON[32677]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-12T19:48:55.355000+00:00 web-01 sshd[23852]: Disconnected from user v.patel 10.20.3.35 port 53527
+2027-03-12T20:07:00.590000+00:00 web-01 sshd[29044]: Accepted password for r.mehta from 10.20.4.189 port 31227 ssh2
+2027-03-12T20:22:12.404000+00:00 web-01 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-12T20:37:29.093000+00:00 web-01 sshd[39626]: Failed password for admin from 192.0.2.101 port 31869 ssh2
+2027-03-12T20:50:49.650000+00:00 web-01 sudo: d.joshi : TTY=pts/0 ; PWD=/home/d.joshi ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-12T20:51:15.243000+00:00 web-01 sshd[11902]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-12T21:23:39.299000+00:00 web-01 sshd[7861]: Accepted password for m.khan from 10.20.4.236 port 54811 ssh2
+2027-03-12T21:38:27.033000+00:00 web-01 sshd[37804]: Disconnected from user d.joshi 10.20.4.111 port 41098
+2027-03-12T21:58:09.452000+00:00 web-01 sudo: v.patel : TTY=pts/0 ; PWD=/home/v.patel ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-12T22:10:57.951000+00:00 web-01 sshd[30215]: Failed password for root from 192.0.2.103 port 41432 ssh2
+2027-03-12T22:19:44.677000+00:00 web-01 CRON[30846]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T00:05:35.075000+00:00 web-01 sshd[23940]: Failed password for root from 192.0.2.103 port 42006 ssh2
+2027-03-13T00:18:35.605000+00:00 web-01 sshd[2689]: Failed password for ubuntu from 192.0.2.101 port 58237 ssh2
+2027-03-13T00:35:50.767000+00:00 web-01 sshd[17137]: pam_unix(sshd:session): session closed for user s.nair(uid=1001) by (uid=0)
+2027-03-13T02:01:13.738000+00:00 web-01 sshd[1551]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-13T02:15:35.816000+00:00 web-01 sshd[21134]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-13T03:24:43.890000+00:00 web-01 sshd[8191]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-13T04:27:14.418000+00:00 web-01 sshd[16661]: Accepted password for d.joshi from 10.20.4.183 port 33955 ssh2
+2027-03-13T04:35:21.751000+00:00 web-01 sshd[6056]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-13T06:17:56.028000+00:00 web-01 sshd[29648]: Disconnected from user h.verma 10.20.1.30 port 42335
+2027-03-13T06:21:30.291000+00:00 web-01 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-13T06:32:51.016000+00:00 web-01 sshd[6012]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-13T06:33:27.097000+00:00 web-01 sshd[3468]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-13T06:34:26.624000+00:00 web-01 sshd[17110]: Disconnected from user j.thomas 10.20.3.180 port 59014
+2027-03-13T06:35:17.810000+00:00 web-01 CRON[12621]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T06:43:49.660000+00:00 web-01 CRON[13403]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T07:03:54.457000+00:00 web-01 sshd[22263]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-13T07:10:50.035000+00:00 web-01 sshd[34302]: Accepted password for m.khan from 10.20.2.68 port 54797 ssh2
+2027-03-13T07:15:03.206000+00:00 web-01 sshd[8527]: Disconnected from user j.thomas 10.20.1.246 port 34909
+2027-03-13T07:24:17.842000+00:00 web-01 sshd[21898]: Accepted password for a.sharma from 10.20.4.100 port 43892 ssh2
+2027-03-13T07:25:32.300000+00:00 web-01 sshd[27850]: Accepted password for v.patel from 10.20.1.32 port 36626 ssh2
+2027-03-13T07:31:11.038000+00:00 web-01 sshd[18834]: Accepted password for t.singh from 10.20.2.11 port 39519 ssh2
+2027-03-13T07:46:12.258000+00:00 web-01 sshd[1957]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-13T07:49:17.817000+00:00 web-01 sshd[17542]: Accepted password for n.reddy from 10.20.3.12 port 47110 ssh2
+2027-03-13T07:54:50.555000+00:00 web-01 sshd[18342]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-13T08:09:03.669000+00:00 web-01 sshd[10749]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-13T08:18:29.865000+00:00 web-01 sshd[7414]: Accepted password for s.nair from 10.20.1.116 port 31064 ssh2
+2027-03-13T08:23:59.482000+00:00 web-01 sshd[32398]: Disconnected from user p.desai 198.51.100.50 port 30500
+2027-03-13T08:27:14.940000+00:00 web-01 sshd[18088]: Accepted publickey for p.desai from 10.20.2.241 port 31734 ssh2
+2027-03-13T08:28:30.897000+00:00 web-01 sshd[17615]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-13T08:29:09.862000+00:00 web-01 sshd[21658]: Accepted publickey for n.reddy from 10.20.4.151 port 31295 ssh2
+2027-03-13T08:37:10.961000+00:00 web-01 sshd[34326]: Accepted publickey for a.sharma from 10.20.1.26 port 30845 ssh2
+2027-03-13T08:39:44.367000+00:00 web-01 CRON[21757]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T08:39:47.504000+00:00 web-01 sshd[14377]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-13T08:40:28.713000+00:00 web-01 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-13T08:45:34.479000+00:00 web-01 sshd[37876]: Disconnected from user h.verma 10.20.1.157 port 55843
+2027-03-13T09:08:13.893000+00:00 web-01 sshd[31971]: pam_unix(sshd:session): session closed for user d.joshi(uid=1001) by (uid=0)
+2027-03-13T09:19:06.691000+00:00 web-01 sshd[17311]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-13T09:21:26.014000+00:00 web-01 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-13T09:27:25.338000+00:00 web-01 sshd[29443]: Disconnected from user n.reddy 10.20.1.234 port 43428
+2027-03-13T09:29:25.255000+00:00 web-01 CRON[32068]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T09:31:45.288000+00:00 web-01 CRON[36510]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T09:32:49.698000+00:00 web-01 sshd[14954]: Accepted publickey for s.nair from 10.20.1.11 port 56633 ssh2
+2027-03-13T09:37:20.128000+00:00 web-01 sshd[1040]: Accepted password for a.sharma from 10.20.2.193 port 38558 ssh2
+2027-03-13T09:40:15.768000+00:00 web-01 sshd[33585]: Accepted publickey for j.thomas from 10.20.1.181 port 48931 ssh2
+2027-03-13T09:43:25.098000+00:00 web-01 sshd[32316]: Disconnected from user t.singh 10.20.2.110 port 31793
+2027-03-13T09:43:44.490000+00:00 web-01 sshd[23426]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-13T09:51:24.222000+00:00 web-01 sshd[39466]: Accepted publickey for v.patel from 10.20.2.139 port 59063 ssh2
+2027-03-13T09:51:44.857000+00:00 web-01 sshd[1262]: Failed password for test from 192.0.2.102 port 30028 ssh2
+2027-03-13T09:53:04.400000+00:00 web-01 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-13T09:55:12.533000+00:00 web-01 sshd[38101]: Accepted publickey for s.nair from 10.20.1.211 port 37029 ssh2
+2027-03-13T10:00:41.205000+00:00 web-01 sshd[5430]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-13T10:06:00.791000+00:00 web-01 sshd[28713]: Accepted password for r.mehta from 10.20.2.32 port 47535 ssh2
+2027-03-13T10:06:11.312000+00:00 web-01 sshd[1142]: Failed password for ubuntu from 192.0.2.103 port 44647 ssh2
+2027-03-13T10:10:19.235000+00:00 web-01 sshd[34293]: Accepted password for p.desai from 10.20.4.224 port 57260 ssh2
+2027-03-13T10:21:33.593000+00:00 web-01 sshd[23362]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-13T10:22:30.814000+00:00 web-01 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-13T10:22:32.182000+00:00 web-01 sshd[18631]: Accepted password for p.desai from 10.20.4.125 port 33680 ssh2
+2027-03-13T10:25:59.639000+00:00 web-01 sshd[37396]: Disconnected from user r.mehta 10.20.4.34 port 34941
+2027-03-13T10:26:34.871000+00:00 web-01 sshd[18812]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-13T10:28:07.740000+00:00 web-01 sshd[16365]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-13T10:31:55.314000+00:00 web-01 sshd[22150]: Failed password for test from 192.0.2.102 port 32741 ssh2
+2027-03-13T10:32:27.329000+00:00 web-01 CRON[9270]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T10:34:08.975000+00:00 web-01 sshd[29169]: Accepted publickey for h.verma from 10.20.3.52 port 49481 ssh2
+2027-03-13T10:35:10.662000+00:00 web-01 sshd[35663]: Accepted publickey for v.patel from 10.20.1.195 port 41855 ssh2
+2027-03-13T10:38:08.965000+00:00 web-01 sshd[7831]: Disconnected from user d.joshi 10.20.2.47 port 50839
+2027-03-13T10:47:56.103000+00:00 web-01 sshd[10094]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-13T10:51:17.719000+00:00 web-01 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-13T10:51:45.138000+00:00 web-01 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-13T10:52:07.920000+00:00 web-01 sshd[33078]: Failed password for test from 192.0.2.101 port 47063 ssh2
+2027-03-13T11:00:44.657000+00:00 web-01 CRON[32405]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T11:02:59.342000+00:00 web-01 sshd[35596]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-13T11:09:26.699000+00:00 web-01 sshd[29556]: Disconnected from user t.singh 10.20.3.164 port 59628
+2027-03-13T11:13:33.656000+00:00 web-01 sshd[8285]: Accepted password for t.singh from 10.20.4.15 port 33644 ssh2
+2027-03-13T11:16:31.627000+00:00 web-01 sshd[27791]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-13T11:21:01.736000+00:00 web-01 CRON[28659]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T11:23:47.492000+00:00 web-01 sshd[34484]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-13T11:24:44.910000+00:00 web-01 sshd[3276]: Accepted publickey for t.singh from 10.20.4.202 port 50554 ssh2
+2027-03-13T11:25:27.926000+00:00 web-01 CRON[3476]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T11:27:18.087000+00:00 web-01 sshd[29637]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-13T11:28:51.431000+00:00 web-01 CRON[10518]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T11:31:03.467000+00:00 web-01 sshd[22858]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-13T11:35:14.082000+00:00 web-01 sshd[36028]: Disconnected from user k.iyer 198.51.100.51 port 53249
+2027-03-13T11:37:14.865000+00:00 web-01 sshd[22084]: Disconnected from user d.joshi 10.20.2.144 port 46932
+2027-03-13T11:46:01.623000+00:00 web-01 sshd[3791]: Failed password for oracle from 192.0.2.102 port 33190 ssh2
+2027-03-13T11:51:02.233000+00:00 web-01 sshd[34621]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-13T12:03:44.314000+00:00 web-01 sshd[28733]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-13T12:08:46.004000+00:00 web-01 sshd[2514]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-13T12:10:52.116000+00:00 web-01 sshd[3469]: Accepted publickey for t.singh from 10.20.2.49 port 50021 ssh2
+2027-03-13T12:12:43.308000+00:00 web-01 sshd[32098]: Accepted publickey for r.mehta from 10.20.1.249 port 49565 ssh2
+2027-03-13T12:18:38.886000+00:00 web-01 sshd[4419]: Disconnected from user m.khan 10.20.4.36 port 51502
+2027-03-13T12:21:35.090000+00:00 web-01 sshd[23776]: Accepted password for r.mehta from 10.20.2.63 port 57613 ssh2
+2027-03-13T12:26:21.703000+00:00 web-01 sshd[35106]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-13T12:26:37.616000+00:00 web-01 sshd[10125]: Accepted publickey for s.nair from 10.20.1.16 port 32543 ssh2
+2027-03-13T12:29:42.335000+00:00 web-01 CRON[29820]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T12:32:44.980000+00:00 web-01 sshd[15016]: Failed password for root from 192.0.2.102 port 58889 ssh2
+2027-03-13T12:35:13.330000+00:00 web-01 sshd[34930]: Accepted publickey for r.mehta from 10.20.4.87 port 32547 ssh2
+2027-03-13T12:37:27.415000+00:00 web-01 CRON[13231]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T12:44:35.637000+00:00 web-01 sshd[38034]: Accepted publickey for d.joshi from 10.20.4.18 port 32326 ssh2
+2027-03-13T12:47:47.527000+00:00 web-01 sshd[15024]: Disconnected from user m.khan 10.20.2.17 port 33768
+2027-03-13T12:50:02.534000+00:00 web-01 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-13T12:52:21.160000+00:00 web-01 CRON[24223]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T12:53:36.311000+00:00 web-01 CRON[31594]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T12:53:54.915000+00:00 web-01 sshd[17965]: Accepted publickey for a.sharma from 10.20.3.185 port 55693 ssh2
+2027-03-13T13:04:00.530000+00:00 web-01 sshd[25662]: Accepted publickey for d.joshi from 10.20.3.174 port 38111 ssh2
+2027-03-13T13:10:25.766000+00:00 web-01 sshd[35208]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-13T13:10:35.238000+00:00 web-01 sshd[34051]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-13T13:14:17.433000+00:00 web-01 sudo: d.joshi : TTY=pts/0 ; PWD=/home/d.joshi ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-13T13:15:20.525000+00:00 web-01 sshd[2182]: Accepted password for d.joshi from 10.20.4.30 port 56318 ssh2
+2027-03-13T13:15:21.198000+00:00 web-01 sshd[26983]: Disconnected from user n.reddy 10.20.4.207 port 40639
+2027-03-13T13:37:39.093000+00:00 web-01 sshd[3786]: Accepted password for j.thomas from 10.20.3.170 port 32589 ssh2
+2027-03-13T13:39:47.652000+00:00 web-01 sshd[23628]: Accepted password for m.khan from 10.20.3.28 port 40010 ssh2
+2027-03-13T13:49:20.021000+00:00 web-01 sshd[13042]: Failed password for ubuntu from 192.0.2.102 port 37608 ssh2
+2027-03-13T13:49:55.759000+00:00 web-01 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-13T13:52:53.661000+00:00 web-01 sshd[27561]: Failed password for admin from 192.0.2.103 port 58799 ssh2
+2027-03-13T13:53:14.061000+00:00 web-01 CRON[27483]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T13:58:30.365000+00:00 web-01 CRON[25613]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T14:04:46.669000+00:00 web-01 CRON[24902]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T14:05:18.553000+00:00 web-01 sshd[36778]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-13T14:07:12.109000+00:00 web-01 sshd[26105]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-13T14:16:26.166000+00:00 web-01 sshd[31305]: Accepted password for n.reddy from 10.20.4.121 port 57411 ssh2
+2027-03-13T14:25:05.632000+00:00 web-01 sshd[17563]: Accepted password for p.desai from 10.20.3.229 port 46533 ssh2
+2027-03-13T14:25:43.224000+00:00 web-01 CRON[25152]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T14:29:25.349000+00:00 web-01 sshd[13160]: Accepted publickey for n.reddy from 10.20.1.44 port 52679 ssh2
+2027-03-13T14:31:54.934000+00:00 web-01 sshd[11501]: Failed password for oracle from 192.0.2.101 port 30209 ssh2
+2027-03-13T14:39:04.437000+00:00 web-01 CRON[37303]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T14:47:44.430000+00:00 web-01 sshd[11795]: Accepted publickey for k.iyer from 198.51.100.51 port 58110 ssh2
+2027-03-13T14:50:00.952000+00:00 web-01 sshd[39336]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-13T14:59:57.402000+00:00 web-01 CRON[25174]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T15:00:07.137000+00:00 web-01 sshd[27000]: Disconnected from user r.mehta 10.20.4.83 port 41808
+2027-03-13T15:03:19.083000+00:00 web-01 sshd[10427]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-13T15:03:46.862000+00:00 web-01 sshd[28276]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-13T15:05:15.092000+00:00 web-01 sshd[20421]: Disconnected from user a.sharma 10.20.3.218 port 33946
+2027-03-13T15:07:44.442000+00:00 web-01 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-13T15:07:46.731000+00:00 web-01 sshd[38435]: Accepted publickey for j.thomas from 10.20.3.43 port 43067 ssh2
+2027-03-13T15:08:47.296000+00:00 web-01 sshd[15709]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-13T15:08:57.637000+00:00 web-01 sshd[24292]: pam_unix(sshd:session): session closed for user p.desai(uid=1001) by (uid=0)
+2027-03-13T15:09:08.592000+00:00 web-01 sshd[16704]: pam_unix(sshd:session): session closed for user n.reddy(uid=1001) by (uid=0)
+2027-03-13T15:10:59.823000+00:00 web-01 CRON[11333]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T15:16:08.605000+00:00 web-01 sshd[14407]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-13T15:19:25.325000+00:00 web-01 sshd[30237]: Accepted publickey for p.desai from 198.51.100.50 port 31140 ssh2
+2027-03-13T15:20:25.031000+00:00 web-01 sshd[32324]: Failed password for oracle from 192.0.2.101 port 39067 ssh2
+2027-03-13T15:20:44.801000+00:00 web-01 CRON[28102]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T15:20:50.982000+00:00 web-01 sshd[18927]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-13T15:22:03.040000+00:00 web-01 sudo: k.iyer : TTY=pts/0 ; PWD=/home/k.iyer ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-13T15:27:13.387000+00:00 web-01 CRON[20039]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T15:30:21.997000+00:00 web-01 sshd[1655]: Failed password for oracle from 192.0.2.101 port 44586 ssh2
+2027-03-13T15:30:54.430000+00:00 web-01 sshd[18438]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-13T15:31:31.859000+00:00 web-01 sshd[38327]: pam_unix(sshd:session): session closed for user s.nair(uid=1001) by (uid=0)
+2027-03-13T15:34:19.364000+00:00 web-01 sshd[3018]: Disconnected from user p.desai 10.20.3.235 port 50467
+2027-03-13T15:35:11.442000+00:00 web-01 sshd[19652]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-13T15:35:57.418000+00:00 web-01 sshd[28320]: Failed password for admin from 192.0.2.101 port 42543 ssh2
+2027-03-13T15:49:28.364000+00:00 web-01 sshd[18228]: Failed password for ubuntu from 192.0.2.101 port 36921 ssh2
+2027-03-13T15:56:42.119000+00:00 web-01 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-13T16:03:54.244000+00:00 web-01 sshd[3042]: Accepted publickey for t.singh from 10.20.1.126 port 31324 ssh2
+2027-03-13T16:15:02.562000+00:00 web-01 sshd[25337]: Accepted publickey for m.khan from 10.20.2.32 port 35575 ssh2
+2027-03-13T16:16:51.896000+00:00 web-01 CRON[20668]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T16:21:28.682000+00:00 web-01 sshd[13100]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-13T16:25:11.248000+00:00 web-01 CRON[32341]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T16:25:32.727000+00:00 web-01 sshd[7185]: Failed password for admin from 192.0.2.102 port 43986 ssh2
+2027-03-13T16:39:04.004000+00:00 web-01 sshd[11818]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-13T16:43:50.576000+00:00 web-01 sshd[30705]: Failed password for root from 192.0.2.102 port 37714 ssh2
+2027-03-13T16:46:14.092000+00:00 web-01 sshd[30631]: Failed password for ubuntu from 192.0.2.101 port 55332 ssh2
+2027-03-13T16:49:05.002000+00:00 web-01 CRON[12169]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-13T17:03:54.502000+00:00 web-01 sshd[29708]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-13T17:16:14.773000+00:00 web-01 CRON[4569]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T17:19:59.836000+00:00 web-01 sudo: t.singh : TTY=pts/0 ; PWD=/home/t.singh ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-13T17:24:43.969000+00:00 web-01 sshd[23456]: Accepted password for j.thomas from 10.20.1.249 port 41223 ssh2
+2027-03-13T17:28:56.291000+00:00 web-01 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-13T17:45:26.594000+00:00 web-01 sshd[4142]: Failed password for root from 192.0.2.102 port 59050 ssh2
+2027-03-13T17:45:59.093000+00:00 web-01 sshd[1984]: Accepted password for j.thomas from 10.20.2.71 port 58270 ssh2
+2027-03-13T17:54:26.919000+00:00 web-01 sshd[17313]: Accepted publickey for k.iyer from 10.20.1.123 port 58778 ssh2
+2027-03-13T17:55:31.669000+00:00 web-01 CRON[6678]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T18:07:03.647000+00:00 web-01 sudo: s.nair : TTY=pts/0 ; PWD=/home/s.nair ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-13T18:20:32.845000+00:00 web-01 sudo: s.nair : TTY=pts/0 ; PWD=/home/s.nair ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-13T18:36:11.750000+00:00 web-01 sshd[8861]: pam_unix(sshd:session): session closed for user p.desai(uid=1001) by (uid=0)
+2027-03-13T18:52:06.209000+00:00 web-01 sshd[10857]: Accepted publickey for j.thomas from 10.20.4.74 port 53163 ssh2
+2027-03-13T19:11:42.211000+00:00 web-01 sshd[14719]: Accepted publickey for h.verma from 10.20.3.74 port 44610 ssh2
+2027-03-13T19:24:39.871000+00:00 web-01 sshd[20059]: Accepted password for r.mehta from 10.20.4.239 port 58751 ssh2
+2027-03-13T19:26:18.272000+00:00 web-01 sshd[10884]: Accepted password for a.sharma from 10.20.3.69 port 31044 ssh2
+2027-03-13T19:34:18.463000+00:00 web-01 CRON[4183]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T19:35:35.069000+00:00 web-01 sshd[38168]: Disconnected from user n.reddy 10.20.1.34 port 50811
+2027-03-13T19:41:50.468000+00:00 web-01 sshd[8795]: Accepted publickey for a.sharma from 10.20.2.206 port 41361 ssh2
+2027-03-13T19:50:35.046000+00:00 web-01 sshd[32792]: pam_unix(sshd:session): session opened for user s.nair(uid=1001) by (uid=0)
+2027-03-13T20:18:34.511000+00:00 web-01 sshd[27794]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-13T20:27:00.612000+00:00 web-01 sshd[16006]: Accepted password for d.joshi from 10.20.1.116 port 52965 ssh2
+2027-03-13T20:31:00.852000+00:00 web-01 sshd[4027]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-13T20:46:43.602000+00:00 web-01 sshd[37580]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-13T21:13:07.894000+00:00 web-01 sshd[15214]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-13T21:39:08.228000+00:00 web-01 sshd[32894]: Accepted password for k.iyer from 10.20.4.162 port 48362 ssh2
+2027-03-13T22:02:47.260000+00:00 web-01 CRON[38359]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-13T23:38:17.170000+00:00 web-01 sshd[15396]: Disconnected from user k.iyer 198.51.100.51 port 51445
+2027-03-14T00:08:03.874000+00:00 web-01 sshd[26610]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-14T00:12:19.179000+00:00 web-01 sshd[24879]: Accepted publickey for p.desai from 10.20.3.139 port 44457 ssh2
+2027-03-14T00:33:11.275000+00:00 web-01 sshd[17753]: Accepted password for d.joshi from 10.20.1.193 port 34923 ssh2
+2027-03-14T00:47:42.023000+00:00 web-01 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-14T00:48:25.014000+00:00 web-01 CRON[15512]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T01:03:16.906000+00:00 web-01 CRON[29896]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T01:38:53.834000+00:00 web-01 sshd[20593]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-14T02:24:35.809000+00:00 web-01 sshd[14841]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-14T02:24:56.480000+00:00 web-01 sshd[33996]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-14T03:37:36.825000+00:00 web-01 CRON[27966]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T04:10:52.115000+00:00 web-01 sshd[16107]: Failed password for test from 192.0.2.101 port 37028 ssh2
+2027-03-14T04:26:10.089000+00:00 web-01 sshd[20945]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-14T04:35:43.857000+00:00 web-01 CRON[28620]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T05:03:02.908000+00:00 web-01 sshd[34232]: Accepted password for v.patel from 10.20.3.191 port 44001 ssh2
+2027-03-14T06:19:09.501000+00:00 web-01 sshd[11307]: Accepted password for t.singh from 10.20.3.242 port 36954 ssh2
+2027-03-14T06:21:42.583000+00:00 web-01 sshd[22254]: pam_unix(sshd:session): session closed for user d.joshi(uid=1001) by (uid=0)
+2027-03-14T06:41:22.485000+00:00 web-01 sshd[21834]: Accepted password for d.joshi from 10.20.4.41 port 41212 ssh2
+2027-03-14T06:50:29.643000+00:00 web-01 sshd[4092]: Failed password for test from 192.0.2.101 port 33841 ssh2
+2027-03-14T07:05:06.381000+00:00 web-01 sshd[23194]: Failed password for admin from 192.0.2.103 port 34692 ssh2
+2027-03-14T07:20:46.112000+00:00 web-01 sshd[23185]: Accepted password for d.joshi from 10.20.1.64 port 38038 ssh2
+2027-03-14T07:22:54.099000+00:00 web-01 sshd[27521]: Accepted publickey for s.nair from 10.20.4.219 port 38855 ssh2
+2027-03-14T07:24:25.005000+00:00 web-01 sshd[28531]: Accepted password for a.sharma from 10.20.1.151 port 43504 ssh2
+2027-03-14T07:24:30.806000+00:00 web-01 sshd[39099]: pam_unix(sshd:session): session closed for user a.sharma(uid=1001) by (uid=0)
+2027-03-14T07:25:32.857000+00:00 web-01 sshd[19087]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-14T07:31:28.475000+00:00 web-01 CRON[19333]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T07:38:53.075000+00:00 web-01 CRON[11581]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T07:47:09.067000+00:00 web-01 sshd[30732]: Accepted password for m.khan from 10.20.3.185 port 51829 ssh2
+2027-03-14T07:50:02.541000+00:00 web-01 CRON[12972]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T07:50:29.467000+00:00 web-01 sshd[6338]: Accepted publickey for v.patel from 10.20.3.245 port 50457 ssh2
+2027-03-14T07:51:29.161000+00:00 web-01 CRON[37410]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T07:58:15.104000+00:00 web-01 sshd[32335]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-14T08:00:21.828000+00:00 web-01 sshd[8523]: Disconnected from user p.desai 198.51.100.50 port 46738
+2027-03-14T08:09:11.154000+00:00 web-01 sshd[30232]: Accepted publickey for n.reddy from 10.20.1.244 port 49678 ssh2
+2027-03-14T08:14:53.494000+00:00 web-01 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-14T08:16:44.500000+00:00 web-01 CRON[33175]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T08:17:03.255000+00:00 web-01 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-14T08:17:07.781000+00:00 web-01 CRON[38925]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T08:22:41.250000+00:00 web-01 CRON[11081]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T08:22:53.992000+00:00 web-01 sshd[39331]: Failed password for oracle from 192.0.2.103 port 58186 ssh2
+2027-03-14T08:22:59.067000+00:00 web-01 sshd[37499]: Accepted password for v.patel from 10.20.1.247 port 35696 ssh2
+2027-03-14T08:34:18.003000+00:00 web-01 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-14T08:37:30.181000+00:00 web-01 sshd[31058]: Disconnected from user t.singh 10.20.4.24 port 41516
+2027-03-14T08:44:20.922000+00:00 web-01 sshd[30211]: Accepted publickey for t.singh from 10.20.3.20 port 44729 ssh2
+2027-03-14T08:46:18.225000+00:00 web-01 CRON[21178]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T08:53:16.505000+00:00 web-01 CRON[5926]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T08:54:00.168000+00:00 web-01 sshd[33110]: Failed password for test from 192.0.2.103 port 34633 ssh2
+2027-03-14T09:00:11.497000+00:00 web-01 CRON[14741]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T09:05:12.428000+00:00 web-01 sshd[16202]: Disconnected from user m.khan 10.20.2.59 port 58880
+2027-03-14T09:09:36.164000+00:00 web-01 sshd[5095]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-14T09:16:32.270000+00:00 web-01 sshd[30045]: Failed password for root from 192.0.2.101 port 40994 ssh2
+2027-03-14T09:16:34.087000+00:00 web-01 sshd[18488]: Failed password for test from 192.0.2.102 port 53986 ssh2
+2027-03-14T09:16:53.854000+00:00 web-01 sshd[37948]: Disconnected from user p.desai 10.20.4.38 port 33763
+2027-03-14T09:17:00.409000+00:00 web-01 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-14T09:18:34.827000+00:00 web-01 sshd[29788]: Accepted password for h.verma from 10.20.3.68 port 40857 ssh2
+2027-03-14T09:19:02.780000+00:00 web-01 sshd[27962]: Disconnected from user v.patel 10.20.3.233 port 55897
+2027-03-14T09:23:17.920000+00:00 web-01 sshd[19452]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-14T09:23:47.441000+00:00 web-01 sshd[22996]: Failed password for ubuntu from 192.0.2.103 port 56675 ssh2
+2027-03-14T09:25:01.039000+00:00 web-01 sshd[23462]: Accepted password for t.singh from 10.20.3.41 port 37156 ssh2
+2027-03-14T09:34:25.952000+00:00 web-01 sshd[23725]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-14T09:35:08.848000+00:00 web-01 sshd[9441]: Accepted publickey for j.thomas from 10.20.3.180 port 53405 ssh2
+2027-03-14T09:39:53.499000+00:00 web-01 sshd[9256]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-14T09:40:50.351000+00:00 web-01 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-14T09:41:25.263000+00:00 web-01 CRON[16795]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T09:49:02.358000+00:00 web-01 sshd[36834]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-14T09:53:31.914000+00:00 web-01 sshd[6270]: Accepted publickey for j.thomas from 10.20.1.96 port 30637 ssh2
+2027-03-14T09:53:40.383000+00:00 web-01 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-14T09:56:45.126000+00:00 web-01 sshd[16264]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-14T09:58:53.405000+00:00 web-01 sshd[25311]: Accepted password for k.iyer from 198.51.100.51 port 53706 ssh2
+2027-03-14T10:00:02.373000+00:00 web-01 sshd[29050]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-14T10:00:22.435000+00:00 web-01 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-14T10:05:22.810000+00:00 web-01 CRON[2212]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T10:07:54.218000+00:00 web-01 sshd[38732]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-14T10:14:17.588000+00:00 web-01 sshd[2748]: pam_unix(sshd:session): session closed for user h.verma(uid=1001) by (uid=0)
+2027-03-14T10:19:11.503000+00:00 web-01 sudo: s.nair : TTY=pts/0 ; PWD=/home/s.nair ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-14T10:24:35.551000+00:00 web-01 sshd[24539]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-14T10:25:51.260000+00:00 web-01 sshd[34165]: Accepted publickey for r.mehta from 10.20.2.97 port 53499 ssh2
+2027-03-14T10:29:56.007000+00:00 web-01 sshd[9177]: Disconnected from user p.desai 198.51.100.50 port 40706
+2027-03-14T10:33:41.612000+00:00 web-01 sshd[34826]: Accepted password for p.desai from 10.20.4.102 port 59929 ssh2
+2027-03-14T10:41:47.495000+00:00 web-01 sshd[5538]: Accepted password for j.thomas from 10.20.4.184 port 49493 ssh2
+2027-03-14T10:44:22.258000+00:00 web-01 sshd[14576]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-14T10:50:11.395000+00:00 web-01 sshd[36688]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-14T10:52:39.175000+00:00 web-01 sudo: s.nair : TTY=pts/0 ; PWD=/home/s.nair ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-14T10:52:39.872000+00:00 web-01 sudo: h.verma : TTY=pts/0 ; PWD=/home/h.verma ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-14T10:54:58.750000+00:00 web-01 sshd[10235]: pam_unix(sshd:session): session opened for user r.mehta(uid=1001) by (uid=0)
+2027-03-14T10:59:29.394000+00:00 web-01 CRON[22083]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T11:08:34.862000+00:00 web-01 sshd[11839]: pam_unix(sshd:session): session closed for user d.joshi(uid=1001) by (uid=0)
+2027-03-14T11:13:59.714000+00:00 web-01 sshd[9735]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-14T11:14:18.095000+00:00 web-01 sshd[11901]: pam_unix(sshd:session): session opened for user a.sharma(uid=1001) by (uid=0)
+2027-03-14T11:19:24.934000+00:00 web-01 sshd[14465]: Accepted publickey for p.desai from 198.51.100.50 port 41389 ssh2
+2027-03-14T11:20:02.051000+00:00 web-01 sshd[30132]: Failed password for admin from 192.0.2.101 port 45391 ssh2
+2027-03-14T11:27:11.488000+00:00 web-01 CRON[29635]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T11:28:43.078000+00:00 web-01 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-14T11:34:08.499000+00:00 web-01 sshd[10947]: Accepted publickey for a.sharma from 10.20.4.221 port 40517 ssh2
+2027-03-14T11:34:33.212000+00:00 web-01 CRON[9648]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T11:34:49.603000+00:00 web-01 CRON[23568]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T11:38:02.733000+00:00 web-01 sshd[16675]: pam_unix(sshd:session): session opened for user n.reddy(uid=1001) by (uid=0)
+2027-03-14T11:38:38.604000+00:00 web-01 sshd[36846]: pam_unix(sshd:session): session closed for user v.patel(uid=1001) by (uid=0)
+2027-03-14T11:41:42.499000+00:00 web-01 sshd[13327]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-14T11:44:41.394000+00:00 web-01 sshd[19752]: Failed password for oracle from 192.0.2.101 port 55003 ssh2
+2027-03-14T11:45:27.693000+00:00 web-01 CRON[27919]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T11:45:29.026000+00:00 web-01 sshd[23487]: Accepted password for t.singh from 10.20.1.214 port 37193 ssh2
+2027-03-14T11:51:25.170000+00:00 web-01 CRON[14369]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T11:57:43.832000+00:00 web-01 sudo: n.reddy : TTY=pts/0 ; PWD=/home/n.reddy ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-14T11:58:17.815000+00:00 web-01 CRON[9425]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T11:58:38.890000+00:00 web-01 sshd[1852]: Failed password for root from 192.0.2.102 port 39199 ssh2
+2027-03-14T12:11:41.275000+00:00 web-01 sshd[3639]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-14T12:12:02.770000+00:00 web-01 sshd[11189]: Failed password for test from 192.0.2.101 port 57840 ssh2
+2027-03-14T12:14:19.263000+00:00 web-01 sshd[27168]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-14T12:14:35.676000+00:00 web-01 sshd[8200]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-14T12:18:01.781000+00:00 web-01 sshd[36761]: Failed password for root from 192.0.2.103 port 47750 ssh2
+2027-03-14T12:26:03.483000+00:00 web-01 sshd[4553]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-14T12:26:50.673000+00:00 web-01 sshd[5448]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-14T12:28:23.039000+00:00 web-01 sshd[24797]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-14T12:32:45.845000+00:00 web-01 CRON[6222]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T12:54:01.062000+00:00 web-01 sshd[35902]: Failed password for ubuntu from 192.0.2.101 port 46512 ssh2
+2027-03-14T12:55:00.646000+00:00 web-01 sshd[19091]: Disconnected from user m.khan 10.20.4.200 port 40508
+2027-03-14T13:02:28.539000+00:00 web-01 CRON[11773]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T13:04:19.162000+00:00 web-01 CRON[16044]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T13:09:08.159000+00:00 web-01 sshd[9527]: pam_unix(sshd:session): session closed for user m.khan(uid=1001) by (uid=0)
+2027-03-14T13:19:05.187000+00:00 web-01 CRON[5429]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T13:20:20.499000+00:00 web-01 sshd[37630]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-14T13:22:03.519000+00:00 web-01 sudo: d.joshi : TTY=pts/0 ; PWD=/home/d.joshi ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-14T13:22:58.603000+00:00 web-01 sshd[27335]: Accepted publickey for a.sharma from 10.20.3.71 port 54320 ssh2
+2027-03-14T13:29:53.310000+00:00 web-01 sshd[39552]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-14T13:39:11.853000+00:00 web-01 sshd[8745]: Failed password for ubuntu from 192.0.2.102 port 52108 ssh2
+2027-03-14T13:40:10.360000+00:00 web-01 sudo: d.joshi : TTY=pts/0 ; PWD=/home/d.joshi ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-14T13:49:38.407000+00:00 web-01 sshd[3068]: Accepted publickey for v.patel from 10.20.1.194 port 52668 ssh2
+2027-03-14T13:50:50.793000+00:00 web-01 CRON[18885]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T13:55:34.494000+00:00 web-01 CRON[22611]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T13:57:09.592000+00:00 web-01 sshd[14648]: Disconnected from user t.singh 10.20.4.202 port 45122
+2027-03-14T14:06:05.676000+00:00 web-01 sshd[22897]: Failed password for root from 192.0.2.101 port 47369 ssh2
+2027-03-14T14:06:43.980000+00:00 web-01 sshd[2179]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-14T14:12:12.720000+00:00 web-01 sshd[24311]: Failed password for admin from 192.0.2.101 port 45992 ssh2
+2027-03-14T14:12:51.370000+00:00 web-01 sshd[25888]: pam_unix(sshd:session): session closed for user d.joshi(uid=1001) by (uid=0)
+2027-03-14T14:18:04.333000+00:00 web-01 sshd[1843]: pam_unix(sshd:session): session opened for user m.khan(uid=1001) by (uid=0)
+2027-03-14T14:20:34.951000+00:00 web-01 sshd[12346]: Failed password for test from 192.0.2.102 port 53352 ssh2
+2027-03-14T14:21:11.501000+00:00 web-01 CRON[29534]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T14:30:22.796000+00:00 web-01 sshd[37762]: pam_unix(sshd:session): session opened for user p.desai(uid=1001) by (uid=0)
+2027-03-14T14:35:21.572000+00:00 web-01 sshd[27630]: Disconnected from user v.patel 10.20.3.92 port 48576
+2027-03-14T14:39:11.492000+00:00 web-01 sshd[34868]: Accepted password for m.khan from 10.20.3.58 port 42742 ssh2
+2027-03-14T14:44:38.610000+00:00 web-01 CRON[1272]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T14:47:14.444000+00:00 web-01 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-14T14:52:11.811000+00:00 web-01 CRON[33679]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T14:53:00.662000+00:00 web-01 CRON[1347]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T14:55:22.104000+00:00 web-01 sshd[27345]: Disconnected from user s.nair 10.20.4.23 port 39860
+2027-03-14T14:59:38.486000+00:00 web-01 sshd[9167]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-14T15:10:14.811000+00:00 web-01 sudo: v.patel : TTY=pts/0 ; PWD=/home/v.patel ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-14T15:20:40.072000+00:00 web-01 sudo: a.sharma : TTY=pts/0 ; PWD=/home/a.sharma ; USER=root ; COMMAND=/usr/bin/apt update
+2027-03-14T15:21:31.289000+00:00 web-01 sshd[32627]: Disconnected from user j.thomas 10.20.1.157 port 39737
+2027-03-14T15:24:04.323000+00:00 web-01 sshd[18740]: pam_unix(sshd:session): session closed for user s.nair(uid=1001) by (uid=0)
+2027-03-14T15:26:40.077000+00:00 web-01 sshd[30849]: pam_unix(sshd:session): session opened for user k.iyer(uid=1001) by (uid=0)
+2027-03-14T15:26:48.684000+00:00 web-01 CRON[20119]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T15:27:15.555000+00:00 web-01 sshd[5244]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-14T15:31:35.379000+00:00 web-01 sshd[15526]: Accepted publickey for a.sharma from 10.20.4.91 port 59917 ssh2
+2027-03-14T15:32:08.399000+00:00 web-01 CRON[3639]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T15:32:22.555000+00:00 web-01 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-14T15:43:00.723000+00:00 web-01 sshd[30422]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-14T15:47:39.514000+00:00 web-01 CRON[13791]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T15:47:45.459000+00:00 web-01 sshd[6573]: pam_unix(sshd:session): session closed for user d.joshi(uid=1001) by (uid=0)
+2027-03-14T15:50:19.371000+00:00 web-01 sshd[15316]: Disconnected from user p.desai 198.51.100.50 port 44916
+2027-03-14T15:51:33.116000+00:00 web-01 sshd[8885]: Failed password for ubuntu from 192.0.2.101 port 39309 ssh2
+2027-03-14T15:51:47.165000+00:00 web-01 sshd[12674]: Disconnected from user v.patel 10.20.2.222 port 50830
+2027-03-14T15:57:30.913000+00:00 web-01 sshd[16147]: Failed password for root from 192.0.2.103 port 55457 ssh2
+2027-03-14T16:05:23.516000+00:00 web-01 sshd[8622]: pam_unix(sshd:session): session closed for user p.desai(uid=1001) by (uid=0)
+2027-03-14T16:06:50.904000+00:00 web-01 sshd[4646]: Accepted password for h.verma from 10.20.3.81 port 34429 ssh2
+2027-03-14T16:13:52.220000+00:00 web-01 sshd[32340]: Accepted password for t.singh from 10.20.2.96 port 48642 ssh2
+2027-03-14T16:14:05.169000+00:00 web-01 sshd[17880]: Disconnected from user j.thomas 10.20.1.237 port 33915
+2027-03-14T16:16:32.083000+00:00 web-01 sshd[25872]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-14T16:16:44.651000+00:00 web-01 sshd[3704]: pam_unix(sshd:session): session opened for user h.verma(uid=1001) by (uid=0)
+2027-03-14T16:17:31.092000+00:00 web-01 CRON[30396]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T16:25:13.556000+00:00 web-01 CRON[12489]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T16:31:28.817000+00:00 web-01 CRON[8831]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T16:31:48.654000+00:00 web-01 sshd[10253]: pam_unix(sshd:session): session opened for user v.patel(uid=1001) by (uid=0)
+2027-03-14T16:34:19.819000+00:00 web-01 CRON[3017]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T16:34:50.046000+00:00 web-01 sshd[9385]: pam_unix(sshd:session): session opened for user d.joshi(uid=1001) by (uid=0)
+2027-03-14T16:38:21.583000+00:00 web-01 CRON[32354]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T16:38:23.614000+00:00 web-01 sshd[12009]: Accepted publickey for r.mehta from 10.20.1.239 port 42461 ssh2
+2027-03-14T16:38:34.949000+00:00 web-01 sudo: j.thomas : TTY=pts/0 ; PWD=/home/j.thomas ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/syslog
+2027-03-14T16:39:06.135000+00:00 web-01 CRON[4437]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T16:39:54.967000+00:00 web-01 sshd[23174]: Disconnected from user v.patel 10.20.3.218 port 43592
+2027-03-14T16:55:26.984000+00:00 web-01 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-14T17:04:59.009000+00:00 web-01 sshd[22969]: Failed password for oracle from 192.0.2.102 port 35639 ssh2
+2027-03-14T17:07:05.710000+00:00 web-01 sshd[10482]: Accepted password for m.khan from 10.20.3.205 port 32484 ssh2
+2027-03-14T17:25:00.880000+00:00 web-01 CRON[35031]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T17:27:39.560000+00:00 web-01 sshd[28106]: Disconnected from user j.thomas 10.20.4.187 port 58153
+2027-03-14T17:31:50.046000+00:00 web-01 sshd[16619]: pam_unix(sshd:session): session closed for user j.thomas(uid=1001) by (uid=0)
+2027-03-14T17:33:53.217000+00:00 web-01 sshd[32514]: Disconnected from user p.desai 198.51.100.50 port 41642
+2027-03-14T17:34:36.649000+00:00 web-01 sudo: m.khan : TTY=pts/0 ; PWD=/home/m.khan ; USER=root ; COMMAND=/usr/bin/ls /var/backups
+2027-03-14T17:50:39.790000+00:00 web-01 sshd[19224]: Accepted publickey for t.singh from 10.20.1.99 port 44712 ssh2
+2027-03-14T17:50:52.372000+00:00 web-01 sshd[8641]: Failed password for admin from 192.0.2.101 port 32956 ssh2
+2027-03-14T18:08:47.676000+00:00 web-01 sshd[13046]: Accepted password for t.singh from 10.20.1.143 port 58012 ssh2
+2027-03-14T18:17:09.889000+00:00 web-01 sshd[39251]: pam_unix(sshd:session): session opened for user j.thomas(uid=1001) by (uid=0)
+2027-03-14T18:21:52.130000+00:00 web-01 sudo: r.mehta : TTY=pts/0 ; PWD=/home/r.mehta ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-14T18:23:59.594000+00:00 web-01 sshd[11082]: Accepted password for h.verma from 10.20.3.97 port 42291 ssh2
+2027-03-14T18:31:25.397000+00:00 web-01 sudo: p.desai : TTY=pts/0 ; PWD=/home/p.desai ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+2027-03-14T18:31:30.067000+00:00 web-01 sshd[32445]: pam_unix(sshd:session): session closed for user r.mehta(uid=1001) by (uid=0)
+2027-03-14T18:43:39.083000+00:00 web-01 sshd[2662]: Accepted password for t.singh from 10.20.4.237 port 52798 ssh2
+2027-03-14T18:53:18.635000+00:00 web-01 CRON[30116]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T18:54:29.433000+00:00 web-01 sshd[15799]: Disconnected from user j.thomas 10.20.1.88 port 47334
+2027-03-14T18:57:57.458000+00:00 web-01 CRON[28755]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T19:23:14.264000+00:00 web-01 CRON[30888]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+2027-03-14T19:23:56.352000+00:00 web-01 sshd[23564]: Accepted password for m.khan from 10.20.2.37 port 31957 ssh2
+2027-03-14T19:24:14.268000+00:00 web-01 CRON[35814]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T19:26:15.743000+00:00 web-01 sshd[28896]: pam_unix(sshd:session): session closed for user k.iyer(uid=1001) by (uid=0)
+2027-03-14T19:30:43.386000+00:00 web-01 sshd[29352]: Accepted password for t.singh from 10.20.3.188 port 46014 ssh2
+2027-03-14T19:41:01.677000+00:00 web-01 sshd[38083]: Failed password for ubuntu from 192.0.2.103 port 44303 ssh2
+2027-03-14T19:49:15.253000+00:00 web-01 sshd[37607]: Disconnected from user j.thomas 10.20.3.122 port 40926
+2027-03-14T19:50:20.602000+00:00 web-01 CRON[32527]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T19:53:19.673000+00:00 web-01 sshd[1350]: Accepted publickey for m.khan from 10.20.4.77 port 31510 ssh2
+2027-03-14T20:19:54.479000+00:00 web-01 sshd[22555]: pam_unix(sshd:session): session closed for user t.singh(uid=1001) by (uid=0)
+2027-03-14T20:23:53.613000+00:00 web-01 sshd[8950]: pam_unix(sshd:session): session opened for user t.singh(uid=1001) by (uid=0)
+2027-03-14T20:37:54.497000+00:00 web-01 CRON[19955]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T20:45:50.349000+00:00 web-01 CRON[9244]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)
+2027-03-14T21:12:08.592000+00:00 web-01 sudo: d.joshi : TTY=pts/0 ; PWD=/home/d.joshi ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-14T21:22:00.550000+00:00 web-01 sudo: v.patel : TTY=pts/0 ; PWD=/home/v.patel ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2027-03-14T21:41:04.027000+00:00 web-01 sshd[18812]: Failed password for ubuntu from 192.0.2.101 port 59687 ssh2
+2027-03-14T21:42:07.714000+00:00 web-01 sshd[34995]: Accepted password for m.khan from 10.20.4.224 port 49701 ssh2
+2027-03-14T21:51:55.792000+00:00 web-01 sshd[25440]: Accepted password for t.singh from 10.20.4.75 port 52981 ssh2
+2027-03-14T23:02:36.188000+00:00 web-01 sshd[29245]: Accepted publickey for a.sharma from 10.20.4.235 port 55610 ssh2
+2027-03-14T23:15:40.812000+00:00 web-01 sshd[38317]: Accepted publickey for r.mehta from 10.20.3.138 port 46079 ssh2
+2027-03-14T23:29:42.240000+00:00 web-01 CRON[31825]: pam_unix(cron:session): session closed for user root(uid=0) by (uid=0)

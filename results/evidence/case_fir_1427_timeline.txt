@@ -1,0 +1,6 @@
+ 1. 2027-03-14 15:42:07Z / 21:12:07 IST  T1078     [high]  Valid Accounts (login with legitimate credentials from unusual external IP): user r.mehta; ip 45.77.12.9; host WIN-FIN-01 [1 event] - correlated across 3 sources (aws+linux+windows)
+      records: W-15745
+ 2. 2027-03-14 15:51:33Z / 21:21:33 IST  T1021     [high]  Remote Services (SSH login) / credential-file access on the target host: user r.mehta; ip 45.77.12.9; host db-server-02 [3 events] - correlated across 3 sources (aws+linux+windows)
+      records: L-2930, L-2932, L-2933
+ 3. 2027-03-14 16:02:07Z / 21:32:07 IST  T1530     [high]  Data from Cloud Storage (S3 download): user r.mehta; ip 45.77.12.9; host ap-south-1 [18 events] - correlated across 3 sources (aws+linux+windows)
+      records: A-4306, A-4309, A-4311, A-4312, A-4313, A-4315 (+12 more)

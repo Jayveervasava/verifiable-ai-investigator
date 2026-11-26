@@ -1,0 +1,136 @@
+{
+  "note": "re-created in the style of EVTX-ATTACK-SAMPLES / Stratus Red Team; not the original files",
+  "records": [
+    {
+      "source": "windows",
+      "raw_ref": "windows_attack_samples_style.jsonl#line=241",
+      "techniques": [
+        "T1003.001"
+      ]
+    },
+    {
+      "source": "windows",
+      "raw_ref": "windows_attack_samples_style.jsonl#line=242",
+      "techniques": [
+        "T1003.001"
+      ]
+    },
+    {
+      "source": "windows",
+      "raw_ref": "windows_attack_samples_style.jsonl#line=243",
+      "techniques": [
+        "T1543.003",
+        "T1569.002"
+      ]
+    },
+    {
+      "source": "windows",
+      "raw_ref": "windows_attack_samples_style.jsonl#line=244",
+      "techniques": [
+        "T1021.002"
+      ]
+    },
+    {
+      "source": "windows",
+      "raw_ref": "windows_attack_samples_style.jsonl#line=245",
+      "techniques": [
+        "T1053.005"
+      ]
+    },
+    {
+      "source": "windows",
+      "raw_ref": "windows_attack_samples_style.jsonl#line=246",
+      "techniques": [
+        "T1136.001"
+      ]
+    },
+    {
+      "source": "windows",
+      "raw_ref": "windows_attack_samples_style.jsonl#line=247",
+      "techniques": [
+        "T1098"
+      ]
+    },
+    {
+      "source": "windows",
+      "raw_ref": "windows_attack_samples_style.jsonl#line=248",
+      "techniques": [
+        "T1059.001"
+      ]
+    },
+    {
+      "source": "windows",
+      "raw_ref": "windows_attack_samples_style.jsonl#line=249",
+      "techniques": [
+        "T1490"
+      ]
+    },
+    {
+      "source": "windows",
+      "raw_ref": "windows_attack_samples_style.jsonl#line=250",
+      "techniques": [
+        "T1558.003"
+      ]
+    },
+    {
+      "source": "windows",
+      "raw_ref": "windows_attack_samples_style.jsonl#line=251",
+      "techniques": [
+        "T1070.001"
+      ]
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail_stratus_style.json#index=101",
+      "techniques": [
+        "T1555.006"
+      ]
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail_stratus_style.json#index=102",
+      "techniques": [
+        "T1136.003"
+      ]
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail_stratus_style.json#index=103",
+      "techniques": [
+        "T1098.003"
+      ]
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail_stratus_style.json#index=104",
+      "techniques": [
+        "T1098.001"
+      ]
+    },
+    {
+      "source": "aws",
+      "raw_ref": "cloudtrail_stratus_style.json#index=105",
+      "techniques": [
+        "T1562.008"
+      ]
+    }
+  ],
+  "expected_techniques": [
+    "T1003.001",
+    "T1021.002",
+    "T1053.005",
+    "T1059.001",
+    "T1070.001",
+    "T1098",
+    "T1098.001",
+    "T1098.003",
+    "T1136.001",
+    "T1136.003",
+    "T1490",
+    "T1543.003",
+    "T1555.006",
+    "T1558.003",
+    "T1562.008",
+    "T1569.002"
+  ]
+}

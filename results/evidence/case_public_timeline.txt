@@ -1,0 +1,28 @@
+ 1. 2026-05-20 20:00:00Z / 01:30:00 IST  T1003.001 [high]  OS Credential Dumping: LSASS Memory: user labuser; host WIN10-LAB [2 events]
+      records: W-5241, W-5242
+ 2. 2026-05-20 20:03:00Z / 01:33:00 IST  T1569.002 [high]  System Services: Service Execution: host WIN10-LAB [1 event]
+      records: W-5243
+ 3. 2026-05-20 20:03:00Z / 01:33:00 IST  T1543.003 [high]  Create/Modify System Process: Windows Service: host WIN10-LAB [1 event]
+      records: W-5243
+ 4. 2026-05-20 20:03:01Z / 01:33:01 IST  T1021.002 [medium]  Remote Services: SMB/Windows Admin Shares: user labuser; ip 10.10.10.25; host WIN10-LAB [1 event]
+      records: W-5244
+ 5. 2026-05-20 20:06:00Z / 01:36:00 IST  T1053.005 [medium]  Scheduled Task/Job: Scheduled Task: user labuser; host WIN10-LAB [1 event]
+      records: W-5245
+ 6. 2026-05-20 20:08:00Z / 01:38:00 IST  T1136.001 [medium]  Create Account: Local Account: user labuser; host WIN10-LAB [1 event]
+      records: W-5246
+ 7. 2026-05-20 20:08:04Z / 01:38:04 IST  T1098     [medium]  Account Manipulation (added to privileged group): user labuser; host WIN10-LAB [1 event]
+      records: W-5247
+ 8. 2026-05-20 20:10:00Z / 01:40:00 IST  T1059.001 [medium]  Command and Scripting Interpreter: PowerShell: user labuser; host WIN10-LAB [1 event]
+      records: W-5248
+ 9. 2026-05-20 20:12:00Z / 01:42:00 IST  T1490     [high]  Inhibit System Recovery: user labuser; host WIN10-LAB [1 event]
+      records: W-5249
+10. 2026-05-20 20:15:00Z / 01:45:00 IST  T1070.001 [high]  Indicator Removal: Clear Windows Event Logs: user labuser; host WIN10-LAB [1 event]
+      records: W-5251
+11. 2026-05-20 21:02:00Z / 02:32:00 IST  T1136.003 [medium]  Create Account: Cloud Account: user stratus-dev; ip 198.51.100.7; host ap-south-1 [1 event]
+      records: A-102
+12. 2026-05-20 21:03:00Z / 02:33:00 IST  T1098.003 [medium]  Account Manipulation: Additional Cloud Roles: user stratus-dev; ip 198.51.100.7; host ap-south-1 [1 event]
+      records: A-103
+13. 2026-05-20 21:04:00Z / 02:34:00 IST  T1098.001 [medium]  Account Manipulation: Additional Cloud Credentials: user stratus-dev; ip 198.51.100.7; host ap-south-1 [1 event]
+      records: A-104
+14. 2026-05-20 21:06:00Z / 02:36:00 IST  T1562.008 [high]  Impair Defenses: Disable or Modify Cloud Logs: user stratus-dev; ip 198.51.100.7; host ap-south-1 [1 event]
+      records: A-105

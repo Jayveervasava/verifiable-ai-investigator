@@ -1,0 +1,65 @@
+{
+  "correlate_defaults": {
+    "window_minutes": 120,
+    "min_baseline_days": 3,
+    "bruteforce_min_failures": 10,
+    "bruteforce_window_minutes": 60
+  },
+  "rules": [
+    "W-LOGON",
+    "A-CONSOLE",
+    "L-SSH",
+    "A-S3GET",
+    "L-CREDREAD",
+    "L-NEWUSER",
+    "W-LOGCLEAR",
+    "W-WEVTUTIL",
+    "W-SVC",
+    "W-SVC-SUSP",
+    "W-PSEXESVC",
+    "W-SCHTASK",
+    "W-SCHTASK-CLI",
+    "W-NEWUSER",
+    "W-NETUSER",
+    "W-ADMINGRP",
+    "W-ADMINGRP-CLI",
+    "W-SC-CREATE",
+    "W-MIMIKATZ",
+    "W-COMSVCS",
+    "W-LSASS-ACCESS",
+    "W-REGSAVE",
+    "W-PSBAD",
+    "W-SHADOW",
+    "W-PSEXEC-CLI",
+    "W-ADMINSHARE",
+    "W-KERBEROAST",
+    "W-CERTUTIL",
+    "W-MSHTA",
+    "W-REGSVR32",
+    "A-TRAIL-OFF",
+    "A-CREATEUSER",
+    "A-ACCESSKEY",
+    "A-ADMINPOLICY",
+    "A-SECRET"
+  ],
+  "limitations": [
+    "Only the log files supplied were examined; rotated, deleted or never-collected logs are not visible.",
+    "Syslog lines without a timezone are assumed to be UTC (or the log_tz given at ingest); clocks of different hosts may be skewed.",
+    "Records are linked by user name, IP address and AWS access key inside a time window; shared accounts, NAT or VPN addresses can create false links.",
+    "'Unusual IP' is judged against the same dataset (an IP seen on 3+ different days for that user counts as usual); with short logs there may be no baseline.",
+    "Technique tags are rule-based suggestions mapped to MITRE ATT&CK, not proof of intent; an analyst must confirm each one.",
+    "Confidence 'high' means the same user and IP appear in 3 independent log sources; it does not prove the person behind the account."
+  ],
+  "summary": {
+    "case_fir_1427": {
+      "events": 15000,
+      "findings": 18,
+      "high": 3
+    },
+    "case_public": {
+      "events": 356,
+      "findings": 16,
+      "high": 6
+    }
+  }
+}
