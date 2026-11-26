@@ -6,16 +6,10 @@ except ImportError:  # contract file not merged yet -> use identical mock
 
 
 def make_verify_result(ok, checked, broken_at=None, missing_texts=(), missing_steps=()):
-    """Build a VerifyResult.
-
-    `missing_steps` in the contract is a list; we put readable strings in it.
-    If the real contract turns out to want integers, we fall back to step
-    numbers so integration never crashes.
-    """
+    """Contract v1.1: step numbers in `missing_steps`, readable reasons in `problems`."""
+    nums = sorted({int(n) for n in missing_steps if n is not None})
     try:
         return VerifyResult(ok=ok, checked=checked, broken_at=broken_at,
-                            missing_steps=list(missing_texts))
-    except Exception:
-        nums = sorted({int(n) for n in missing_steps if n is not None})
-        return VerifyResult(ok=ok, checked=checked, broken_at=broken_at,
-                            missing_steps=nums)
+                            missing_steps=nums, problems=list(missing_texts))
+    except Exception:  # older contract without `problems`
+        return VerifyResult(ok=ok, checked=checked, broken_at=broken_at, missing_steps=nums)

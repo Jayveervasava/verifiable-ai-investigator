@@ -86,7 +86,7 @@ class CompletenessTests(unittest.TestCase):
         other = make_ledger(self, 3); run_agent(other)
         r = led.verify_completeness(plan, other.entries())   # different ledger's entries
         self.assertFalse(r.ok)
-        self.assertTrue(any("ENTRY_MISMATCH" in m for m in r.missing_steps))
+        self.assertTrue(any("ENTRY_MISMATCH" in m for m in r.problems))
 
 
 if __name__ == "__main__":

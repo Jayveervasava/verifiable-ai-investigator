@@ -119,10 +119,15 @@ class Agent:
         plan = self.plan(case)
         plan_hash = hash_obj(plan)
         # 1) plan committed BEFORE any step runs
-        self._write(case, "agent_step", {
-            "phase": "plan", "case_id": case.id, "mode": self.mode,
-            "plan": plan, "plan_hash": plan_hash,
-        })
+        if hasattr(self.ledger, "commit_plan"):  # contract v1.1: ledger's protocol is the source of truth
+            e = self.ledger.commit_plan(plan, ACTOR)
+            self._log.setdefault(case.id, []).append((e.seq, "agent_step", {
+                "phase": "plan", "case_id": case.id, "mode": self.mode, "plan": plan, "plan_hash": plan_hash}))
+        else:
+            self._write(case, "agent_step", {
+                "phase": "plan", "case_id": case.id, "mode": self.mode,
+                "plan": plan, "plan_hash": plan_hash,
+            })
 
         handlers: Dict[str, Tuple[Callable, Callable]] = {
             "load_evidence": (self._prep_load, self._exec_load),
@@ -145,7 +150,11 @@ class Agent:
             input_obj, reasoning, in_ids = prepare(case, ctx)
             input_hash = hash_obj(input_obj)
             base.update({"input_hash": input_hash, "reasoning": reasoning})
-            self._write(case, "agent_step", {**base, "phase": "before", "record_ids": in_ids})
+            if hasattr(self.ledger, "step_started"):
+                e = self.ledger.step_started(n, tool, input_hash, ACTOR)
+                self._log.setdefault(case.id, []).append((e.seq, "agent_step", {**base, "phase": "before", "record_ids": in_ids}))
+            else:
+                self._write(case, "agent_step", {**base, "phase": "before", "record_ids": in_ids})
             output_obj, out_ids = execute(case, ctx)
         except Exception as exc:  # log the failure too - nothing is hidden
             self._write(case, "agent_step", {
@@ -153,8 +162,13 @@ class Agent:
                 "error": f"{type(exc).__name__}: {exc}"})
             raise AgentError(f"step {n} ({tool}) failed: {exc}") from exc
         output_hash = hash_obj(output_obj)
-        self._write(case, "agent_step", {
-            **base, "phase": "after", "output_hash": output_hash, "record_ids": out_ids})
+        if hasattr(self.ledger, "step_finished"):
+            e = self.ledger.step_finished(n, tool, output_hash, ACTOR, record_ids=out_ids, reasoning=reasoning)
+            self._log.setdefault(case.id, []).append((e.seq, "agent_step", {
+                **base, "phase": "after", "output_hash": output_hash, "record_ids": out_ids}))
+        else:
+            self._write(case, "agent_step", {
+                **base, "phase": "after", "output_hash": output_hash, "record_ids": out_ids})
         case.steps.append(AgentStep(n=n, tool=tool, input_hash=input_hash,
                                     output_hash=output_hash, reasoning=reasoning,
                                     record_ids=out_ids))
@@ -406,6 +420,12 @@ class Agent:
         check = self.ledger.verify()
         if not check.ok:
             raise AgentError(f"ledger verification failed (broken at {check.broken_at}); not approving")
+        if hasattr(self.ledger, "verify_completeness") and self._log.get(case.id):
+            start = self._log[case.id][0][0]  # seq of this run's committed plan
+            run_entries = [e for e in self.ledger.entries() if e.seq >= start and e.kind == "agent_step"]
+            comp = self.ledger.verify_completeness(self.plan(case), run_entries)
+            if not comp.ok:
+                raise AgentError(f"completeness check failed ({getattr(comp, 'problems', comp.missing_steps)}); not approving")
         concl = self._conclusions.get(case.id, {})
         report = self._reports.get(case.id)
         entry = self._write(case, "approval", {

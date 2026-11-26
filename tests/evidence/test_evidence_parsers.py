@@ -78,7 +78,7 @@ def test_linux_iso_classic_sudo_and_line_ids():
     by = {e.id: e for e in evs}
     assert set(by) == {"L-1", "L-3", "L-4", "L-6"} and rep["total_errors"] == 1
     assert by["L-1"].action.startswith("ssh_accepted") and by["L-1"].ip == "45.77.12.9"
-    assert by["L-3"].user == "r.mehta" and by["L-3"].ts_utc.hour == 10 and ".aws/credentials" in by["L-3"].action   # +05:30 -> UTC
+    assert by["L-3"].user == "r.mehta" and str(by["L-3"].ts_utc)[11:13] == "10" and ".aws/credentials" in by["L-3"].action   # +05:30 -> UTC
     assert by["L-4"].action.startswith("ssh_failed") and by["L-4"].user == "admin"
     assert by["L-6"].action.startswith("syslog_other") and rep["total_unclassified"] == 1
 
