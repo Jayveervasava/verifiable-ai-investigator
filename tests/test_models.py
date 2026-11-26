@@ -38,7 +38,7 @@ def test_defaults():
     c = Case(id="FIR-1427/2027", title="Cloud data theft", victim="ABC Finserv Pvt Ltd (fictional)", officer="SI R. Patel")
     assert c.approved is False and c.events == [] and c.legal == []
     v = VerifyResult(ok=True, checked=0)
-    assert v.broken_at is None and v.missing_steps == []
+    assert v.broken_at is None and v.missing_steps == [] and v.problems == []
     m = LegalMatch(technique_id="T1078", offence="Unauthorised access", act="IT Act 2000", section="66",
                    reason="valid-account misuse", source_url="https://www.indiacode.nic.in/")
     assert m.status == "suggested - officer confirms"

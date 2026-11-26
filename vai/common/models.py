@@ -54,6 +54,7 @@ class VerifyResult(BaseModel):
     checked: int
     broken_at: Optional[int] = None          # seq of first bad entry, None if ok
     missing_steps: list[int] = Field(default_factory=list)  # plan step numbers (AgentStep.n) not found
+    problems: list[str] = Field(default_factory=list)       # v1.1: readable reasons, e.g. "[UNPLANNED_STEP] seq=9 ..."
 
 
 class AgentStep(BaseModel):

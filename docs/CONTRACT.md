@@ -1,4 +1,18 @@
-# CONTRACT (v1, frozen) — Verifiable AI Investigator
+# CONTRACT (v1.1) — Verifiable AI Investigator
+
+## Changes in v1.1 (27 Nov 2026) — all backward compatible
+
+1. `VerifyResult.problems: list[str] = []` added. `missing_steps` stays `list[int]` (step numbers only);
+   readable reasons (`"[CODE] seq=N detail"`) go in `problems`. Unplanned/fake steps go in `problems` + `broken_at`.
+2. `Event.ts_utc` and `LedgerEntry.ts` are **str** (ISO‑8601 UTC, `Z`). Never datetime. Missing host/user/ip = `""`.
+3. Optional extra args allowed (old calls still work): `timeline(findings, events=None)`,
+   `Agent(ledger, llm=None, tools=None)`, `Agent.run(case, evidence_paths=None)`,
+   `case_report_pdf(case, ledger, plan=None, ...)`.
+4. Case IDs use a dash: `FIR-1427-2027`; the title/UI may show `FIR-1427/2027`.
+5. Completeness protocol = **the Ledger's**: Agent must call `ledger.commit_plan()`, `ledger.step_started()`,
+   `ledger.step_finished()`. `ledger.verify_completeness(agent.plan(case))` must be `ok=True` on a clean run.
+   The agent's own `completeness_report` may stay as a helper but is not the source of truth.
+6. Unmapped ATT&CK ids in `map_techniques` are skipped, never an error.
 
 Owner: **Claude 0** (coordinator). Source of truth: `vai/common/models.py`.
 Each package lives **only** in its own folder. Do not edit `vai/common/` or another team's folder.
@@ -10,7 +24,7 @@ Need a change? Write it under *Contract change request* in your STATUS block.
 Event{id, ts_utc, source(windows|linux|aws), host, user, ip, action, raw_ref}
 Finding{id, technique_id, title, event_ids[], confidence(high|medium|low)}
 LedgerEntry{seq, ts, kind(evidence|agent_step|conclusion|approval|report), actor, payload_hash, prev_hash, hash}
-VerifyResult{ok, checked, broken_at, missing_steps[]}
+VerifyResult{ok, checked, broken_at, missing_steps[], problems[]}
 AgentStep{n, tool, input_hash, output_hash, reasoning, record_ids[]}
 LegalMatch{technique_id, offence, act, section, reason, source_url, status="suggested - officer confirms"}
 Case{id, title, victim, officer, events[], findings[], steps[], legal[], approved}
