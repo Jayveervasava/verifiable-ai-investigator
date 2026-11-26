@@ -26,9 +26,9 @@ from vai.common.models import Case  # noqa: E402
 
 DEMO_CASES = [
     dict(id="FIR-1427/2027", title="Cloud data theft (synthetic)", victim="ABC Finserv Pvt Ltd (fictional)",
-         officer="SI R. Patel (fictional)", data_dir="data/sample/fir1427"),
+         officer="SI R. Patel (fictional)", data_dir="data/sample/case_fir_1427"),
     dict(id="DEMO-2/PUBLIC", title="Public-data case (EVTX-ATTACK-SAMPLES / Stratus Red Team)",
-         victim="Public dataset (no real victim)", officer="SI R. Patel (fictional)", data_dir="data/sample/public"),
+         victim="Public dataset (no real victim)", officer="SI R. Patel (fictional)", data_dir="data/sample/case_public"),
 ]
 
 
@@ -75,11 +75,13 @@ def run_case(spec, mods):
     db = str(tmp / "case.db")
     ledger = led.Ledger(db)
     agent = ag.Agent(ledger)
-    case2 = stage(log, "agent.run", lambda: agent.run(case)) or case
+    case2 = stage(log, "agent.run", lambda: agent.run(case, evidence_paths=files) if files else agent.run(case)) or case
     v = stage(log, "ledger.verify", lambda: ledger.verify())
     if v is not None and not v.ok:
         log[-1]["status"] = "FAIL"; log[-1]["error"] = f"clean ledger did not verify: {v}"
-    stage(log, "verify_completeness", lambda: ledger.verify_completeness(agent.plan(case2), ledger.entries()))
+    c = stage(log, "verify_completeness", lambda: ledger.verify_completeness(agent.plan(case2), ledger.entries()))
+    if c is not None and not c.ok:
+        log[-1]["status"] = "FAIL"; log[-1]["error"] = f"completeness not ok: {c}"
     stage(log, "explain", lambda: agent.explain(case2))
     stage(log, "approve", lambda: agent.approve(case2, spec["officer"]))
     if lg:
@@ -93,7 +95,10 @@ def run_case(spec, mods):
         log.append(dict(stage="legal", status="SKIP", error="vai.legal not available"))
     for mode in ("edit", "delete", "insert"):
         copy = str(tmp / f"tamper_{mode}.db")
-        shutil.copy(db, copy)
+        if hasattr(led, "copy_db"):
+            led.copy_db(db, copy)  # SQLite backup API (includes WAL data)
+        else:
+            shutil.copy(db, copy)
 
         def _t(mode=mode, copy=copy):
             entries = led.Ledger(copy).entries()

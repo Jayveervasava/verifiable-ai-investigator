@@ -1,0 +1,16 @@
+{
+  "backends": {
+    "evidence": "real",
+    "ledger": "real",
+    "agent": "real",
+    "legal": "real"
+  },
+  "models": "real",
+  "login_required": false,
+  "cases": [
+    "FIR-1427-2027",
+    "DEMO-PUBLIC-02"
+  ],
+  "max_upload_mb": 20,
+  "created": "2026-11-26T21:30:48Z"
+}

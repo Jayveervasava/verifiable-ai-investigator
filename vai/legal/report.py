@@ -174,13 +174,17 @@ def case_report_pdf(case, ledger, *, plan=None, explanations=None, generated_at=
     story.append(P("5. Limitations", "h1"))
     story += [bullet(t) for t in LIMITATIONS]
 
+    def _short_ids(ids, k=8):
+        ids = list(map(str, ids))
+        return ", ".join(ids[:k]) + (f" (+{len(ids) - k} more, full list in ledger)" if len(ids) > k else "")
+
     # --- 6 agent steps -----------------------------------------------------
     story.append(P("6. Agent steps", "h1"))
     if steps:
         story.append(grid_table(
             ["Step", "Tool", "Input hash", "Output hash", "Reasoning", "Records"],
             [[str(g(s, "n")), g(s, "tool", ""), short_hash(g(s, "input_hash")), short_hash(g(s, "output_hash")),
-              g(s, "reasoning", ""), ", ".join(map(str, as_list(g(s, "record_ids"))))] for s in steps],
+              g(s, "reasoning", ""), _short_ids(as_list(g(s, "record_ids")))] for s in steps],
             [10, 24, 28, 28, 54, 30]))
     else:
         story.append(P("No agent steps recorded."))

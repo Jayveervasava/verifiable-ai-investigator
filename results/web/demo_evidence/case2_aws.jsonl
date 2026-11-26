@@ -1,0 +1,11 @@
+{"id": "A2-0008", "ts_utc": "2027-03-30T02:37:00Z", "source": "aws", "host": "aws-ap-south-1", "user": "t.rao", "ip": "198.51.100.17", "action": "ec2:DescribeSnapshots", "raw_ref": "case2_aws.jsonl#L1"}
+{"id": "A2-0004", "ts_utc": "2027-03-30T03:26:00Z", "source": "aws", "host": "aws-ap-south-1", "user": "svc-backup", "ip": "198.51.100.17", "action": "ec2:DescribeSnapshots", "raw_ref": "case2_aws.jsonl#L2"}
+{"id": "A2-0012", "ts_utc": "2027-03-30T04:42:00Z", "source": "aws", "host": "aws-ap-south-1", "user": "t.rao", "ip": "198.51.100.17", "action": "ec2:DescribeSnapshots", "raw_ref": "case2_aws.jsonl#L3"}
+{"id": "A2-0020", "ts_utc": "2027-03-31T01:21:00Z", "source": "aws", "host": "aws-ap-south-1", "user": "t.rao", "ip": "198.51.100.17", "action": "ec2:DescribeSnapshots", "raw_ref": "case2_aws.jsonl#L4"}
+{"id": "A2-0016", "ts_utc": "2027-03-31T04:37:00Z", "source": "aws", "host": "aws-ap-south-1", "user": "svc-backup", "ip": "198.51.100.17", "action": "ec2:DescribeSnapshots", "raw_ref": "case2_aws.jsonl#L5"}
+{"id": "A2-0024", "ts_utc": "2027-03-31T05:53:00Z", "source": "aws", "host": "aws-ap-south-1", "user": "t.rao", "ip": "198.51.100.17", "action": "ec2:DescribeSnapshots", "raw_ref": "case2_aws.jsonl#L6"}
+{"id": "A2-0028", "ts_utc": "2027-04-01T03:47:00Z", "source": "aws", "host": "aws-ap-south-1", "user": "svc-backup", "ip": "198.51.100.17", "action": "ec2:DescribeSnapshots", "raw_ref": "case2_aws.jsonl#L7"}
+{"id": "A2-0032", "ts_utc": "2027-04-01T04:51:00Z", "source": "aws", "host": "aws-ap-south-1", "user": "t.rao", "ip": "198.51.100.17", "action": "ec2:DescribeSnapshots", "raw_ref": "case2_aws.jsonl#L8"}
+{"id": "A2-0036", "ts_utc": "2027-04-01T05:32:00Z", "source": "aws", "host": "aws-ap-south-1", "user": "t.rao", "ip": "198.51.100.17", "action": "ec2:DescribeSnapshots", "raw_ref": "case2_aws.jsonl#L9"}
+{"id": "A2-5001", "ts_utc": "2027-04-02T01:41:02Z", "source": "aws", "host": "aws-ap-south-1", "user": "svc-backup", "ip": "203.0.113.50", "action": "sts:GetCallerIdentity", "raw_ref": "case2_aws.jsonl#L10"}
+{"id": "A2-5010", "ts_utc": "2027-04-02T01:44:55Z", "source": "aws", "host": "aws-ap-south-1", "user": "svc-backup", "ip": "203.0.113.50", "action": "ec2:ModifySnapshotAttribute snapshot=snap-0demo1234 add_account=999999999999", "raw_ref": "case2_aws.jsonl#L11"}
