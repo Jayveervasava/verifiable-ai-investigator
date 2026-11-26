@@ -1,0 +1,18 @@
+# Render.com blueprint for the Verifiable AI Investigator demo (Claude 5 / vai-web).
+# Claude 0: keep this file at the repo ROOT. Free plan disk is temporary, so results are lost on restart (fine for a demo).
+services:
+  - type: web
+    name: vai-demo
+    runtime: python
+    plan: free
+    buildCommand: pip install -r vai/web/requirements-web.txt
+    startCommand: uvicorn vai.web.app:app --host 0.0.0.0 --port $PORT --proxy-headers --forwarded-allow-ips='*'
+    healthCheckPath: /api/health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: DEMO_PASSWORD
+        generateValue: true      # Render makes a random password; read it in Dashboard > Environment
+      - key: VAI_RESULTS_DIR
+        value: /tmp/vai-results
+      # Optional: LLM_API_KEY (agent uses rule-based mode when it is not set)

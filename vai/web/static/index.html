@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Verifiable AI Investigator</title>
+<link rel="stylesheet" href="/static/style.css">
+</head><body>
+<div id="login" class="login" hidden>
+  <form id="loginform"><div class="logo">Verifiable <span>AI Investigator</span></div>
+    <label for="pw">Demo password</label><input id="pw" type="password" autocomplete="current-password" autofocus>
+    <button class="btn primary" type="submit">Sign in</button><div id="loginerr" class="err"></div></form>
+</div>
+<div id="app" class="shell" hidden>
+  <aside class="side">
+    <div class="logo">Verifiable <span>AI Investigator</span></div>
+    <nav class="nav" id="nav">
+      <a href="#/cases" data-p="cases">Cases</a>
+      <a href="#/evidence" data-p="evidence">Evidence intake</a>
+      <a href="#/ledger" data-p="ledger">Custody ledger</a>
+    </nav>
+    <div class="foot">Officer: SI R. Patel<br>(demo name, fictional)<br><br>Synthetic data only.<br>Not used by any police unit.<br>
+      <a href="#" id="logout">Sign out</a></div>
+  </aside>
+  <main class="main" id="page"></main>
+</div>
+<script src="/static/app.js"></script>
+</body></html>
