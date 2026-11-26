@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.db
+*.sqlite
+*.sqlite3
+.pytest_cache/
+.DS_Store
+*.log
+results/tmp/
+results/integration_last.json

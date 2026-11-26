@@ -1,0 +1,2 @@
+"""Verifiable AI Investigator."""
+__version__ = "0.1.0"

@@ -1,0 +1,78 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><style>
+*{box-sizing:border-box}body{margin:0;background:#0f141b;color:#e6e9ee;font-family:Carlito,Arial,sans-serif;width:1440px;min-height:900px;display:flex}
+.side{position:relative;width:210px;background:#0b1016;border-right:1px solid #1f2833;padding:18px 14px}
+.logo{font-weight:bold;font-size:17px;margin-bottom:22px}.logo span{color:#4aa3ff}
+.nav div{padding:9px 10px;border-radius:7px;color:#9aa6b2;font-size:14px;margin:2px 0}.nav .on{background:#16202b;color:#fff}
+.main{flex:1;padding:18px 22px 26px}
+.top{display:flex;justify-content:space-between;align-items:center;margin-bottom:14px}
+h1{font-size:20px;margin:0}.sub{color:#8b97a3;font-size:13px;margin-top:3px}
+.badge{font-size:12px;padding:4px 10px;border-radius:6px;margin-left:6px}
+.g{display:grid;grid-template-columns:1.35fr 1fr;gap:14px}
+.card{background:#141b24;border:1px solid #1f2833;border-radius:10px;padding:14px 16px}
+.ct{font-size:13px;color:#8b97a3;margin-bottom:10px;display:flex;justify-content:space-between}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:14px}
+.stat .n{font-size:24px;font-weight:bold}.stat .l{font-size:12px;color:#8b97a3}
+.tl{position:relative;padding-left:18px}.tl:before{content:"";position:absolute;left:6px;top:4px;bottom:4px;width:2px;background:#243040}
+.ev{position:relative;margin-bottom:12px}.ev:before{content:"";position:absolute;left:-16px;top:5px;width:10px;height:10px;border-radius:50%;background:var(--c)}
+.ev .t{font-size:12px;color:#8b97a3}.ev .x{font-size:14px}.chip{display:inline-block;font-size:11px;padding:2px 7px;border-radius:5px;background:#1c2633;color:#9fc6ff;margin:3px 4px 0 0}
+.step{display:flex;gap:10px;padding:8px 0;border-bottom:1px solid #1d2631;font-size:13px}.step:last-child{border:0}
+.ok{color:#3ecf8e}.hash{font-family:monospace;font-size:11px;color:#6b7785}
+.law div{display:flex;justify-content:space-between;font-size:13px;padding:6px 0;border-bottom:1px solid #1d2631}.law div:last-child{border:0}
+.ai{background:#122033;border:1px solid #234766;border-radius:8px;padding:10px 12px;font-size:13px;line-height:1.5}
+.btn{display:inline-block;font-size:13px;padding:7px 12px;border-radius:7px;margin:10px 8px 0 0}
+</style></head><body>
+<div class="side"><div class="logo">CP-DFIR <span>AI Investigator</span></div>
+<div class="nav"><div>Dashboard</div><div class="on">Cases</div><div>Evidence intake</div><div>AI agent</div><div>Custody ledger</div><div>Legal mapping</div><div>Reports</div><div>Settings</div></div>
+<div style="position:absolute;bottom:18px;font-size:12px;color:#6b7785">Officer: SI R. Patel<br>Cyber Cell, Vadodara</div></div>
+<div class="main">
+<div class="top"><div><h1>Case FIR-1427/2027 · Cloud data theft</h1><div class="sub">Victim: ABC Finserv Pvt Ltd · Opened 12 Mar 2027 · Evidence seized under Sec. 94 BNSS</div></div>
+<div><span class="badge" id="cbadge" style="background:#13301f;color:#3ecf8e">Custody verified</span><span class="badge" style="background:#2f2611;color:#f1b84b">Awaiting officer approval</span></div></div>
+<div class="stats">
+<div class="card stat"><div class="n">48,210</div><div class="l">Log records (Windows · Linux · AWS)</div></div>
+<div class="card stat"><div class="n">12</div><div class="l">Linked attack events</div></div>
+<div class="card stat"><div class="n">3</div><div class="l">MITRE ATT&amp;CK techniques</div></div>
+<div class="card stat"><div class="n ok" id="cnt">7 / 7</div><div class="l">AI steps verified in ledger</div></div></div>
+<div class="g">
+<div>
+<div class="card" style="margin-bottom:14px"><div class="ct"><span>Attack timeline (cross-platform)</span><span>UTC</span></div>
+<div class="tl">
+<div class="ev" style="--c:#4aa3ff"><div class="t">09:12 · Windows · DESKTOP-FIN07</div><div class="x">Login with stolen credentials of r.mehta from IP 45.77.12.9</div><span class="chip">T1078 Valid Accounts</span><span class="chip">IT Act s.66</span></div>
+<div class="ev" style="--c:#a78bfa"><div class="t">09:40 · Linux · db-server-02</div><div class="x">SSH session as r.mehta, AWS keys read from ~/.aws</div><span class="chip">T1021 Remote Services</span><span class="chip">IT Act s.66C</span></div>
+<div class="ev" style="--c:#f59e6b"><div class="t">10:05 · AWS · s3://abc-customer-data</div><div class="x">3.2 GB customer records downloaded to external IP</div><span class="chip">T1530 Data from Cloud Storage</span><span class="chip">IT Act s.43(b)</span></div>
+</div></div>
+<div class="card"><div class="ct"><span>AI agent conclusion</span><span>Confidence: high</span></div>
+<div class="ai">Stolen credentials of employee r.mehta were used from IP 45.77.12.9 to move from a Windows desktop to a Linux server and then download 3.2 GB of customer data from AWS S3. Same IP and user appear in all three systems.<br><span style="color:#8b97a3">Evidence: 12 events · every source record hash-linked below</span></div>
+<span class="btn" style="background:#1f6feb;color:#fff">Approve and generate report</span><span class="btn" id="cbtn" style="background:#1c2633;cursor:pointer">Section 63 certificate (draft)</span><span class="btn" id="wbtn" style="background:#1c2633;cursor:pointer">Ask AI why</span>
+<div id="why" style="display:none;margin-top:12px;font-size:13px;line-height:1.55;border-top:1px solid #1f2833;padding-top:10px"><div style="color:#8b97a3;margin-bottom:6px">Why the AI reached this conclusion</div>
+<div>1. Same user <b>r.mehta</b> and IP <b>45.77.12.9</b> appear on Windows (09:12), Linux (09:40) and AWS (10:05). <span class="hash">→ records W-10442, L-3381, A-9020</span></div>
+<div>2. r.mehta's normal login IP is 103.21.x.x (last 90 days); 45.77.12.9 is a foreign VPS never seen before. <span class="hash">→ baseline B-17</span></div>
+<div>3. AWS keys read on db-server-02 at 09:52 were used for the S3 download 13 min later. <span class="hash">→ records L-3402, A-9020</span></div>
+<div style="color:#f1b84b;margin-top:6px">Limitation: no logs from the employee's phone; phishing source not confirmed.</div></div>
+<div id="cert" style="display:none;margin-top:12px;font-size:13px;line-height:1.55;border-top:1px solid #1f2833;padding-top:10px"><div style="color:#8b97a3;margin-bottom:6px">Draft · Certificate under Section 63, Bharatiya Sakshya Adhiniyam, 2023</div>
+I, SI R. Patel, Cyber Cell, Vadodara, certify that the electronic records listed in Annexure A (48,210 log records, SHA-256 hashes enclosed) were obtained from ABC Finserv Pvt Ltd on 12 Mar 2027, were processed by CP-DFIR v1.3, and that their hash values verified unchanged on <span id="cd">—</span>.<div class="hash" style="margin-top:6px">Ledger root 9f2c71ab…c7e0 · Hash list: 48,210 entries · Signature: pending officer</div></div></div>
+<div class="card" style="margin-top:14px"><div class="ct"><span>Verify for court</span><span id="vstate" class="ok">Not yet verified</span></div>
+<div style="font-size:13px;color:#b7c0ca;line-height:1.5">Re-computes every hash in the custody ledger and checks that no evidence record or AI step was changed after it was saved.</div>
+<div id="vres" style="font-size:13px;margin-top:8px;min-height:18px"></div>
+<span class="btn" id="vbtn" style="background:#13301f;color:#3ecf8e;cursor:pointer">Verify chain</span><span class="btn" id="tbtn" style="background:#2f1616;color:#ff8a8a;cursor:pointer">Simulate tampering</span><span class="btn" style="background:#1c2633">Export evidence package</span>
+<div class="hash" style="margin-top:8px">Merkle root: 9f2c71ab04d3e8b1…c7e0 · Ledger HMAC: valid</div></div>
+</div>
+<div>
+<div class="card" style="margin-bottom:14px"><div class="ct"><span>AI agent steps · custody ledger</span><span id="chain" class="ok">Chain intact</span></div>
+<div class="step" id="s1"><span class="ok">✔</span><div>1. Loaded and hashed 48,210 records<div class="hash">a91f3c07…e2b4</div></div></div>
+<div class="step" id="s2"><span class="ok">✔</span><div>2. Normalised 3 sources to one format<div class="hash">5c02de91…7a10</div></div></div>
+<div class="step" id="s3"><span class="ok">✔</span><div>3. Linked events by user, IP, credential<div class="hash">e7b4410a…09cf</div></div></div>
+<div class="step" id="s4"><span class="ok">✔</span><div>4. Built timeline, mapped MITRE ATT&amp;CK<div class="hash">3d8a7f22…c561</div></div></div>
+<div class="step" id="s5"><span class="ok">✔</span><div>5. Mapped to IT Act and BNS sections<div class="hash">b04e9c13…4d7e</div></div></div>
+<div class="step" id="s6"><span class="ok">✔</span><div>6. AI conclusion with reasons<div class="hash">71fa0b6e…a3b2</div></div></div>
+<div class="step" id="s7"><span class="ok">✔</span><div>7. Drafted case report and certificate<div class="hash">0c9d55e4…f18a</div></div></div></div>
+<div class="card law"><div class="ct"><span>Legal mapping</span><span>Suggested · officer to confirm</span></div>
+<div><span>Unauthorised access</span><span>IT Act s.66</span></div><div><span>Identity theft</span><span>IT Act s.66C</span></div><div><span>Data theft</span><span>IT Act s.43(b)</span></div><div><span>Electronic evidence certificate</span><span>BSA 2023 s.63</span></div></div>
+</div></div></div><script>
+let tampered=false;
+document.getElementById('tbtn').onclick=()=>{tampered=true;const s=document.getElementById('s3');s.querySelector('div').firstChild.textContent='3. Linked events by user, IP 10.0.0.5, credential';document.getElementById('vres').textContent='Step 3 was edited after saving (IP changed). Press Verify chain.';document.getElementById('vres').style.color='#f1b84b'};
+document.getElementById('vbtn').onclick=()=>{const v=document.getElementById('vstate'),r=document.getElementById('vres'),c=document.getElementById('chain');
+if(tampered){v.textContent='Verification failed';v.style.color='#ff6b6b';c.textContent='Chain broken at step 3';c.style.color='#ff6b6b';document.getElementById('s3').style.background='#2a1416';document.getElementById('s3').querySelector('span').textContent='✖';document.getElementById('s3').querySelector('span').style.color='#ff6b6b';const b=document.getElementById('cbadge');b.textContent='Custody broken';b.style.background='#2f1616';b.style.color='#ff8a8a';const n=document.getElementById('cnt');n.textContent='6 / 7';n.style.color='#ff6b6b';r.textContent='Hash of step 3 does not match the ledger. Evidence was changed and cannot be used without explanation.';r.style.color='#ff6b6b'}
+else{v.textContent='Verified';v.style.color='#3ecf8e';r.textContent='All 48,210 records and 7 AI steps match the ledger. Evidence is unchanged since intake.';r.style.color='#3ecf8e'}};
+document.getElementById('wbtn').onclick=()=>{const w=document.getElementById('why');w.style.display=w.style.display==='none'?'block':'none'};
+document.getElementById('cbtn').onclick=()=>{const c=document.getElementById('cert');document.getElementById('cd').textContent='14 Mar 2027, 11:20 IST';c.style.display=c.style.display==='none'?'block':'none'};
+</script></body></html>
