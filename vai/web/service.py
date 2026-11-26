@@ -66,6 +66,13 @@ class Service:
         for d in ("ledgers", "cases", "uploads", "archive", "reports", "verify"):
             (self.root / d).mkdir(parents=True, exist_ok=True)
         paths = demo_data.generate(self.root / "demo_evidence")
+        # Claude 0: prefer the real sample data from vai.evidence (Claude 1) when present
+        _repo = Path(__file__).resolve().parents[2] / "data" / "sample"
+        for _cid, _dir in (("FIR-1427-2027", "case_fir_1427"), ("DEMO-PUBLIC-02", "case_public")):
+            _real = sorted(str(f) for f in (_repo / _dir).glob("*")
+                           if f.is_file() and not f.name.startswith("_") and f.suffix != ".md")
+            if _real:
+                paths[_cid] = _real
         self.cases: dict[str, CaseState] = {}
         for cid, meta in demo_data.CASES.items():
             st = CaseState(id=cid, meta=meta, db=self.root / "ledgers" / f"{cid}.db", case=self._blank(cid))
